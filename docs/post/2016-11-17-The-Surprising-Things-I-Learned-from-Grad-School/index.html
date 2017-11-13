@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+<head>
+<title>Voyageur Technologique - The Surprising Things I Learned from Grad School</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="Voyageur Technologique">
+<meta name="generator" content="Hugo 0.18.1" />
+
+  
+  
+
+
+
+
+
+
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+
+
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
+<link rel="stylesheet" href="https://seanaubin.github.io/css/tufte.css">
+<link rel="stylesheet" href="https://seanaubin.github.io/css/hugo-tufte.css">
+<link rel="stylesheet" href="https://seanaubin.github.io/css/hugo-tufte-override.css">
+
+</head>
+
+
+<body>
+<div id="layout" class="pure-g">
+<article class="pure-u-1">
+<header class="brand">
+  <h1>Voyageur Technologique</h1>
+  <h2></h2>
+  <nav class="menu">
+    <ul>
+    
+    </ul>
+</nav>
+
+</header>
+
+<section>
+<h1 class="content-title">
+  
+  <a href="/post/2016-11-17-The-Surprising-Things-I-Learned-from-Grad-School/">The Surprising Things I Learned from Grad School</a>
+  
+</h1>
+
+
+
+  <span class="content-meta">
+    
+
+
+    
+      <i class="fa fa-calendar"></i>
+      &nbsp;Nov 17, 2016
+    
+
+    
+      &nbsp;<i class="fa fa-clock-o"></i>
+      &nbsp;6 min read
+    
+
+    
+      <br>
+      <i class="fa fa-tags"> </i>
+      
+        <a  href="https://seanaubin.github.io/categories/academia">Academia</a>
+      
+        <a  href="https://seanaubin.github.io/categories/academic-writing">Academic Writing</a>
+      
+        <a  href="https://seanaubin.github.io/categories/science">Science</a>
+      
+        <a  href="https://seanaubin.github.io/categories/software">Software</a>
+      
+        <a  href="https://seanaubin.github.io/categories/technology">Technology</a>
+      
+    
+  </span>
+
+
+</section>
+
+
+
+<section>
+
+<p>I’ve been in grad school for a year now, so I figured now was as good of a time to reflect as ever.</p>
+
+<p>I learned a lot of things I expected to learn, like how to write a paper, what’s the difference between a conference paper and a journal paper and how do you get grants to support your research.</p>
+
+<p>I also was totally blindsided by a lot of other things, which mostly fall into the categories “Computery Things” (because my lab develops a ton of software) and “Social Things”. If you only care about one of those categories, you can skip the other.</p>
+
+<hr />
+
+<h2 id="writing-good-code-is-non-trivial">Writing good code is non-trivial</h2>
+
+<p>I used to think I was a pretty good coder. I left comments and I tried not duplicate code everywhere. Then I start having code-reviews whenever I submitted code to our big software project Nengo, where my lab-mates reviewed everything I had written and made suggestion. These code-reviews have taught me so much in terms of habits, setups and intuition that I couldn’t have gotten anywhere else. This kind of scares me, because it means I have no idea how non-computery labs are supposed to get better. Post snippets of their code on <a href="http://codereview.stackexchange.com/">codereview.stackexchange.com</a>? Walk down the hall to the computer science department and force them to sit down with you?</p>
+
+<h2 id="dev-ops-is-foundational">Dev Ops is foundational</h2>
+
+<p>For any successful commercial software project to be able to evolve, <a href="http://www.joelonsoftware.com/articles/fog0000000043.html">the amount of time required for a new developer to get from interest to running code should be minimal</a>. Not only that, but you should be able to log bugs, automatically run minimal tests and be able to quickly get the most updated code. All of these things fall under the umbrella of “Dev Ops”.</p>
+
+<p>Dev Ops being important doesn’t stop being true when you’re a scientist writing scientific code, which is tragic because:</p>
+
+<ol>
+<li><p><strong>Dev Ops is freaking <em>hard</em>.</strong> You have to learn a bunch of different tools that haven’t been made non-hacker friendly yet. Travis-CI, whatever testing framework and builder your language uses (if it’s Matlab, good luck), and git (<em>shudder)</em> suddenly go from become things you’ve heard of to things you need to understand <em>right now</em>.</p></li>
+
+<li><p><strong>Dev Ops isn’t taught <em>anywhere</em>.</strong> Not in Software Carpentry, Coursera and definitely not at your institution, so you need to wrangle together a bunch of tutorials from the Internet and sacrifice a mouse to the computer gods.</p></li>
+</ol>
+
+<p>Given these obstacles, it’s not surprising to learn that Dev Ops in scientific code is practically unheard of, even in widely distributed and used libraries. Before my Master’s degree I would have shrugged it off has not being a major problem in science, but now <a href="https://bullshit.ist/why-im-an-open-source-nerd-an-apology-7d7a3e0e13e9#.f8rjqga4h">I scream in horror</a>.</p>
+
+<h2 id="centralized-documentation-is-life-support">Centralized documentation is life support</h2>
+
+<p>Having your documentation to your project somewhere online, where anyone can propose edits, is the only way your project’s docs will remain up to date and thus the only way your software will be able to proliferate and survive. Luckily, unlike everything else in this article, there’s tons of solutions to this! I just don’t know which one to recommend to absolute beginners… Leave a comment and I’ll update this section?</p>
+
+<h2 id="scientific-tooling-is-horrible">Scientific tooling is horrible</h2>
+
+<p>Part of keeping up with research is reading a lot of papers. I thought for sure there would be tools for this everywhere. A unified program (I use a bunch of separate ones) that lets you tag papers, then search through the tags and annotations. A website where you can subscribe to feeds on research you’re interested in (lots of those exist) and collaboratively comment (nope) on publications. <a href="https://www.youtube.com/watch?v=YuGVC8VqXz0&amp;list=WL&amp;index=45">Interactive drawing/coding tools</a> for making complex animated figures. A thriving StackExchange where researchers bounce ideas off each other and drive synthesis of new concepts. Nope. Instead you get ResearchGate, Twitter, Mendeley, Google Draw and spam.</p>
+
+<p>
+
+
+  
+    <figure >
+  
+
+
+
+  <label for="" class="margin-toggle">⊕</label>
+  <input type="checkbox" id="" class="margin-toggle">
+  <span class="marginnote">
+  
+
+  
+  Follow me on Twitter for more hilarious insights into why things are horrible.
+  
+  
+  
+
+  </span>
+
+
+  
+  <img src="/img/The-Surprising-Things-I-Learned-from-Grad-School_0.png" >
+  
+
+
+
+</figure>
+
+
+
+
+  </section>
+
+    
+</p>
+
+<hr />
+
+<h2 id="your-team-is-essential">Your team is essential</h2>
+
+<p>Lab-mates are important. I knew they were important, but I didn’t know just <em>how</em> important. Without my lab-mate Aaron, I would have never published my first paper. Without my lab-mate Terry, I would have never been able to determine the appropriate scope for my initial research for that paper. Without my lab-mate Trevor, I would have never learned how to write good scientific software.</p>
+
+<h2 id="communicating-concepts-is-excavation">Communicating concepts is excavation</h2>
+
+<p>I used to think of myself as a pretty good communicator. I even put it on my resume. However, this year all evidence that I had of that was utterly and irrevocably refuted. This year was the year I learned Non-Violent Communication, which taught me how to talk about emotions and has literally changed my life, but that’s a whole other blog post. This was also the year where I routinely needed to quickly grasp concepts and relate them to my current knowledge so I could remember the faint outline of their importance for later. This technical communication style did not come easily for me.</p>
+
+<p>Here’s are a few tricks I use when teaching or learning from other people.</p>
+
+<p><strong>Useful questions</strong></p>
+
+<ul>
+<li><p>What’s the last thing you understood?</p></li>
+
+<li><p>Can you say what I just said back to me, but using different words?</p></li>
+
+<li><p>What is the closest thing that you think you know to this concept?</p></li>
+
+<li><p>What do you mean by… ? What did you think I meant by… ?</p></li>
+</ul>
+
+<p><strong>When meeting with someone</strong></p>
+
+<ul>
+<li><p>Be specific about what you need from them: “I want your help deciding… ?”</p></li>
+
+<li><p>Make sure you both leave with the same conclusion: “What I’m going to remember from this is… ? Is this what you wanted me to remember?”</p></li>
+</ul>
+
+<p>The post-doc in my lab, Terry Stewart, has this down to an art form. To the point that I frequently like to watch him teach concepts to people just to see how he manoeuvres through their understanding like a hawk through a canyon.</p>
+
+<p>Admittedly, I still need to work on my similes and metaphors.</p>
+
+<h2 id="mathematical-notation-is-a-foreign-language">Mathematical notation is a foreign language</h2>
+
+<p>I currently have no idea how to communicate with mathematical concepts textually. I literally have to translate them from/to code. I learned this during my undergrad, where math made sense to me for the first time in my life after I learned how to program. However, I only realised serious it was this semester. I look at a sum and I think “Okay, a for-loop”. I see a chain of equations and I think “Where’s the source code?”</p>
+
+<p>Consequently, unless I’ve programmed something, like back-prop or the Neural Engineering Framework. I cannot say I truly understand it. This is a bit problematic at the moment, given my immense confusion with the following things which I need to rectify in the next 7 months and I’m not sure they’re easy to code:</p>
+
+<ul>
+<li><p>Partially Observable Markov Decision Processes. What are those things?</p></li>
+
+<li><p>How do Restricted Boltzmann Machines use Monte-Carlo Markov-Chains to optimise themselves?</p></li>
+
+<li><p>Why is sensor fusion still such a big, open topic?</p></li>
+</ul>
+
+<p>Wish me luck.</p>
+</section>
+<section>
+  
+
+  <footer class="page-footer">
+		<hr>
+		<ul class="page-footer-menu">
+		
+		</ul>
+
+  
+
+	<div class="copyright">
+	<p>
+    
+      &copy; 2017
+    .
+    All rights reserved.
+    
+  </p>
+</div>
+</footer>
+
+
+
+</section>
+</article>
+</div>
+</body>
+</html>

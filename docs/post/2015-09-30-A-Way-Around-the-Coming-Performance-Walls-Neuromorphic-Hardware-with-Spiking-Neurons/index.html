@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+<head>
+<title>Voyageur Technologique - A Way Around the Coming Performance Walls: Neuromorphic Hardware with Spiking Neurons</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="Voyageur Technologique">
+<meta name="generator" content="Hugo 0.18.1" />
+
+  
+  
+
+
+
+
+
+
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+
+
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
+<link rel="stylesheet" href="https://seanaubin.github.io/css/tufte.css">
+<link rel="stylesheet" href="https://seanaubin.github.io/css/hugo-tufte.css">
+<link rel="stylesheet" href="https://seanaubin.github.io/css/hugo-tufte-override.css">
+
+</head>
+
+
+<body>
+<div id="layout" class="pure-g">
+<article class="pure-u-1">
+<header class="brand">
+  <h1>Voyageur Technologique</h1>
+  <h2></h2>
+  <nav class="menu">
+    <ul>
+    
+    </ul>
+</nav>
+
+</header>
+
+<section>
+<h1 class="content-title">
+  
+  <a href="/post/2015-09-30-A-Way-Around-the-Coming-Performance-Walls-Neuromorphic-Hardware-with-Spiking-Neurons/">A Way Around the Coming Performance Walls: Neuromorphic Hardware with Spiking Neurons</a>
+  
+</h1>
+
+
+
+  <span class="content-meta">
+    
+
+
+    
+      <i class="fa fa-calendar"></i>
+      &nbsp;Sep 30, 2015
+    
+
+    
+      &nbsp;<i class="fa fa-clock-o"></i>
+      &nbsp;6 min read
+    
+
+    
+      <br>
+      <i class="fa fa-tags"> </i>
+      
+        <a  href="https://seanaubin.github.io/categories/artificial-intelligence">Artificial Intelligence</a>
+      
+        <a  href="https://seanaubin.github.io/categories/neuromophic-hardware">Neuromophic Hardware</a>
+      
+        <a  href="https://seanaubin.github.io/categories/neural-networks">Neural Networks</a>
+      
+    
+  </span>
+
+
+</section>
+
+
+
+<section>
+
+<p><em>[epistemic status: I work in a lab focused on computations with neurons, so I&rsquo;m probably a little biased.]</em></p>
+
+<p>Back in the day, when writing computing programs, you could always take comfort that even if your code had (non-exponential) bad performance Moore’s law would eventually save you from yourself.</p>
+
+<p>This isn&rsquo;t very true anymore. There are two coming performance walls coming to hit us. Worse still, there’s another wall one we’re already suffering from!</p>
+
+<p>In this article, I’ll describe what these walls are, why they are such a problem and how neuromorphic hardware, especially those that work with spiking neurons, can offer a partial solution. I’ll also give a quick overview of the neuromorphic hardware my lab is developing as best as I understand it.</p>
+
+<h2 id="moore-s-law-amdahl-s-law-and-the-energy-efficiency-wall">Moore’s Law, Amdahl’s Law and the Energy Efficiency Wall</h2>
+
+<p>Moore’s law is the idea that the transistor density of a chip doubles every two years, which means faster computers. However, what’s this has translated into for the last few years is pretty massively parallel architectures with a bunch of cores, because improving single core performance has hit a bit of a ceiling. So instead of super fast single processors, our processors have ridiculous amounts of sub-processors and we’re now looking to co-processors, like the GPU, for even further acceleration.</p>
+
+<p>This means that now, more than ever, any code that you’re running serially instead of in parallel is going to be the bottle-neck. This is Amdahl’s law and it’s scary, because writing and compiling parallel code is hard.</p>
+
+<p>But maybe we’ll get really good at writing parallel code? Unfortunately, we can’t even rely on Moore’s law to keep up. Moore’s law is ending for a wide variety of reasons including <a href="http://www.economist.com/blogs/economist-explains/2015/04/economist-explains-17">economic</a> and <a href="http://arstechnica.com/science/2014/08/are-processors-pushing-up-against-the-limits-of-physics/">physical</a>, but worse still if we keep building processors as we traditionally do (this is called the Von Neumann architecture) we’re going to keep consuming more power.</p>
+
+<p>When I say the aforementioned traditional processors and their parallel co-processing brethren are power hungry, I&rsquo;m talking specifically about how much power each calculation takes. It doesn&rsquo;t look like it’s going to get any better any time soon. As you can see in the figure below, despite the fabrication process becoming more and more advanced over time (progressing from 130nm to ever smaller resolutions), the energy efficiency of their calculations isn&rsquo;t increasing proportionately and we’re reaching an upper bound. This is called the Energy Efficiency Wall.</p>
+
+<p>
+
+
+  
+    <figure >
+  
+
+
+
+  <label for="" class="margin-toggle">⊕</label>
+  <input type="checkbox" id="" class="margin-toggle">
+  <span class="marginnote">
+  
+
+  
+  Taken from [Finding a roadmap to achieve large scale neuromorphic systems](http://users.ece.gatech.edu/~phasler/Roadmap_paper_Hasler_2013.pdf). Thanks for the link Terry!
+  
+  
+  
+
+  </span>
+
+
+  
+  <img src="/img/A-Way-Around-the-Coming-Performance-Walls-Neuromorphic-Hardware-with-Spiking-Neurons_0.png" >
+  
+
+
+
+</figure>
+
+
+
+
+  </section>
+
+    
+</p>
+
+<h2 id="neuromorphic-hardware">Neuromorphic Hardware</h2>
+
+<p>One of the hopeful new technologies that might lead us around the performance walls is neuromorphic hardware. Neuromorphic hardware is currently an exploding field, which is cool, but also super confusing. Basically, the idea is to make something like a neuron in silicon, because neurons are cool. I&rsquo;m not being facetious here, the applicability of modern neuromorphic hardware is super variable. Ranging from TrueNorth, which can used trained (back-prop or RBM) feed-forward artificial neural networks, to Standfords Neurogrid, which used analogue neurons for biologically focused experiments. And then there’s <a href="http://higherintelligencebook.com/">this guy</a>, who seems to at least have the marketing angle mastered?</p>
+
+<p>One of the consistent optimizations that are happening across all these architectures, is that the memory is being placed closer to the processing unit. Like really close. Like chip-design level beside each other close. This saves a lot of power and a lot of time. So problem solved right? Except, now you have to be able to program these things. There’s a lot of interesting ideas around this. <a href="http://www.infoq.com/presentations/power-144-chip">Some people think you’re just going to need to use the same old programming languages, but just use them more carefully.</a> My lab thinks that a whole new approach is necessary using spiking neural networks that we design with Nengo.</p>
+
+<h2 id="spiking-neurons-and-nengo">Spiking Neurons and Nengo</h2>
+
+<p>Nengo lets you compute in spiking neurons. Neuron groups approximate functions with non-linear encoders and linear decoders. Basically, thanks to neuroscience my lab’s figured out a way to go from the outside world to the distributed spiking world of neurons.</p>
+
+<p>Encoders mean the non-linear weighted input into a neuron. This means neurons have a preferred direction that means they fire more when something that they are “tuned” for comes in. Notice in the GIF below that only certain neurons fire for certain directions, as indicated by the arrow direction in their grey circle.</p>
+
+<p>
+
+
+  
+    <figure >
+  
+
+
+
+  <label for="" class="margin-toggle">⊕</label>
+  <input type="checkbox" id="" class="margin-toggle">
+  <span class="marginnote">
+  
+
+  
+  All GIFs courtesy of Xuan Choo.
+  
+  
+  
+
+  </span>
+
+
+  
+  <img src="/img/A-Way-Around-the-Coming-Performance-Walls-Neuromorphic-Hardware-with-Spiking-Neurons_1.gif" >
+  
+
+
+
+</figure>
+
+
+
+
+  </section>
+
+    
+</p>
+
+<p>To get back out of the distributed neuron world, all we need is decoders. Decoders are linear weights on the output of a neuron that get summed together to either recreate the original signal (the top circle) or an arbitrary non-linear function (the bottom figure-eight).</p>
+
+<p>
+
+
+  
+    <figure >
+  
+
+
+
+  <label for="" class="margin-toggle">⊕</label>
+  <input type="checkbox" id="" class="margin-toggle">
+  <span class="marginnote">
+  
+
+  
+  
+  
+  
+  
+
+  </span>
+
+
+  
+  <img src="/img/A-Way-Around-the-Coming-Performance-Walls-Neuromorphic-Hardware-with-Spiking-Neurons_2.gif" >
+  
+
+
+
+</figure>
+
+
+
+
+  </section>
+
+    
+</p>
+
+<p>You can even chain decoders and encoders together to get the equivalent to a traditional all-neurons-interconnected neural network. Basically, you get all the benefits of neural networks without having to save a whole darn weight matrix.</p>
+
+<p>
+
+
+  
+    <figure >
+  
+
+
+
+  <label for="" class="margin-toggle">⊕</label>
+  <input type="checkbox" id="" class="margin-toggle">
+  <span class="marginnote">
+  
+
+  
+  
+  
+  
+  
+
+  </span>
+
+
+  
+  <img src="/img/A-Way-Around-the-Coming-Performance-Walls-Neuromorphic-Hardware-with-Spiking-Neurons_3.png" >
+  
+
+
+
+</figure>
+
+
+
+
+  </section>
+
+    
+</p>
+
+<p>
+
+
+  
+    <figure >
+  
+
+
+
+  <label for="" class="margin-toggle">⊕</label>
+  <input type="checkbox" id="" class="margin-toggle">
+  <span class="marginnote">
+  
+
+  
+  
+  
+  
+  
+
+  </span>
+
+
+  
+  <img src="/img/A-Way-Around-the-Coming-Performance-Walls-Neuromorphic-Hardware-with-Spiking-Neurons_4.png" >
+  
+
+
+
+</figure>
+
+
+
+
+  </section>
+
+    
+</p>
+
+<p>With Nengo you can also do symbol-like and dynamic processing, as well as learning (both self-organising and error-driven) and combined all together you can build Spaun, the world’s largest functioning brain model. However, to explain all that stuff <a href="http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0190262125">would take a book</a>. All you need to know, is that Nengo let’s you define models of human-like behaviour in spiking neurons. A spiking neuron computational core allows for distributed (lots of neurons), asynchronous and parallel (neurons don’t wait) computing.</p>
+
+<p>By the way, if you want non-GIF based, mathematical and methodical explanation of all this, check out <a href="http://compneuro.uwaterloo.ca/research/syde-750.html">the course notes to SYDE750</a> which covers all of this. If you want more of an “explorable explanation” type of thing, check out the <a href="https://github.com/nengo/nengo_gu">Nengo GUI</a> and work through the examples included.</p>
+
+<h2 id="spiking-neuromorphic-hardware">Spiking Neuromorphic Hardware</h2>
+
+<p>Brainstorm is a chip being built by Stanford and my lab right now that harnesses all the things talked about in the last section. It uses analogue spiking neurons which have a few exciting benefits that results in a much lower power consumption for computation.</p>
+
+<p>Firstly, a digital computer spends a lot of energy making sure it’s binary signals of “off” and “on” are never confused. As seen in the GIFs, analogue neurons distribute representation across neurons, so the accuracy doesn&rsquo;t come from a single component, but from all the components working together.</p>
+
+<p>Secondly, the hardware is completely asynchronous, just like the brain, which means low power and fast computational speeds.</p>
+
+<p>To review, let’s contrast the development process of Nengo models and traditional software.</p>
+
+<p>
+
+
+  
+    <figure >
+  
+
+
+
+  <label for="" class="margin-toggle">⊕</label>
+  <input type="checkbox" id="" class="margin-toggle">
+  <span class="marginnote">
+  
+
+  
+  
+  
+  
+  
+
+  </span>
+
+
+  
+  <img src="/img/A-Way-Around-the-Coming-Performance-Walls-Neuromorphic-Hardware-with-Spiking-Neurons_5.png" >
+  
+
+
+
+</figure>
+
+
+
+
+  </section>
+
+    
+</p>
+
+<h2 id="problem-solved">Problem Solved?</h2>
+
+<p>In the end, I don’t think the Nengo is the “right” approach to the future of neuromorphic hardware, it’s just one of the first ones. Just like it’s the first one to make a guess at what computations the brain can do. For now, I&rsquo;m happy to ride the thrilling wave of being first and I’ll be ecstatic when something else surpasses us.</p>
+
+<p>I should also be clear that I don’t expect neuromorphic hardware to be the drop-in replacement of traditional computing hardware, at least not for a long time. I consider it more as an ambitious co-processor, to help out with things like control systems, computer vision and other tasks that humans excel at.</p>
+
+<p><em>If you liked this article and want to read more of my brain science posts, consider</em> <a href="https://uwaterloo.us15.list-manage.com/subscribe?u=d5612fe997cc72aac70c4ffe9&amp;id=76226838bc"><em>subscribing to my mailing list</em></a><em>.</em></p>
+</section>
+<section>
+  
+
+  <footer class="page-footer">
+		<hr>
+		<ul class="page-footer-menu">
+		
+		</ul>
+
+  
+
+	<div class="copyright">
+	<p>
+    
+      &copy; 2017
+    .
+    All rights reserved.
+    
+  </p>
+</div>
+</footer>
+
+
+
+</section>
+</article>
+</div>
+</body>
+</html>

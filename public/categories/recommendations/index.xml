@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommendations on Voyageur Technologique</title>
+    <link>http://example.org/categories/recommendations/index.xml</link>
+    <description>Recent content in Recommendations on Voyageur Technologique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://example.org/categories/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>List: Tools I love and hate</title>
+      <link>http://example.org/post/2017-04-16-List-Tools-I-love-and-hate/</link>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2017-04-16-List-Tools-I-love-and-hate/</guid>
+      <description>
+
+&lt;p&gt;No one wants to read a series of blog posts about the various tools I use on a daily basis and how I feel about them. But maybe someone wants to read one blog post? Here it is in one place.&lt;/p&gt;
+
+&lt;h2 id=&#34;love&#34;&gt;Love&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Bandcamp&lt;/strong&gt; You let me buy and download music for all my favourite artists and then you get the hell out of my way.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MindMup&lt;/strong&gt; You’re still the only mind-mapping solution that works for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TagSpaces&lt;/strong&gt; You make my research make sense.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pocket&lt;/strong&gt; Thanks for helping me realize that most articles I think I want to read, I actually only want to read at the time because I’m bored.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CamScanner&lt;/strong&gt; When just signing a PDF isn’t acceptable, you enable me to not going on a hunt for someone who still owns a printer/scanner.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TrulyErgonomic Keyboard&lt;/strong&gt; The gateway drug of ergonomic keyboards.&lt;/p&gt;
+
+&lt;h2 id=&#34;hate&#34;&gt;Hate&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Android&lt;/strong&gt; Who do I have to kill to get a phone that is regularly updated? Also, can we please get a &lt;a href=&#34;https://blog.cryptographyengineering.com/2016/11/24/android-n-encryption/&#34;&gt;secure system&lt;/a&gt; with the next version?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Itunes&lt;/strong&gt; I don’t need you to sync, I need you to let me drop in a folder into my file-system and for you to discover it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ubuntu&lt;/strong&gt; Why the hell do I have to download a package to get sane power management.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Windows&lt;/strong&gt; I know you’re super-secure and you’re still the OS I trust my grandfather with, but you’ve made it impossible to move a window between virtual desktops with a keyboard shortcut. For this I will never forgive you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PDFs&lt;/strong&gt; I know why you exist, but it doesn’t make me hate you any less. You make me have to use other tools like pdfgrep just to search through you and you’re stunting the progress of scientific communication.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

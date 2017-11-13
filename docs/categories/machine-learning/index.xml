@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Voyageur Technologique</title>
+    <link>https://seanaubin.github.io/categories/machine-learning/index.xml</link>
+    <description>Recent content in Machine Learning on Voyageur Technologique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://seanaubin.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deep Learning is almost the brain</title>
+      <link>https://seanaubin.github.io/post/2017-01-09-Deep-Learning-is-almost-the-brain/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanaubin.github.io/post/2017-01-09-Deep-Learning-is-almost-the-brain/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;[epistemic status: an update on a&lt;/em&gt; &lt;a href=&#34;https://hackernoon.com/deep-learning-isnt-the-brain-e1d800ebb5a9#.qkv2fs6ah&#34;&gt;&lt;em&gt;previous position&lt;/em&gt;&lt;/a&gt; &lt;em&gt;as a result of discussion with people smarter than me]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;People emailed me and I read their stuff! As I predicted, I was sometimes horribly wrong and often too simplistic.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  It currently has 800 views, which is 10 times more than my usual readership.
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;https://seanaubin.github.io/img/Deep-Learning-is-almost-the-brain_0.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;Below is an update/clarification on my positions.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;some-form-of-back-prop-could-be-biologically-plausible&#34;&gt;Some form of back-prop could be biologically plausible&lt;/h2&gt;
+
+&lt;p&gt;There is &lt;a href=&#34;http://cogsci.stackexchange.com/q/16269/4397&#34;&gt;a ton of work&lt;/a&gt; on biologically plausible back-prop and it was really unfair of me to dismiss them all in one paragraph. That being said, I’m still sceptical of the various implementations, due to the fact they seem to exist in isolation of each other and I can’t find any of their code anywhere (except for “&lt;a href=&#34;https://arxiv.org/abs/1610.00161&#34;&gt;Deep learning with segregated dendrites&lt;/a&gt;”) so I can evaluate them.&lt;/p&gt;
+
+&lt;h2 id=&#34;against-theoretical-isolation-a-manifesto&#34;&gt;Against theoretical isolation: a manifesto&lt;/h2&gt;
+
+&lt;p&gt;My new, much better informed position on DL is that I wish it didn’t exist in such isolation. &lt;a href=&#34;https://medium.com/@seanaubin/understanding-the-brain-where-metaphors-limit-you-13d5d5fbdc57#.9fw8ikmog&#34;&gt;As I’ve written before&lt;/a&gt;, I think a promising line of research is integrating it with other approaches to cognitive modelling. If there was some way it was possible to move up and down the ladder of abstraction with DL, I would consider it a much better analogy for neural computation. Additionally, this would resolve the other weaker arguments (about DL not leveraging biological details, the limitations of current neuromorphic hardware and the lack of spike use in learning) from my previous post. Finally, this would also allow for the leveraging of the powerful developmental explanations allowed by DL by other cognitive modelling paradigms.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  The Cognitive Modelling [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/). ([image source](https://docs.google.com/drawings/d/1mknlMUpnFzRXpb3L_dt-x8hxYK42b1pxlNfYstDH8uc/edit?usp=sharing))
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;https://seanaubin.github.io/img/Deep-Learning-is-almost-the-brain_0.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;I realise this is a purely philosophical position about what a good future for cognitive modelling looks like. I’m sure there are detractors who consider it unnecessary to connect to different approaches via biology. However I feel like a lack of synthesis can lead to overly complicated, unscalable models. For example, &lt;a href=&#34;http://compneuro.uwaterloo.ca/publications/crawford2015.html&#34;&gt;Eric Crawford’s model of knowledge representation&lt;/a&gt;, which demonstrated how using symbols and neurons allows for much more scalable model than a purely neural approach. Alternatively, consider &lt;a href=&#34;http://science.sciencemag.org/content/338/6111/1202&#34;&gt;Spaun&lt;/a&gt;. It is only able to perform many tasks and generate many predictions as a result of mixing different approaches which would only be possible with a much greater increase in complexity. However these are feelings, not facts.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  ([source](https://twitter.com/umruehren/status/816665138161799168))
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;https://seanaubin.github.io/img/Deep-Learning-is-almost-the-brain_1.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;The only way I can see my philosophy can be proved wrong is if cognitive modelling advances without consulting biology. In which case I will abandon my pretences and join everyone in the realm of pure mathematics. Until then I’ll keep trying to build my ladder.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This philosophical approach isn’t easy and I’m sure others have attempted this. I’m just not clear on why the other attempts failed. Is it a &lt;a href=&#34;https://medium.com/@seanaubin/the-surprising-things-i-learned-from-grad-school-8a0efd458ae0#.94hfg15yq&#34;&gt;lack of reproducible computational experiments due to various problems&lt;/a&gt;? Or was it just too difficult until now? I look forward to working to find out.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you liked this article and want to read more of my brain science posts, consider&lt;/em&gt; &lt;a href=&#34;https://uwaterloo.us15.list-manage.com/subscribe?u=d5612fe997cc72aac70c4ffe9&amp;amp;id=76226838bc&#34;&gt;&lt;em&gt;subscribing to my mailing list&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning isn’t the brain</title>
+      <link>https://seanaubin.github.io/post/2016-11-17-Deep-Learning-isn-t-the-brain/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanaubin.github.io/post/2016-11-17-Deep-Learning-isn-t-the-brain/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;[epistemic status: I work in a lab dedicated to biologically plausible neural circuits, so I’m informed on the problem, but probably still biased. There’s probably going be a follow-up post to this once I get a bunch of rebuttals from people smarter than me.]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Update:&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;As expected, I got a bunch of rebuttals and have&lt;/em&gt; &lt;a href=&#34;https://medium.com/@seanaubin/deep-learning-is-almost-the-brain-3aaecd924f3d&#34;&gt;&lt;em&gt;adjusted my position accordingly&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I keep seeing &lt;a href=&#34;http://biorxiv.org/content/biorxiv/early/2016/08/23/071076.full.pdf&#34;&gt;academic&lt;/a&gt; and &lt;a href=&#34;http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/&#34;&gt;non-academic articles&lt;/a&gt; comparing Deep Learning (DL) and the brain. This offends my sensibilities a bit, because although there are &lt;a href=&#34;http://compneuro.uwaterloo.ca/publications/sharma2016b.html&#34;&gt;many&lt;/a&gt; &lt;a href=&#34;http://www.pnas.org/content/111/23/8619.abstract&#34;&gt;results&lt;/a&gt; from DL that resembles certain areas of the brain, DL is not a good overall description of the brain. DL explicitly passes the buck on biological plausibility (like almost every other cognitive modelling approach) and implies that it’s “neurons” can be implemented biologically, it’s just that no one has bothered yet. I think the problem goes much deeper and that DL is missing a lot of the key features of the brain, which makes it a poor analogical target.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;the-brain-is-low-power&#34;&gt;The brain is low power&lt;/h4&gt;
+
+&lt;p&gt;DL is power hungry. Alpha GO consumed the power of &lt;a href=&#34;https://www.tastehit.com/blog/google-deepmind-alphago-how-it-works/&#34;&gt;1202 CPUs and 176 GPUs&lt;/a&gt;, not to train, but &lt;em&gt;just to run&lt;/em&gt;. The &lt;a href=&#34;https://cloudplatform.googleblog.com/2016/05/Google-supercharges-machine-learning-tasks-with-custom-chip.html&#34;&gt;TenserFlow Processing Unit&lt;/a&gt; is an attempt to satiate this hunger, but it’s still not even close to the &lt;a href=&#34;http://cogsci.stackexchange.com/q/12750/4397&#34;&gt;brain’s power consumption of 20W&lt;/a&gt;. IBM’s TrueNorth chip is another example of trying to bring low-power computation, but &lt;a href=&#34;https://medium.com/@seanaubin/a-way-around-the-coming-performance-walls-neuromorphic-hardware-with-spiking-neurons-facd4291b201#.86xjo9oyf&#34;&gt;it’s capabilities are quite limited when compared to other Neuromorphic hardware&lt;/a&gt;. Specifically, True North only implements feed-forward networks and has no on-chip learning.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-brain-can-t-do-back-prop&#34;&gt;The brain can’t do back-prop&lt;/h4&gt;
+
+&lt;p&gt;Back-propagation is the foundation of all DL. Although there is evidence that errors being propagated through multiple layers is happening in the brain, no one has come up with a method for back-propagation (back-prop)that doesn’t rely on information propagating backwards through unidirectional synapses. I personally think it’s only a matter of time before a biologically plausible method is discovered, but until then it is unwise to ignore the implementation details and the restrictions it might place on what can be learned.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-brain-uses-spikes-to-communicate&#34;&gt;The brain uses spikes to communicate&lt;/h4&gt;
+
+&lt;p&gt;Although it is possible to &lt;a href=&#34;https://arxiv.org/abs/1510.08829&#34;&gt;convert DL networks into spiking neurons for use on neuromorphic hardware&lt;/a&gt;, these spikes are not leveraged for specific computational advantages. As far as I know (and I still have some reading to do), spiking computation has yet to be used anywhere for the learning in DL.&lt;/p&gt;
+
+&lt;h4 id=&#34;neurotransmitters-aren-t-just-spike-transporters-and-neurons-aren-t-just-spike-machines&#34;&gt;Neurotransmitters aren’t just spike transporters and neurons aren’t just spike-machines&lt;/h4&gt;
+
+&lt;p&gt;DL completely ignores the role of neurotransmitters. However, neurotransmitters have been shown to be computationally significant in adapting the receptive features networks on the fly, something which DL has really hard time doing.&lt;/p&gt;
+
+&lt;h4 id=&#34;the-brain-is-noisy&#34;&gt;The brain is noisy&lt;/h4&gt;
+
+&lt;p&gt;Given the choice between neuron redundancy and neuron performance, evolution chose to make the brain redundant. &lt;a href=&#34;http://icwww.epfl.ch/~gerstner/SPNM/node33.html&#34;&gt;Neurons are noisy&lt;/a&gt;, which isn’t surprising when you consider the warm, biologically variable environment they’re in. Although certain DL networks can cope with loss of their nodes, DL isn’t known for it’s robustness to noisy input or noisy training data.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In conclusion, there are a lot of features of the brain that DL is omitting, thus using DL as an analogy for neural circuitry isn’t ideal. The alternative to comparing with DL is using a modelling paradigm that takes these challenges into account. At the time of writing, the only approach I know of is the Neural Engineering Framework (NEF) from the laboratory I belong to, but I’m sure as research marches forward other frameworks will emerge.&lt;/p&gt;
+
+&lt;p&gt;“But Sean,” you cry with a gleam of mischief in your eye, “don’t most NEF models from the lab you belong to suffer from the same problems as DL? The models usually stop at LIF neurons, which aren’t realistic neurons at all! Why don’t you use more complex neuron models, i.e. things like &lt;a href=&#34;http://pub.ist.ac.at/Pubs/courses/AY1314/MolandCellNeuro_S14/files/Stuart%20et%20al_Dendrites_Chapter16.pdf&#34;&gt;dendritic computation&lt;/a&gt;, multi-compartmental neurons, &lt;a href=&#34;http://www.cell.com/trends/immunology/abstract/S1471-4906%2815%2900200-8&#34;&gt;glial cells&lt;/a&gt; and neurogenesis?”&lt;/p&gt;
+
+&lt;p&gt;That’s a work in progress. There are 2 people (&lt;a href=&#34;http://compneuro.uwaterloo.ca/people/aaron-russell-voelker.html&#34;&gt;Aaron Voelker&lt;/a&gt; and &lt;a href=&#34;http://compneuro.uwaterloo.ca/people/peter-duggins.html&#34;&gt;Peter Duggins&lt;/a&gt;) of the 16-strong &lt;a href=&#34;http://compneuro.uwaterloo.ca/index.html&#34;&gt;Computation Neuroscience Research Group&lt;/a&gt; (CNRG) that I belong to who are working on the problem of more complex neuron models. &lt;a href=&#34;http://compneuro.uwaterloo.ca/people/eric-hunsberger.html&#34;&gt;Eric Hunsberger&lt;/a&gt; is working on biologically plausible back-prop and the moment he has a break-through you can be sure I’ll be shoving it in everyone’s face.&lt;/p&gt;
+
+&lt;p&gt;As for neurogenesis, There’s no good computational model of what neurogenesis does and the CNRG lacks the resources to do that sort of basic research. Dendritic and glial cell computation has no one working on it, because we’re only 16 people. If that bothers you, maybe you want to join us?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networks on Voyageur Technologique</title>
+    <link>https://seanaubin.github.io/categories/networks/index.xml</link>
+    <description>Recent content in Networks on Voyageur Technologique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://seanaubin.github.io/categories/networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Nefarious Interconnectedness of Well-being</title>
+      <link>https://seanaubin.github.io/post/2016-11-24-The-Nefarious-Interconnectedness-of-Well-being/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanaubin.github.io/post/2016-11-24-The-Nefarious-Interconnectedness-of-Well-being/</guid>
+      <description>&lt;p&gt;&lt;em&gt;[epistemic status: probably the cheesiest thing I’ve ever written and has probably been said better elsewhere]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The health center at the University of Waterloo has a bunch of workshops on dealing with stress. These are helpful workshops. The advice is pretty standard. Sleep, eat and exercise. Use Cognitive Behaviour Therapy to deal with unhelpful thought patterns. If you’ve got weird brain things going on, take some medication. However, the implementation details of these healthy habits aren’t given. This makes sense, because they’re super specific to the person, but it does give a person some weird expectations.&lt;/p&gt;
+
+&lt;p&gt;It’s also awkward to describe how interconnected all of these things are. You would be forgiven for thinking the progress towards a better life is linear:&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  Why yes, graphic design is my passion. How did you know?
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;https://seanaubin.github.io/img/The-Nefarious-Interconnectedness-of-Well-being_0.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;Instead, you usually get something that looks like this:&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  Google Draw. Functional enough to get things done. Ugly enough that I wished I learned to use something else.
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;https://seanaubin.github.io/img/The-Nefarious-Interconnectedness-of-Well-being_1.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;Because instead of the progress on these things looking like a bunch of parallel branches:&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  Look at all those nodes working together!
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;https://seanaubin.github.io/img/The-Nefarious-Interconnectedness-of-Well-being_2.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;You get some cluster-muffin like this:&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  Oh noes. What happened nodes?
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;https://seanaubin.github.io/img/The-Nefarious-Interconnectedness-of-Well-being_3.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;If you’re lucky, there are solutions to all these things can be supported with a community that help you commit to the incremental process, but if you’re not as lucky you might get stuck.&lt;/p&gt;
+
+&lt;p&gt;I’m not the only person thinking about this. &lt;a href=&#34;http://www.clinicalneuropsychiatry.org/pdf/borsbooml.pdf&#34;&gt;Some clinicians&lt;/a&gt; think focusing treatment around a network of symptoms instead of a single diagnosis could lead to better treatment. I’m not a clinician, so I’m sure as hell not going to comment on the validity of that strategy.&lt;/p&gt;
+
+&lt;p&gt;I don’t know what the solution for this is. Managing food is getting easier, thanks to things like Soylent. I think &lt;a href=&#34;https://uwaterloo.ca/campus-wellness/counselling-services/uw-mates-peer-counselling&#34;&gt;Mates&lt;/a&gt; and &lt;a href=&#34;https://www.7cups.com/&#34;&gt;7 Cups&lt;/a&gt; are trying to work towards students helping students so that everyone has a good community. Mostly, I just wanted to put this message out there, based on the belief that realistic expectations are beneficial.&lt;/p&gt;
+
+&lt;p&gt;Recovery and coping is neither a uniform, nor a linear progression. Don’t expect it to be.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you liked this article and want to read more about psychological research and therapy, consider&lt;/em&gt; &lt;a href=&#34;https://uwaterloo.us15.list-manage.com/subscribe?u=d5612fe997cc72aac70c4ffe9&amp;amp;id=76226838bc&#34;&gt;&lt;em&gt;subscribing to my mailing list&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

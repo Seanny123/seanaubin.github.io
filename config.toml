@@ -1,0 +1,5 @@
+baseurl = "https://seanaubin.github.io/"
+languageCode = "en-us"
+title = "Voyageur Technologique"
+theme = "hugo-tufte"
+publishDir = "docs"

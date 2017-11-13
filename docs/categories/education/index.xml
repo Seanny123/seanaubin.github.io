@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Voyageur Technologique</title>
+    <link>https://seanaubin.github.io/categories/education/index.xml</link>
+    <description>Recent content in Education on Voyageur Technologique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://seanaubin.github.io/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Value of Thinking Programmatically: Another Apology</title>
+      <link>https://seanaubin.github.io/post/2016-12-02-The-Value-of-Thinking-Programmatically-Another-Apology/</link>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanaubin.github.io/post/2016-12-02-The-Value-of-Thinking-Programmatically-Another-Apology/</guid>
+      <description>&lt;p&gt;&lt;em&gt;[epistemic status: an explainer for why people are excited about kids learning programming for people who don’t know programming. Probably&lt;/em&gt; &lt;a href=&#34;https://medium.com/humane-tech/its-more-than-just-teach-kids-to-code-177fd6cb7184#.82ep4vtvy&#34;&gt;&lt;em&gt;written about elsewhere more eloquently&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Sometimes listen to podcasts when I’m doing boring programming. The other day I was &lt;a href=&#34;https://www.youtube.com/watch?v=upsQwlVunVw&amp;amp;list=PLV_qemO0oatjBdU5rfC8-gM9t4Trgwg9n&amp;amp;index=5&#34;&gt;listening to a podcast of people describing their first computer experiences&lt;/a&gt;. They talked about having a room at school full of Macintoshes with Hypercard loaded on them, but those computers being rarely used and then carted away before being replace by some other machine without an interface for a usable introduction to thinking programmatically.&lt;/p&gt;
+
+&lt;p&gt;It made me realize that for the last 25 years, we’ve had computer capable of teaching kids to program cool things and yet we’ve hardly ever used them. This made me really sad.&lt;/p&gt;
+
+&lt;p&gt;Then I remembered that I had recently visited my old High School where I literally ended up &lt;em&gt;begging&lt;/em&gt; the computer science teacher to let me design a curriculum for him. The students were progressing through CSS and HTML (alright, that’s an okay to leave the world of What You See Is What You Get), onto Visual Basic (What) and Java (WHAT). They could learn JavaScript! There was Chrome installed on those computers! Those are basically IDEs for JavaScript! There’s &lt;a href=&#34;https://codepen.io/&#34;&gt;tons&lt;/a&gt; &lt;a href=&#34;https://jsfiddle.net/&#34;&gt;of&lt;/a&gt; &lt;a href=&#34;http://www.pythontutor.com/javascript.html#mode=edit&#34;&gt;websites&lt;/a&gt; for live-coding with JavaScript! THEY WOULD NEVER HAVE TO HIT COMPILE. THEY ALREADY KNEW HTML AND CSS. Remembering this made me even sadder.&lt;/p&gt;
+
+&lt;p&gt;And then I thought about how this probably wasn’t an isolated case. Hell, I recently wrote an “Introduction to Twitter” manual for teachers, even though Twitter is literally just public email with a character limit. There’s no way anyone had bothered to show them Google’s (flawed, but ambitious) “&lt;a href=&#34;https://www.cs-first.com/en/why-cs&#34;&gt;CS First&lt;/a&gt;” and they thought anything but “Computers are scary”. That brought me to the edge of tears at the feeling of helplessness in the face of 25 years of wasted money and time.&lt;/p&gt;
+
+&lt;p&gt;It was at this point that I went for a walk to calm myself down.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The reason I’m so obsessed with and excessively emotional about teaching kids to think programmatically, is that before I knew how to program, I literally &lt;em&gt;did not understand math&lt;/em&gt;. I passed math and physics courses by memorizing the solution steps required and regurgitating them onto a page.&lt;/p&gt;
+
+&lt;p&gt;Once I was taught to program in my first year of university, I understood that algorithms are just a description of the steps you used to solve a problem. These steps involved math, because math is how you describe relations between things. Math describing shapes was called geometry. Math describing relations between shapes, so you could manipulate them, was called vectorial algebra. Math describing relations between physical objects in the real world was called mechanical physics. Sums were just for-loops, functions were just ways of wrapping a series of one or more operations and plots were just tools to help you see what your math was doing. I had found the &lt;a href=&#34;http://worrydream.com/LadderOfAbstraction/&#34;&gt;Ladder of Abstraction&lt;/a&gt; along with the &lt;a href=&#34;https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms&#34;&gt;method of Divide and Conquer&lt;/a&gt; and it was beautiful.&lt;/p&gt;
+
+&lt;p&gt;When I had revisited my old High School, I did a horribly thought-out presentation on my research. At one point I showed a displayed showing how neurons computed functions. A student exclaimed in horror: “NOT PLOTS. I HATE PLOTS. I CAN’T DO THEM.”&lt;/p&gt;
+
+&lt;p&gt;Their statement stopped me in my tracks. I had forgotten what it was like to think you had to “do” plots. That they weren’t just something that you used to gain insight into the world around me. I had forgotten what it was to “hate” the things you couldn’t understand instead of looking for different approaches to them.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The worst part is, this is the fault of me and my kin. The electrical engineers and computer scientists who built computing ecosystems so hostile they became feared and &lt;a href=&#34;http://www.loper-os.org/?p=568&#34;&gt;created walled gardens that killed chances at creativity like Hypercard&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As for the way out of this grave we’ve dug ourselves, I don’t have the arrogance of some my brethren to claim to know the solution to the &lt;a href=&#34;https://www.youtube.com/watch?v=0QFDzRkmiUE&#34;&gt;extremely contentious topic of education&lt;/a&gt;. All I wish to claim is that resources are being wasted. If you are a teacher and you want to use computers better in your classroom, please reach out to me. If I cannot help you, I will at least point you towards &lt;a href=&#34;http://hivewaterloo.ca/popup/hive-waterloo/&#34;&gt;someone&lt;/a&gt; &lt;a href=&#34;http://www.kwartzlab.ca/&#34;&gt;who&lt;/a&gt; &lt;a href=&#34;https://www.diyode.com/&#34;&gt;can&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why “Learning Night” Works</title>
+      <link>https://seanaubin.github.io/post/2016-09-10-Why-Learning-Night-Works/</link>
+      <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanaubin.github.io/post/2016-09-10-Why-Learning-Night-Works/</guid>
+      <description>
+
+&lt;p&gt;I’ve been running &lt;a href=&#34;https://learningnight.com/&#34;&gt;Learning Night&lt;/a&gt; at the University of Waterloo (LNUW) with the help of Christina Tan for around a year now and I think it’s safe to say it’s “working”. We have people that come to every night. We have new people every night that seem to react positively. There are new and challenging ideas that are discussed at least once a semester. People are learning new things. We’ve managed to keep it free and open to anyone. And unsurprisingly, we are totally unable to scale beyond 30 people, despite extensive recruitment efforts via conferences, other talks and Tinder. So why does “Learning Night” work, specifically at the University of Waterloo?&lt;/p&gt;
+
+&lt;h2 id=&#34;it-s-not-the-speakers&#34;&gt;It’s not the speakers&lt;/h2&gt;
+
+&lt;p&gt;First off, the speakers we’ve been getting at LNUW are great. They tell us about their talks ahead of time, they do their best to prepare, are receptive to feedback and we love them. But Christina and I are not that well connected and Waterloo is not Florence during Renaissance. Most of our speakers are students who don’t have that much free time and don’t have that much life experience yet, compared to the other Learning Nights in San Francisco, Mountain View and Toronto. If LNUW suddenly changed from “You don’t have to be experienced, just enthusiastic” to “Experts only please” we would find approximately one speaker per semester and we would probably have to pay them.&lt;/p&gt;
+
+&lt;h2 id=&#34;it-s-not-the-people&#34;&gt;It’s not the people&lt;/h2&gt;
+
+&lt;p&gt;Dear, LNUW attendees, can be forthright with you? I love you folks. You are the social light in my mostly academic life. However, I think we can all agree that you can still love someone with all your heart despite that from the outside world’s perspective the receiver of your affections totally ordinary. The participants of LNUW are just undergrads, grads and other people working in the community. Some of them run startups, some of them are award-winning scientists and this is all exciting, but we certainly aren’t composed of Nobel Prize Winners, Worldwide Critically Acclaimed Artists or The Next Mark/Bill Zuckerberg/Gates. The organisers are also remarkably ordinary. &lt;a href=&#34;https://medium.com/@seanaubin/how-i-got-here-failures-privileges-and-luck-9f35ea119420#.hivsh8ixo&#34;&gt;I’m a second-rate grad student&lt;/a&gt; and &lt;a href=&#34;http://www.eloquentspeaking.com/&#34;&gt;Christina runs a public speaking startup&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;it-s-the-community-structure&#34;&gt;It’s the community structure&lt;/h2&gt;
+
+&lt;p&gt;The only reason LNUW works is because we have the resources to scaffold a community together. Everyone turns off their phones and have come to learn, so it’s not like people are begrudgingly attending a lecture. It’s established that questions guiding people is okay, so it’s not a bad thing if you aren’t the world expert on your topic or you get a little lost. We have somewhere to meet afterwards, which means that if you want to have an intense conversation with one of the speakers on a topic, you don’t have to awkwardly schedule a coffee date later. We have events that we go to together, so it’s not like we are mono-culturally The Learning People. If you want to keep in touch with someone from LNUW, just post events on the Facebook page that other people can attend. Finally, we’ve kept LNUW free and unassociated to any type of corporate interest to emphasise as clearly as possible that the only reason that this exists if for friends to share ideas.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Learning Night isn’t magic. It can work almost anywhere and when I talk to people, it does seem that this type of thing has risen organically in groups of friends many times in the past. I also don’t think this is the only way to run it, nor that it will always be run this way. However, I do think these principles are valuable and I hope these lessons can be transferred to other communities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Book Review: How to Read a Book</title>
+      <link>https://seanaubin.github.io/post/2016-07-30-Book-Review-How-to-Read-a-Book/</link>
+      <pubDate>Sat, 30 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanaubin.github.io/post/2016-07-30-Book-Review-How-to-Read-a-Book/</guid>
+      <description>
+
+&lt;p&gt;I started read “How to Read a Book” by Adler Mortimer (HRB) after one of the engineers I look up to, &lt;a href=&#34;http://starsimpson.com/&#34;&gt;Star Simpson&lt;/a&gt;, professed that her ability to understand many technical papers resulted from the instruction contained therein. As someone who’s desperately trying to hack their way to understanding the field of Cognitive Science via intense reading, I figured trying to polish the art of what I was doing every day is time well spent.&lt;/p&gt;
+
+&lt;h2 id=&#34;i&#34;&gt;I.&lt;/h2&gt;
+
+&lt;p&gt;HRB starts out the way most self-help books do, describing the writer’s own ascent for ignorance to enlightenment. Basically, Adler graduates from university thinking he knows everything. He doesn’t and is distressed. He realises he’s never really “read”, he’s only let information flow through him without connecting it.&lt;/p&gt;
+
+&lt;p&gt;From this relatable intro, Adler descends into a rant about the current education system’s failures in the context of “reading”. If you are actually interested in educational reform, read “The Educated Mind” by Kieran Egan, which is way better written and actually provides many practical solutions.&lt;/p&gt;
+
+&lt;p&gt;Overall, this book is quite lengthy and repetitive. Maybe that’s just how books were written those days? Or maybe the author was actually afraid of the readers leaving his grasp without any progress? As a result, I gave up after finishing Part II, since he begins addressing fiction and specific books for the rest of the book.&lt;/p&gt;
+
+&lt;p&gt;Regardless, below is a summary of what Adler considers “reading” and the various techniques required to be a “reader”, instead of just a “consumer”. I’ve tried to make more hacker-friendly than &lt;a href=&#34;https://en.wikipedia.org/wiki/How_to_Read_a_Book&#34;&gt;the Wikipedia summary&lt;/a&gt; and the summary table included in the book.&lt;/p&gt;
+
+&lt;p&gt;The techniques can be divided into three “readings” or as prefer to call them “perspectives”, which are each in turn divided into four “rules” or more understandably “approaches”. Each “approach” is to be done continuously while reading the book to aid understanding.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Analytical Perspective (top-down)&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Classify the book. What is it’s focus?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Summarise the book. What is the most important content of this book?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Summarise all the parts (this division might be chapters or more arbitrary divisions). How do each of the parts contribute to the whole?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What problems is the author trying to solve?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;The Interpretive Perspective (bottom-up)&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;What are the important words that the author is defining?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How does the author define these concepts in phrases? What about paragraphs?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How do the paragraphs support the author’s arguments?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What are the author’s arguments? Can you imagine instances where they hold true?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;The Critical Perspective (ways you can disagree with the author)&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Show where the author is uninformed. Where are they lacking information?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Show where the author is misinformed. Where have they poorly interpreted the information given?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Show where the author is illogical. Where are the gaps in their reasoning?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Find when to withhold judgement due to insufficient evidence, but please define what evidence you would need to be convinced and evaluate if that is reasonable.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You may have already known some of these rules before reading this text, however it is nice to have it describe in one place systematically. For example this systematisation, highlights that criticising the work is the final step. You must understand what the author is doing and how they can hold this world-view. Only then can you truly understand whether it needs to be corrected and in what ways.&lt;/p&gt;
+
+&lt;p&gt;The usual rules for learning a skill still apply. Don’t try to do them all at once. Try each technique individually and see how you can make it work. Eventually, you’ll be able to do them simultaneously with less effort.&lt;/p&gt;
+
+&lt;p&gt;If these instructions aren’t clear enough, then by all means download the PDF and plough through it. However, since life is short, skip Part B where he rambles on about education, which are of no benefit to someone who’s trying to figure out how to “read”. Additionally, be prepared to be beaten over the head repeatedly with basic concepts.&lt;/p&gt;
+
+&lt;h2 id=&#34;ii&#34;&gt;II.&lt;/h2&gt;
+
+&lt;p&gt;Aside from these rambles on education and these helpful “reading” techniques, Adler also spends a considerable amount of time expounding the benefits of Great Books. He means “reading” classics and associating them together to gain a complete understanding of humanity’s knowledge and it’s epistemology. He claims that to understand any field, one must go to the primary discoverers and read their publications.&lt;/p&gt;
+
+&lt;p&gt;I’m sympathetic to this point of view. Computer Science has failed miserably as a field because we fail to acknowledge the lessons taught to us by those who came before. For examples of this, check out &lt;a href=&#34;https://www.youtube.com/watch?v=FvmTSpJU-Xc&#34;&gt;this video by Alan Kay&lt;/a&gt; and &lt;a href=&#34;https://vimeo.com/71278954&#34;&gt;this other video by Brett Viktor&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, I can’t seem to resolve the idea that one should totally ground themselves philosophically before proceeding experimentally when I’ve wasted countless hours researching when I really should have just built something. For example, when I was first learning to program and when I thought optogenetics were the future of brain-computer interfaces. Surely there is some middle ground, where you focus on what interests you and maintain a group of colleagues with diverse interests to divert you if you’ve ignored some piece of prior art?&lt;/p&gt;
+
+&lt;p&gt;Adler proceeds to irritate me further by claiming that anyone else but the primary discoverer is unsuited for teaching:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If, in the same college, two men were lecturing, one a man who had discovered some truth, the other a man who was repeating secondhand what he had heard reported of the first man’s work, which would you rather go to hear? Yes, even supposing that the repeater promised to make it a little simpler by talking down to your level, would you not suspect that the secondhand stuff lacked something in quality or quantity? If you paid the greater price in effort, you would be rewarded by better goods.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And that the quality of materials, nor the quality of mentorship matters not for teaching:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The great books can be read in or out of school. If they are read in school, in classes under the supervision of live teachers, the latter must properly subordinate themselves to the dead ones. We can learn only from our intellectual betters. The great books are better than most living teachers as well as their students.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although I can understand where Adler is coming from, a world where materials are limited and expensive to spread, I don’t think it holds up to the current reality. A primary discover is nothing compared to someone who &lt;a href=&#34;http://worrydream.com/SomeThoughtsOnTeaching/&#34;&gt;must use the knowledge every day&lt;/a&gt;, thus knowing it’s limitations intimately in the context of the present day. A book is nothing compared to an &lt;a href=&#34;http://explorableexplanations.com/&#34;&gt;Explorable Explanation&lt;/a&gt;, where you can see the gears that formed the idea in the first place and manipulate them to make new ideas.&lt;/p&gt;
+
+&lt;p&gt;I bring up this counter-argument, not because I think Adler should have invented time-travel to see the advent of the Internet, but because I feel like I still feel the echoes of this appeal to intellectualism on a day to day basis. Whether it’s Cognitive Neuroscientists using statistics as black box and then &lt;a href=&#34;http://www.pnas.org/content/113/28/7900.abstract&#34;&gt;paying the price&lt;/a&gt; when it turns out their “intellectual betters” are still fumbly humans, or when I find a group of students recoil in fear at the mention of a plot because they don’t know that it’s a tool for visualisation: context matters, ideas evolve and the transparency of the reasoning you leave behind dictate the innovations that will proceed from your discoveries.&lt;/p&gt;
+
+&lt;h2 id=&#34;iii&#34;&gt;III.&lt;/h2&gt;
+
+&lt;p&gt;So if you need to read a bunch of things and you get the feeling you’re not quite doing it right, by all means, read HRB. However, after you’ve felt first-hand the limitations of print, remember that humanity is capable of so much more. More importantly, it’s your responsibility as an innovator to strive for it in any way you can.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I got here: Failures, Privileges and Luck</title>
+      <link>https://seanaubin.github.io/post/2016-07-14-How-I-got-here-Failures-Privileges-and-Luck/</link>
+      <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanaubin.github.io/post/2016-07-14-How-I-got-here-Failures-Privileges-and-Luck/</guid>
+      <description>&lt;p&gt;A while ago, I was talking to my friend who was over-idealising me as a result of reading &lt;a href=&#34;http://compneuro.uwaterloo.ca/files/people/aubin-cv.pdf&#34;&gt;my CV&lt;/a&gt;. She was despondent about the prospect about ever achieving as much as I had, regardless of the field she chose to pursue. Naturally, I exploded with laughter. I got to my current amateurish position in my field of cognitive modelling in a &lt;a href=&#34;http://compneuro.uwaterloo.ca/files/people/seanaubin/neurotweep_background.pdf&#34;&gt;hilariously roundabout manner&lt;/a&gt; and I hardly consider myself successful.&lt;/p&gt;
+
+&lt;p&gt;However, my friend’s misperception is a common one, which is why a bunch of academics have started publishing, not only a “CV of Failures”, but an additional one of “Luck and Privileges” to give something closer to the truth.&lt;/p&gt;
+
+&lt;p&gt;So without further ado, here is my own &lt;a href=&#34;http://compneuro.uwaterloo.ca/files/people/seanaubin/alt-cv.pdf&#34;&gt;CV of Failures, Rejections, Luck and Privileges&lt;/a&gt;, which I’m sure will grow as my career progresses. Let it never be said that I try to project an aura of aloofness.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Schools and the Internet: Teaching Security and Privacy</title>
+      <link>https://seanaubin.github.io/post/2015-11-19-Schools-and-the-Internet-Teaching-Security-and-Privacy/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanaubin.github.io/post/2015-11-19-Schools-and-the-Internet-Teaching-Security-and-Privacy/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;[epistemological status: I&amp;rsquo;m not a privacy or security expert. This post isn&amp;rsquo;t a thesis. This is an essay by an amateur.]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Privacy is weird. Anyone who says it’s simple and straightforward, clearly isn&amp;rsquo;t using the Internet. Thanks to the rise of technology, it’s almost impossible to gauge accurately what privacy compromise (messing up your settings on a social media website) will result in a privacy catastrophe (somebody knowing something you REALLY didn&amp;rsquo;t want them to know about) later down the road. Given that it’s something ambiguous and difficult to grasp, somewhat like sexual health, it’s a great idea to teach in schools. However, I have a few issues with the current approaches.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;1-society-is-immutable-always-right-and-always-watching&#34;&gt;1. Society is immutable, always right and always watching&lt;/h2&gt;
+
+&lt;p&gt;A lot of guides on Internet privacy and security aimed at school kids is the warning that anything they write can and will be used against them. On one hand, I understand the point they’re going for. Their audience is young, naive and the Internet is a really freaking permanent place. Consequently, I&amp;rsquo;m totally on board with the spirit of the initiatives, such as &lt;a href=&#34;http://www.binarytattoo.com/&#34;&gt;Binary Tattoo&lt;/a&gt; and &lt;a href=&#34;http://preventingcrime.ca/our-work/awareness-campaigns/think-2013/&#34;&gt;THINK&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, when I read materials on the subject, I find two assumptions are made. First, it’s impossible to be anonymous on the Internet. Second, society is right to judge you for anything you do out of line. This freaks me out a little.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  &amp;lt;http://imgs.xkcd.com/comics/dreams.png&amp;gt;
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;https://seanaubin.github.io/img/Schools-and-the-Internet-Teaching-Security-and-Privacy_0.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;The issue of anonymity is the easiest to address. You just need to educate kids about the basic ways people are usually identified online (IP addresses, location data and social give-aways mostly) and how more advanced ways are always being developed. Tell them that the best bet right now is Tor and explain how it works. Hell, send them &lt;a href=&#34;https://www.youtube.com/watch?v=zt5pjH68EMY&#34;&gt;my cringe-inducing YouTube Video on the topic&lt;/a&gt;. This way, if they want to do something creative and push the boundaries, they do it in a way that won’t be tracked. This is the same approach we take with safe-sex. We don’t want teens to be having sex, but if they’re going to have it, they might as well be safe about it. We don’t want teens to share angry poems or violent images, but &lt;a href=&#34;http://www.vice.com/read/shooter-boys-and-at-risk-girls&#34;&gt;since they’re going to&lt;/a&gt;, they might as well do it in a way that’s safe.&lt;/p&gt;
+
+&lt;p&gt;Obviously, Tor doesn&amp;rsquo;t solve everything. Talking about people you know and/or posting pictures/videos of yourself will immediately identify you. Which brings us to the second issue.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-anyone-who-is-a-victim-of-a-leak-is-automatically-evil-and-worthy-of-eternal-shame&#34;&gt;2. Anyone who is a victim of a leak is automatically evil and worthy of ## eternal shame.&lt;/h2&gt;
+
+&lt;p&gt;My primary problem with auto-shaming victims of leaks is it assumes consent. Most people with compromising photos on websites haven’t put them up themselves. &lt;a href=&#34;http://www.xojane.com/it-happened-to-me/charlotte-laws-hunter-moore-erin-brockovich-revenge-porn&#34;&gt;Computers can be hacked, trust can be broken and images can be falsified using Photoshop&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Additionally, by victim-blaming the leak, it absolves the leaker and the reader of the leak of any responsibility. I find the best metaphor for this idea of responsibility is Cory Doctorow’s &lt;a href=&#34;http://www.intel.com/content/dam/www/public/us/en/documents/technology-briefs/intel-labs-tomorrow-project-rainbow-table-brief.pdf&#34;&gt;Knights of the Rainbow Hash Table&lt;/a&gt;: Everyone sucks at security. Attacks against security are becoming easier and easier. Everyone uses the Internet to connect. Consequently, everyone will get hacked and leaked in the future. Maybe it’s time to be responsible and not look at the leaks of your neighbours, just like you wouldn&amp;rsquo;t pick the locks to their doors when they’re not home? Maybe we should think of people who leak pictures and videos as criminals, just as we think of those who betray consent in other ways?&lt;/p&gt;
+
+&lt;p&gt;Instead of blaming victims of leaks for their predicament, I would rather if teachers taught about empathy. People make mistakes and intent shouldn&amp;rsquo;t be assumed. As John Green says, it’s important to &lt;a href=&#34;https://web.archive.org/web/20160707223916/http://johngreenbooks.com:80/a-speech-i-wrote-for-the-alan-conference/&#34;&gt;imagine people complexly&lt;/a&gt;. Shaming, although becoming quite common given the &lt;a href=&#34;http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/&#34;&gt;Toxoplasma of Rage&lt;/a&gt;, shouldn&amp;rsquo;t be encouraged.&lt;/p&gt;
+
+&lt;h2 id=&#34;3-your-privacy-is-sacred-except-when-the-school-takes-it-from-you&#34;&gt;3. Your privacy is sacred, except when the school takes it from you&lt;/h2&gt;
+
+&lt;p&gt;Continuing with the metaphor of sex education, in some of the materials I read, privacy is talked about in the same tone as abstinence-only sex-ed talks about virginity; once you lose it, you can’t get it back and it’s super valuable.&lt;/p&gt;
+
+&lt;p&gt;In the context of the Internet, this isn&amp;rsquo;t totally inaccurate (see aforementioned permanence and naivete), but this idea gets weird when you realise that schools pay tons of money for custom firewalls. On top of that, the companies making the firewalls use the information gathered from students and the profits gathered from schools to make better firewalls to &lt;a href=&#34;https://citizenlab.org/wp-content/uploads/2009/10/Internet-Filtering-in-a-Failed-State-The-Case-of-Netsweeper-in-Somalia.pdf&#34;&gt;sell to autocrats and failed states&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And the icing on the cake is that firewalls don’t even work. Remember Tor? It goes around any firewall you can throw at it, including the Great Firewall of China.&lt;/p&gt;
+
+&lt;p&gt;This begs the question, if privacy so sacred, then why are schools investing money and effort to actively undermine it? What’s the alternative to invasive firewalls if we don’t want kids looking at bad stuff online?&lt;/p&gt;
+
+&lt;p&gt;Teach online ethics. Teach kids to talk to their parents or teachers if they find something they aren&amp;rsquo;t comfortable with online. Teach them to listen to that feeling of discomfort if they’re going deeper into something uncomfortable. Teach them to have enough self-confidence that if their friends are showing them something that doesn&amp;rsquo;t feel right, they can leave. Knowing your boundaries is important and acting upon them even more so.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-the-internet-is-the-only-way-your-privacy-can-be-compromised&#34;&gt;4. The Internet is the only way your privacy can be compromised&lt;/h2&gt;
+
+&lt;p&gt;A lot of the guides seem to miss the pervasiveness and legality of data collection. &lt;a href=&#34;http://adage.com/article/datadriven-marketing/24-billion-data-business-telcos-discuss/301058/&#34;&gt;Your cellphone data is being sold&lt;/a&gt;. &lt;a href=&#34;https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=792580&#34;&gt;Your computer is probably spying on you, even if it’s operating system open-source&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a harder topic to talk about, since it’s much more nuanced, but I still think kids should be educated about the importance of open-source software, d&lt;a href=&#34;http://boingboing.net/2015/09/11/data-is-a-liability-not-an-as.html&#34;&gt;ata should be emphasized as a liability, not a commodity&lt;/a&gt; and finally, the law shouldn&amp;rsquo;t be idealised, but shown to be flawed and unable to keep up with technological advances without citizen intervention.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In conclusion, I applaud those who make the effort to teach students about the Internet. It’s not an easy task. However, there are a few trends in the literature making me uncomfortable. I know we can do better.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you liked this article and want to read more my posts on education, consider&lt;/em&gt; &lt;a href=&#34;https://uwaterloo.us15.list-manage.com/subscribe?u=d5612fe997cc72aac70c4ffe9&amp;amp;id=76226838bc&#34;&gt;&lt;em&gt;subscribing to my mailing list&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

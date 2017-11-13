@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subconscious on Voyageur Technologique</title>
+    <link>http://example.org/categories/subconscious/index.xml</link>
+    <description>Recent content in Subconscious on Voyageur Technologique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://example.org/categories/subconscious/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modelling the Divide Between Conscious and Subconscious</title>
+      <link>http://example.org/post/2016-03-01-Modelling-the-Divide-Between-Conscious-and-Subconscious/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2016-03-01-Modelling-the-Divide-Between-Conscious-and-Subconscious/</guid>
+      <description>&lt;p&gt;&lt;em&gt;[epistemic status: although I&amp;rsquo;ve become adept with the Neural Engineering Framework and the Semantic Pointer Architecture, I&amp;rsquo;m not super comfortable in the philosophical depths of Cognitive Science. This article is not a professional presenting a final answer, but an amateur formulating their current view.]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The divide between what is conscious and what is subconscious is a fascinating question often because it acts as a proxy for more urgent personal questions, such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Who am I?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How much can I change?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What do I have control over?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this article, I won’t attempt to answer these questions directly (given they’re freaking hard questions), instead I’d like to approach this question in the only way I know how: by building a model based off of empirical, experimental and philosophical evidence. By “building” I mean just putting together two models that have already been built and by “evidence” I mean using the evidence in the papers that I took the models from, without explicitly stating it here.&lt;/p&gt;
+
+&lt;p&gt;To understand the subconscious, we first have to understand what is consciousness. To model consciousness we need to select our tools. The modelling tool that I find the most power in (surprising no one given it comes from my lab) is the Semantic Pointer Architecture (SPA).&lt;/p&gt;
+
+&lt;p&gt;The SPA is based on the idea that computation in the brain is done by manipulating vectors called Semantic Pointers (SPs) by binding and compressing them using neurons. This idea is kind of sophisticated, but the easiest way to understand it is seeing Spaun, which was built using the SPA, in action.&lt;/p&gt;
+
+&lt;iframe frameborder=&#34;0&#34; height=&#34;480&#34; scrolling=&#34;no&#34; src=&#34;https://www.youtube.com/embed/mP7DX6x9PX8?feature=oembed&#34; width=&#34;640&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In the above video, Spaun takes the high dimensional input of the many pixels on a screen, transforms it into the concept of ‘4’ and ‘3’ to perform the task by going up the visual hierarchy, and then writes it the number back out by going down the motor hierarchy.&lt;/p&gt;
+
+&lt;p&gt;This shows how manipulating vectors is a model of brain processes. It also shows how concepts are tied to the sensory information received from the outside world.&lt;/p&gt;
+
+&lt;p&gt;How can this be applied to consciousness? In &lt;a href=&#34;http://cogsci.uwaterloo.ca/Articles/thagard.two-theories.consc&amp;amp;cog.2014.pdf&#34;&gt;this model by Paul Thagard and Terry Stewart&lt;/a&gt;, consciousness is modelled as competition between SPs.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  Taken from Thagard and Stewart 2014
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/Modelling-the-Divide-Between-Conscious-and-Subconscious_0.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;Basically, it’s saying you get representations in your brain from your motor system, your sensory inputs, your emotions and your verbal productions. What you become conscious of is a result of one of those representations winning/losing the fight for your attention.&lt;/p&gt;
+
+&lt;p&gt;That’s consciousness, so everything below that must be subconscious. Most of those inputs are pretty easily explainable, except emotion. What is emotion? There’s a model for that too using SPs in &lt;a href=&#34;http://cogsci.uwaterloo.ca/Articles/thagard-schroeder.emotions-pointers.2013.pdf&#34;&gt;this book chapter by Paul Thagard and Tobias Schröder&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  Taken from Thagard and Schröder 2013
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/Modelling-the-Divide-Between-Conscious-and-Subconscious_1.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;It argues that emotion is a result of a combination of neural representations of your physiology (am I hot/cold?), your situation (can I turn up the thermostat?), and your appraisal (what do I think about all of this?).&lt;/p&gt;
+
+&lt;p&gt;Putting these two together, you get something that looks like this.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  You can tell I made this figure because of it came from Google Draw
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/Modelling-the-Divide-Between-Conscious-and-Subconscious_2.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;This is all very abstract and hard to follow, so let’s use a more practical example in the form of someone who has anxiety. Because often the best way to understand a system is to look at it while it’s malfunctioning and (more importantly) coming up with ways to fix it.&lt;/p&gt;
+
+&lt;p&gt;Anxiety has multiple causes and thus multiple solutions. Sometimes it can be a product of a situation, in which case the situation can be fixed or avoided using action. Other times the cause is less concrete, arriving in the form of a maladaptive thought pattern, in which case the appraisal part of this system needs to be remedied, possibly using &lt;a href=&#34;https://medium.com/@seanaubin/debugging-your-thoughts-with-mind-maps-94aeecd2821d#.x7tekal3x&#34;&gt;Cognitive Behaviour Therapy&lt;/a&gt;. Finally, there’s the possibility that physiologically the person consistently finds they are constantly in “flight or fight” mode without cause, which could be remedied with medication. Obviously every case of anxiety disorder is unique and which options are pursued are up to the individual.&lt;/p&gt;
+
+&lt;p&gt;This is one view of consciousness, which provides some useful explanatory mechanisms, but I&amp;rsquo;m certainly not claiming it’s the right one. I&amp;rsquo;m currently trying to gain more subtlety in my perspective on this matter by reading different perspectives, such as &lt;a href=&#34;https://www.youtube.com/watch?v=2o2xBOQeB7Q&#34;&gt;Joscha Bach&lt;/a&gt;’s MicroPsi framework. I’ll write another post (or more likely post a question/answer on &lt;a href=&#34;https://cogsci.stackexchange.com/tour&#34;&gt;CogSci.SE&lt;/a&gt;) once I&amp;rsquo;ve put my thoughts together.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

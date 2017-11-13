@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academia on Voyageur Technologique</title>
+    <link>https://seanaubin.github.io/categories/academia/index.xml</link>
+    <description>Recent content in Academia on Voyageur Technologique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://seanaubin.github.io/categories/academia/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>StackExchange for Open Science</title>
+      <link>https://seanaubin.github.io/post/2017-04-28-StackExchange-for-Open-Science/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanaubin.github.io/post/2017-04-28-StackExchange-for-Open-Science/</guid>
+      <description>
+
+&lt;p&gt;The next time you have to figure something out, to make sure you understand it, leave a question/answer pair on the &lt;a href=&#34;https://stackexchange.com/sites#science-traffic&#34;&gt;relevant StackExchange&lt;/a&gt;. Why? I’LL TELL YOU WHY!&lt;/p&gt;
+
+&lt;h2 id=&#34;you-re-helping-yourself-the-most&#34;&gt;You’re helping yourself the most&lt;/h2&gt;
+
+&lt;p&gt;You take notes anyways and the best way to remember something is to restructure the knowledge you’re trying to store. Might as well write the notes in public so other people can read them and jump in on your trail of reasoning. And by “other people”, I include your future self who’s forgotten you even had the question in the first place.&lt;/p&gt;
+
+&lt;h2 id=&#34;it-will-make-you-a-better-writer&#34;&gt;It will make you a better writer&lt;/h2&gt;
+
+&lt;p&gt;In my experience, the difference between a good writer and a bad one is how much feedback they’ve gotten. On StackExchange, &lt;a href=&#34;https://meta.stackexchange.com/help/editing&#34;&gt;people are incentivized to suggest edits to your question&lt;/a&gt;. These edits are reviewed by the community, so it’s common to revisit your question later and find it greatly improved, along with explanations of the improvements.&lt;/p&gt;
+
+&lt;h2 id=&#34;everyone-will-be-nice&#34;&gt;Everyone will be nice&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://meta.stackexchange.com/help/be-nice&#34;&gt;Or we’ll kick them out&lt;/a&gt;. StackExchange has excellent moderation tools and &lt;em&gt;elected&lt;/em&gt; moderators. This means the community is always being led by it’s most enthusiastic members, not just the bitter old people who’ve been around the longest.&lt;/p&gt;
+
+&lt;h2 id=&#34;shorter-easier-than-a-blog-post&#34;&gt;Shorter/easier than a blog post&lt;/h2&gt;
+
+&lt;p&gt;Blog posts are hard. You have to consider an intended audience, a scope and a structure. With StackExchange, all of these choices are made for you. The audience is other people looking for the answers to the same question. The scope depends on the StackExchange site. The structure is a short question and answer. I’ve written maybe 20 blogs posts, but I’ve written almost &lt;a href=&#34;https://cogsci.stackexchange.com/users/4397/seanny123?tab=profile&#34;&gt;200 questions and answers&lt;/a&gt;, because it’s so much easier.&lt;/p&gt;
+
+&lt;h2 id=&#34;direct-feedback&#34;&gt;Direct feedback&lt;/h2&gt;
+
+&lt;p&gt;With my blog, I get two metrics: visits and comments. With a question, I get to know if I helped someone else by visits, but also upvotes. I get to be notified if my answer has become out of date with comments left by other users. I get to know if my answer wasn’t as complete as it could have been, by reading other answers to the same question.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Try it. Be one of the first 20 people to ask 5 upvoted questions on one of &lt;a href=&#34;https://stackexchange.com/sites#science-traffic&#34;&gt;the science StackExchange sites&lt;/a&gt; (starting from the date of this blog post) and I’ll give 5 dollars to the charity of your choice. Send me a link to your profile with your linked Twitter profile via Twitter as proof. If you’re having a tough time or it isn’t working for you, talk to me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Surprising Things I Learned from Grad School</title>
+      <link>https://seanaubin.github.io/post/2016-11-17-The-Surprising-Things-I-Learned-from-Grad-School/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanaubin.github.io/post/2016-11-17-The-Surprising-Things-I-Learned-from-Grad-School/</guid>
+      <description>
+
+&lt;p&gt;I’ve been in grad school for a year now, so I figured now was as good of a time to reflect as ever.&lt;/p&gt;
+
+&lt;p&gt;I learned a lot of things I expected to learn, like how to write a paper, what’s the difference between a conference paper and a journal paper and how do you get grants to support your research.&lt;/p&gt;
+
+&lt;p&gt;I also was totally blindsided by a lot of other things, which mostly fall into the categories “Computery Things” (because my lab develops a ton of software) and “Social Things”. If you only care about one of those categories, you can skip the other.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;writing-good-code-is-non-trivial&#34;&gt;Writing good code is non-trivial&lt;/h2&gt;
+
+&lt;p&gt;I used to think I was a pretty good coder. I left comments and I tried not duplicate code everywhere. Then I start having code-reviews whenever I submitted code to our big software project Nengo, where my lab-mates reviewed everything I had written and made suggestion. These code-reviews have taught me so much in terms of habits, setups and intuition that I couldn’t have gotten anywhere else. This kind of scares me, because it means I have no idea how non-computery labs are supposed to get better. Post snippets of their code on &lt;a href=&#34;http://codereview.stackexchange.com/&#34;&gt;codereview.stackexchange.com&lt;/a&gt;? Walk down the hall to the computer science department and force them to sit down with you?&lt;/p&gt;
+
+&lt;h2 id=&#34;dev-ops-is-foundational&#34;&gt;Dev Ops is foundational&lt;/h2&gt;
+
+&lt;p&gt;For any successful commercial software project to be able to evolve, &lt;a href=&#34;http://www.joelonsoftware.com/articles/fog0000000043.html&#34;&gt;the amount of time required for a new developer to get from interest to running code should be minimal&lt;/a&gt;. Not only that, but you should be able to log bugs, automatically run minimal tests and be able to quickly get the most updated code. All of these things fall under the umbrella of “Dev Ops”.&lt;/p&gt;
+
+&lt;p&gt;Dev Ops being important doesn’t stop being true when you’re a scientist writing scientific code, which is tragic because:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dev Ops is freaking &lt;em&gt;hard&lt;/em&gt;.&lt;/strong&gt; You have to learn a bunch of different tools that haven’t been made non-hacker friendly yet. Travis-CI, whatever testing framework and builder your language uses (if it’s Matlab, good luck), and git (&lt;em&gt;shudder)&lt;/em&gt; suddenly go from become things you’ve heard of to things you need to understand &lt;em&gt;right now&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dev Ops isn’t taught &lt;em&gt;anywhere&lt;/em&gt;.&lt;/strong&gt; Not in Software Carpentry, Coursera and definitely not at your institution, so you need to wrangle together a bunch of tutorials from the Internet and sacrifice a mouse to the computer gods.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Given these obstacles, it’s not surprising to learn that Dev Ops in scientific code is practically unheard of, even in widely distributed and used libraries. Before my Master’s degree I would have shrugged it off has not being a major problem in science, but now &lt;a href=&#34;https://bullshit.ist/why-im-an-open-source-nerd-an-apology-7d7a3e0e13e9#.f8rjqga4h&#34;&gt;I scream in horror&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;centralized-documentation-is-life-support&#34;&gt;Centralized documentation is life support&lt;/h2&gt;
+
+&lt;p&gt;Having your documentation to your project somewhere online, where anyone can propose edits, is the only way your project’s docs will remain up to date and thus the only way your software will be able to proliferate and survive. Luckily, unlike everything else in this article, there’s tons of solutions to this! I just don’t know which one to recommend to absolute beginners… Leave a comment and I’ll update this section?&lt;/p&gt;
+
+&lt;h2 id=&#34;scientific-tooling-is-horrible&#34;&gt;Scientific tooling is horrible&lt;/h2&gt;
+
+&lt;p&gt;Part of keeping up with research is reading a lot of papers. I thought for sure there would be tools for this everywhere. A unified program (I use a bunch of separate ones) that lets you tag papers, then search through the tags and annotations. A website where you can subscribe to feeds on research you’re interested in (lots of those exist) and collaboratively comment (nope) on publications. &lt;a href=&#34;https://www.youtube.com/watch?v=YuGVC8VqXz0&amp;amp;list=WL&amp;amp;index=45&#34;&gt;Interactive drawing/coding tools&lt;/a&gt; for making complex animated figures. A thriving StackExchange where researchers bounce ideas off each other and drive synthesis of new concepts. Nope. Instead you get ResearchGate, Twitter, Mendeley, Google Draw and spam.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  Follow me on Twitter for more hilarious insights into why things are horrible.
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;https://seanaubin.github.io/img/The-Surprising-Things-I-Learned-from-Grad-School_0.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;your-team-is-essential&#34;&gt;Your team is essential&lt;/h2&gt;
+
+&lt;p&gt;Lab-mates are important. I knew they were important, but I didn’t know just &lt;em&gt;how&lt;/em&gt; important. Without my lab-mate Aaron, I would have never published my first paper. Without my lab-mate Terry, I would have never been able to determine the appropriate scope for my initial research for that paper. Without my lab-mate Trevor, I would have never learned how to write good scientific software.&lt;/p&gt;
+
+&lt;h2 id=&#34;communicating-concepts-is-excavation&#34;&gt;Communicating concepts is excavation&lt;/h2&gt;
+
+&lt;p&gt;I used to think of myself as a pretty good communicator. I even put it on my resume. However, this year all evidence that I had of that was utterly and irrevocably refuted. This year was the year I learned Non-Violent Communication, which taught me how to talk about emotions and has literally changed my life, but that’s a whole other blog post. This was also the year where I routinely needed to quickly grasp concepts and relate them to my current knowledge so I could remember the faint outline of their importance for later. This technical communication style did not come easily for me.&lt;/p&gt;
+
+&lt;p&gt;Here’s are a few tricks I use when teaching or learning from other people.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Useful questions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;What’s the last thing you understood?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Can you say what I just said back to me, but using different words?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What is the closest thing that you think you know to this concept?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;What do you mean by… ? What did you think I meant by… ?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;When meeting with someone&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Be specific about what you need from them: “I want your help deciding… ?”&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Make sure you both leave with the same conclusion: “What I’m going to remember from this is… ? Is this what you wanted me to remember?”&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The post-doc in my lab, Terry Stewart, has this down to an art form. To the point that I frequently like to watch him teach concepts to people just to see how he manoeuvres through their understanding like a hawk through a canyon.&lt;/p&gt;
+
+&lt;p&gt;Admittedly, I still need to work on my similes and metaphors.&lt;/p&gt;
+
+&lt;h2 id=&#34;mathematical-notation-is-a-foreign-language&#34;&gt;Mathematical notation is a foreign language&lt;/h2&gt;
+
+&lt;p&gt;I currently have no idea how to communicate with mathematical concepts textually. I literally have to translate them from/to code. I learned this during my undergrad, where math made sense to me for the first time in my life after I learned how to program. However, I only realised serious it was this semester. I look at a sum and I think “Okay, a for-loop”. I see a chain of equations and I think “Where’s the source code?”&lt;/p&gt;
+
+&lt;p&gt;Consequently, unless I’ve programmed something, like back-prop or the Neural Engineering Framework. I cannot say I truly understand it. This is a bit problematic at the moment, given my immense confusion with the following things which I need to rectify in the next 7 months and I’m not sure they’re easy to code:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Partially Observable Markov Decision Processes. What are those things?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How do Restricted Boltzmann Machines use Monte-Carlo Markov-Chains to optimise themselves?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Why is sensor fusion still such a big, open topic?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wish me luck.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I got here: Failures, Privileges and Luck</title>
+      <link>https://seanaubin.github.io/post/2016-07-14-How-I-got-here-Failures-Privileges-and-Luck/</link>
+      <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanaubin.github.io/post/2016-07-14-How-I-got-here-Failures-Privileges-and-Luck/</guid>
+      <description>&lt;p&gt;A while ago, I was talking to my friend who was over-idealising me as a result of reading &lt;a href=&#34;http://compneuro.uwaterloo.ca/files/people/aubin-cv.pdf&#34;&gt;my CV&lt;/a&gt;. She was despondent about the prospect about ever achieving as much as I had, regardless of the field she chose to pursue. Naturally, I exploded with laughter. I got to my current amateurish position in my field of cognitive modelling in a &lt;a href=&#34;http://compneuro.uwaterloo.ca/files/people/seanaubin/neurotweep_background.pdf&#34;&gt;hilariously roundabout manner&lt;/a&gt; and I hardly consider myself successful.&lt;/p&gt;
+
+&lt;p&gt;However, my friend’s misperception is a common one, which is why a bunch of academics have started publishing, not only a “CV of Failures”, but an additional one of “Luck and Privileges” to give something closer to the truth.&lt;/p&gt;
+
+&lt;p&gt;So without further ado, here is my own &lt;a href=&#34;http://compneuro.uwaterloo.ca/files/people/seanaubin/alt-cv.pdf&#34;&gt;CV of Failures, Rejections, Luck and Privileges&lt;/a&gt;, which I’m sure will grow as my career progresses. Let it never be said that I try to project an aura of aloofness.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

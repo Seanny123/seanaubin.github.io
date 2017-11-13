@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Higher Education on Voyageur Technologique</title>
+    <link>http://example.org/categories/higher-education/index.xml</link>
+    <description>Recent content in Higher Education on Voyageur Technologique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://example.org/categories/higher-education/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How I got here: Failures, Privileges and Luck</title>
+      <link>http://example.org/post/2016-07-14-How-I-got-here-Failures-Privileges-and-Luck/</link>
+      <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2016-07-14-How-I-got-here-Failures-Privileges-and-Luck/</guid>
+      <description>&lt;p&gt;A while ago, I was talking to my friend who was over-idealising me as a result of reading &lt;a href=&#34;http://compneuro.uwaterloo.ca/files/people/aubin-cv.pdf&#34;&gt;my CV&lt;/a&gt;. She was despondent about the prospect about ever achieving as much as I had, regardless of the field she chose to pursue. Naturally, I exploded with laughter. I got to my current amateurish position in my field of cognitive modelling in a &lt;a href=&#34;http://compneuro.uwaterloo.ca/files/people/seanaubin/neurotweep_background.pdf&#34;&gt;hilariously roundabout manner&lt;/a&gt; and I hardly consider myself successful.&lt;/p&gt;
+
+&lt;p&gt;However, my friend’s misperception is a common one, which is why a bunch of academics have started publishing, not only a “CV of Failures”, but an additional one of “Luck and Privileges” to give something closer to the truth.&lt;/p&gt;
+
+&lt;p&gt;So without further ado, here is my own &lt;a href=&#34;http://compneuro.uwaterloo.ca/files/people/seanaubin/alt-cv.pdf&#34;&gt;CV of Failures, Rejections, Luck and Privileges&lt;/a&gt;, which I’m sure will grow as my career progresses. Let it never be said that I try to project an aura of aloofness.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

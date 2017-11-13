@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Therapy on Voyageur Technologique</title>
+    <link>http://example.org/categories/therapy/index.xml</link>
+    <description>Recent content in Therapy on Voyageur Technologique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://example.org/categories/therapy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Nefarious Interconnectedness of Well-being</title>
+      <link>http://example.org/post/2016-11-24-The-Nefarious-Interconnectedness-of-Well-being/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2016-11-24-The-Nefarious-Interconnectedness-of-Well-being/</guid>
+      <description>&lt;p&gt;&lt;em&gt;[epistemic status: probably the cheesiest thing I’ve ever written and has probably been said better elsewhere]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The health center at the University of Waterloo has a bunch of workshops on dealing with stress. These are helpful workshops. The advice is pretty standard. Sleep, eat and exercise. Use Cognitive Behaviour Therapy to deal with unhelpful thought patterns. If you’ve got weird brain things going on, take some medication. However, the implementation details of these healthy habits aren’t given. This makes sense, because they’re super specific to the person, but it does give a person some weird expectations.&lt;/p&gt;
+
+&lt;p&gt;It’s also awkward to describe how interconnected all of these things are. You would be forgiven for thinking the progress towards a better life is linear:&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  Why yes, graphic design is my passion. How did you know?
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/The-Nefarious-Interconnectedness-of-Well-being_0.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;Instead, you usually get something that looks like this:&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  Google Draw. Functional enough to get things done. Ugly enough that I wished I learned to use something else.
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/The-Nefarious-Interconnectedness-of-Well-being_1.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;Because instead of the progress on these things looking like a bunch of parallel branches:&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  Look at all those nodes working together!
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/The-Nefarious-Interconnectedness-of-Well-being_2.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;You get some cluster-muffin like this:&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  Oh noes. What happened nodes?
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/The-Nefarious-Interconnectedness-of-Well-being_3.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;If you’re lucky, there are solutions to all these things can be supported with a community that help you commit to the incremental process, but if you’re not as lucky you might get stuck.&lt;/p&gt;
+
+&lt;p&gt;I’m not the only person thinking about this. &lt;a href=&#34;http://www.clinicalneuropsychiatry.org/pdf/borsbooml.pdf&#34;&gt;Some clinicians&lt;/a&gt; think focusing treatment around a network of symptoms instead of a single diagnosis could lead to better treatment. I’m not a clinician, so I’m sure as hell not going to comment on the validity of that strategy.&lt;/p&gt;
+
+&lt;p&gt;I don’t know what the solution for this is. Managing food is getting easier, thanks to things like Soylent. I think &lt;a href=&#34;https://uwaterloo.ca/campus-wellness/counselling-services/uw-mates-peer-counselling&#34;&gt;Mates&lt;/a&gt; and &lt;a href=&#34;https://www.7cups.com/&#34;&gt;7 Cups&lt;/a&gt; are trying to work towards students helping students so that everyone has a good community. Mostly, I just wanted to put this message out there, based on the belief that realistic expectations are beneficial.&lt;/p&gt;
+
+&lt;p&gt;Recovery and coping is neither a uniform, nor a linear progression. Don’t expect it to be.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you liked this article and want to read more about psychological research and therapy, consider&lt;/em&gt; &lt;a href=&#34;https://uwaterloo.us15.list-manage.com/subscribe?u=d5612fe997cc72aac70c4ffe9&amp;amp;id=76226838bc&#34;&gt;&lt;em&gt;subscribing to my mailing list&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Debugging Your Thoughts with Mind-Maps</title>
+      <link>http://example.org/post/2015-08-15-Debugging-Your-Thoughts-with-Mind-Maps/</link>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2015-08-15-Debugging-Your-Thoughts-with-Mind-Maps/</guid>
+      <description>&lt;p&gt;In this post, I&amp;rsquo;m going to give a quick overview of Cognitive Behaviour Therapy (CBT) and how it can be used with mind-maps to eliminate unhelpful thought patterns. In a way, this is just like debugging your brain like it’s a computer program. Somewhere in your computer code, there’s something that is causing unpleasantness. This post will show you how to find the source of this and fixing it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cognitive Behaviour Therapy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When I was younger, I used to have problems with anxiety. When I went to the doctor, she mentioned cognitive behaviour therapy. She essentially described it as debugging your thoughts. Your thoughts are built by beliefs. Actions come from your thoughts. Beliefs are reinforced by your actions.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/Debugging-Your-Thoughts-with-Mind-Maps_0.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;The simplified example my doctor gave is of someone who is worried about academic performance. They believe they will fail and that they’re rubbish at exams, so they keep thinking demoralizing thoughts. This will distract them from studying or freak them out, so when the exam finally comes you’ll do poorly. This action will reinforce your belief that you are destined to fail academically. So what you have to do is kill the irrational belief that no matter what you do, you will do poorly on an exam. This will break the cycle and free you from your spiraling thoughts.&lt;/p&gt;
+
+&lt;p&gt;This may seem bloody obvious to you, but to me it was miraculous. I was no longer a slave to my thoughts, I had a tool to confront them with.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://slatestarcodex.com/2015/07/16/cbt-in-the-water-supply/#comment-219806&#34;&gt;As discussed elsewhere on the internet&lt;/a&gt;, the main benefit of Cognitive Behaviour Therapy is working through your emotions while trying to identify the beliefs and rationalize them. Mind-maps are my way of digging down into a practical foundation for dissecting your thoughts.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;An Example&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As an example, let’s work through the belief that you’re never any good at big projects and you just got assigned one in this class that you love. To illustrate the process, I&amp;rsquo;ve used the program &lt;a href=&#34;https://www.mindmup.com&#34;&gt;MindMup&lt;/a&gt;, but I highly recommend to just sticking with pencil and paper while you get comfortable with the idea of mind-maps.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/Debugging-Your-Thoughts-with-Mind-Maps_1.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;Your automatic thought is going to be you’ll fail, because you always fail.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/Debugging-Your-Thoughts-with-Mind-Maps_2.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;Well, now you&amp;rsquo;ve got to come up with some evidence for that belief as dictated by CBT. In this case, the past unsuccessful projects.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/Debugging-Your-Thoughts-with-Mind-Maps_3.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;But all this evidence needs some counter-evidence.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/Debugging-Your-Thoughts-with-Mind-Maps_4.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;On a good day, your counter-evidence wins automatically and you feel better, but today is a bad day and you’re still anxious about that project. So you’ve failed before. Do you know why? What can you do to prevent failure again?&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/Debugging-Your-Thoughts-with-Mind-Maps_5.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;And if you fail despite this new insight, is it the end of the world?&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/Debugging-Your-Thoughts-with-Mind-Maps_6.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;Alright! Now you&amp;rsquo;ve got some perspective, some evidence and some coping strategies. Here’s what the final mind-map looks like. You can click to zoom.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+  
+    &lt;figure &gt;
+  
+
+
+
+  &lt;label for=&#34;&#34; class=&#34;margin-toggle&#34;&gt;⊕&lt;/label&gt;
+  &lt;input type=&#34;checkbox&#34; id=&#34;&#34; class=&#34;margin-toggle&#34;&gt;
+  &lt;span class=&#34;marginnote&#34;&gt;
+  
+
+  
+  
+  
+  
+  
+
+  &lt;/span&gt;
+
+
+  
+  &lt;img src=&#34;http://example.org/img/Debugging-Your-Thoughts-with-Mind-Maps_7.png&#34; &gt;
+  
+
+
+
+&lt;/figure&gt;
+
+
+
+
+  &lt;/section&gt;
+
+    
+&lt;/p&gt;
+
+&lt;p&gt;This is a lot better than what we started off with. To embed this in my brain, at the the bottom I usually like to write “conclusions” or “next steps” as a summary of the work done in the map. This way if I find this belief resurfacing, I can just review the conclusions without having to go through each node.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve continued to use this technique throughout my life. Many friends have come back to me saying this technique has resolved very complicated problems for them, ranging from break-ups to existential crises. Please let me know in a response why it worked or didn’t work for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you want to learn more about mind-maps check out my follow up post on&lt;/em&gt; &lt;a href=&#34;https://medium.com/@seanaubin/mind-maps-for-augmented-thinking-communication-24a7d949388d&#34;&gt;&lt;em&gt;using mind-maps for augmented thinking and communication.&lt;/em&gt;&lt;/a&gt; &lt;em&gt;If you liked this article and want to read more of my therapeutic psychology posts, consider&lt;/em&gt; &lt;a href=&#34;https://uwaterloo.us15.list-manage.com/subscribe?u=d5612fe997cc72aac70c4ffe9&amp;amp;id=76226838bc&#34;&gt;&lt;em&gt;subscribing to my mailing list&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
