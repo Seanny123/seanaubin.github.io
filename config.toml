@@ -4,7 +4,6 @@ title = "Voyageur Technologique"
 theme = "hugo-tufte"
 contentdir = "content"
 layoutdir = "layouts"
-publishDir = "docs"
 
 [params]
   copyrightHolder = "Sean Aubin"
