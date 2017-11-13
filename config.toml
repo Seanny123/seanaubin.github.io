@@ -2,4 +2,48 @@ baseurl = "https://seanaubin.github.io/"
 languageCode = "en-us"
 title = "Voyageur Technologique"
 theme = "hugo-tufte"
+contentdir = "content"
+layoutdir = "layouts"
 publishDir = "docs"
+
+[params]
+  copyrightHolder = "Sean Aubin"
+    showPoweredBy = true
+
+# -----------------------------------------------------------------------
+# Navigation menu 
+# -----------------------------------------------------------------------
+[[menu.nav]]
+  name = "Home"
+  pre = "<i class='fa fa-home fa-lg'></i> "
+  weight = -110 
+  identifier = "home"
+  url = "/"
+[[menu.nav]]
+  name = "Posts"
+  pre = "<i class='fa fa-book fa-lg'></i> "
+  weight = -100 
+  identifier = "posts"
+  url = "/post"
+[[menu.nav]]
+  name = "Categories"
+  pre = "<i class='fa fa-tags fa-lg'></i> "
+  weight = -90 
+  identifier = "categories"
+  url = "/categories"
+
+# -----------------------------------------------------------------------
+# Footer menu 
+# -----------------------------------------------------------------------
+[[menu.footer]]
+  name = ""
+  pre = "<i class='fa fa-github fa-2x'></i> "
+  weight = -100 
+  identifier = "github"
+  url = "https://github.com/Seanny123"
+[[menu.footer]]
+  name = ""
+  pre = "<i class='fa fa-twitter fa-2x'></i> "
+  weight = -90 
+  identifier = "twitter"
+  url = "https://twitter.com/voyageur_techno"

@@ -9,9 +9,7 @@ categories = ["Neuroscience", "Consciousness", "Subconscious"]
 The divide between what is conscious and what is subconscious is a fascinating question often because it acts as a proxy for more urgent personal questions, such as:
 
 - Who am I?
-
 - How much can I change?
-
 - What do I have control over?
 
 In this article, I won’t attempt to answer these questions directly (given they’re freaking hard questions), instead I’d like to approach this question in the only way I know how: by building a model based off of empirical, experimental and philosophical evidence. By “building” I mean just putting together two models that have already been built and by “evidence” I mean using the evidence in the papers that I took the models from, without explicitly stating it here.

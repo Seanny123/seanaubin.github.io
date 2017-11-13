@@ -107,10 +107,6 @@
   </url>
   
   <url>
-    <loc>https://seanaubin.github.io/page/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://seanaubin.github.io/categories/academia/</loc>
     <lastmod>2017-04-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -334,11 +330,6 @@
   <url>
     <loc>https://seanaubin.github.io/categories/open-science/</loc>
     <lastmod>2017-04-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://seanaubin.github.io/page/</loc>
     <priority>0</priority>
   </url>
   
