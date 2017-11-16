@@ -1,1 +1,1 @@
-mv public/* ../seanny123.github.io/
+cp -rf public/* ../seanny123.github.io/
