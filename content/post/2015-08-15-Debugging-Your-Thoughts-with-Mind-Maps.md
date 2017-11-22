@@ -6,7 +6,7 @@ categories = ["Psychology", "Mindmap", "Unsolicited Advice", "Therapy", "Self Im
 
 In this post, I'm going to give a quick overview of Cognitive Behaviour Therapy (CBT) and how it can be used with mind-maps to eliminate unhelpful thought patterns. In a way, this is just like debugging your brain like it’s a computer program. Somewhere in your computer code, there’s something that is causing unpleasantness. This post will show you how to find the source of this and fixing it.
 
-**Cognitive Behaviour Therapy**
+## Cognitive Behaviour Therapy
 
 When I was younger, I used to have problems with anxiety. When I went to the doctor, she mentioned cognitive behaviour therapy. She essentially described it as debugging your thoughts. Your thoughts are built by beliefs. Actions come from your thoughts. Beliefs are reinforced by your actions.
 
@@ -29,7 +29,7 @@ This may seem bloody obvious to you, but to me it was miraculous. I was no longe
 
 [As discussed elsewhere on the internet](http://slatestarcodex.com/2015/07/16/cbt-in-the-water-supply/#comment-219806), the main benefit of Cognitive Behaviour Therapy is working through your emotions while trying to identify the beliefs and rationalize them. Mind-maps are my way of digging down into a practical foundation for dissecting your thoughts.
 
-**An Example**
+## An Example
 
 As an example, let’s work through the belief that you’re never any good at big projects and you just got assigned one in this class that you love. To illustrate the process, I've used the program [MindMup](https://www.mindmup.com), but I highly recommend to just sticking with pencil and paper while you get comfortable with the idea of mind-maps.
 
@@ -121,7 +121,7 @@ And if you fail despite this new insight, is it the end of the world?
  >}}
 {{< section "end" >}}
 
-Alright! Now you've got some perspective, some evidence and some coping strategies. Here’s what the final mind-map looks like. You can click to zoom.
+Alright! Now you've got some perspective, some evidence and some coping strategies. Here’s what the final mind-map looks like.
 
 {{< figure
   src="/img/Debugging-Your-Thoughts-with-Mind-Maps_7.png"
