@@ -58,10 +58,10 @@ Basically, the process can be broken down as:
   src="/img/The-Basics-of-Non-Violent-Communication_0.png"
   class=""
   title=""
-  caption="Adapted from the same book mentioned previously ([source](https://docs.google.com/drawings/d/1MCkHBxkqJ8jPAFKiX5iDSeeXuMUTDBV--b8rf0wDUwY/edit?usp=sharing))"
+  caption="Adapted from the same book mentioned previously"
   label=""
-  attr=""
-  attrlink=""
+  attr="Google Drawing source"
+  attrlink="https://docs.google.com/drawings/d/1MCkHBxkqJ8jPAFKiX5iDSeeXuMUTDBV--b8rf0wDUwY/edit?usp=sharing"
   alt=""
   link=""
  >}}

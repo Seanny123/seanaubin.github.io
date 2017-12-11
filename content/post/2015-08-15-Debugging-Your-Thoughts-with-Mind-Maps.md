@@ -1,7 +1,7 @@
 +++
 title = "Debugging Your Thoughts with Mind-Maps"
 date = "2015-08-15"
-categories = ["Psychology", "Mindmap", "Unsolicited Advice", "Therapy", "Self Improvement"]
+categories = ["Psychology", "Mindmap", "Unsolicited Advice"]
 +++
 
 In this post, I'm going to give a quick overview of Cognitive Behaviour Therapy (CBT) and how it can be used with mind-maps to eliminate unhelpful thought patterns. In a way, this is just like debugging your brain like it’s a computer program. Somewhere in your computer code, there’s something that is causing unpleasantness. This post will show you how to find the source of this and fixing it.
