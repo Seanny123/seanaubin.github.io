@@ -1,7 +1,7 @@
 +++
 title = "List: Tools I love and hate"
 date = "2017-04-16"
-categories = ["Tools", "Recommendations"]
+categories = ["Software"]
 +++
 
 No one wants to read a series of blog posts about the various tools I use on a daily basis and how I feel about them. But maybe someone wants to read one blog post? Here it is in one place.

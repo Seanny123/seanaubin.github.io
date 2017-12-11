@@ -1,7 +1,7 @@
 +++
 title = "The Power of Now and The Dangers of Bullshit"
 date = "2016-09-15"
-categories = ["Science", "Self Improvement", "Bullshit", "Mindfulness", "Meditation"]
+categories = ["Book Review", "Psychology"]
 +++
 
 

@@ -1,7 +1,7 @@
 +++
 title = "Thing Explainer: Spaun"
 date = "2017-04-16"
-categories = ["Artificial Intelligence", "Neuroscience", "Thing Explainer", "Xkcd", "Machine Intelligence"]
+categories = ["Cognitive Science"]
 +++
 
 *\[epistemic status: poorly written, potentially missing the point and desperately in need of some figures\]*

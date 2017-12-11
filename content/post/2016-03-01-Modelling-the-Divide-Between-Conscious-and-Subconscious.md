@@ -1,7 +1,7 @@
 +++
 title = "Modelling the Divide Between Conscious and Subconscious"
 date = "2016-03-01"
-categories = ["Neuroscience", "Consciousness", "Subconscious"]
+categories = ["Cogntive Science", "Consciousness"]
 +++
 
 *\[epistemic status: although I've become adept with the Neural Engineering Framework and the Semantic Pointer Architecture, I'm not super comfortable in the philosophical depths of Cognitive Science. This article is not a professional presenting a final answer, but an amateur formulating their current view.\]*

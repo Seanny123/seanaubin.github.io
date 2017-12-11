@@ -3,7 +3,7 @@ layout: post
 title: "Twitter and Tear Gas"
 subtitle: "The Power and Fragility of Networked Protest"
 date: "2017-07-19"
-categories: ["book-review", "sociology"]
+categories: ["Book Review", "Communities", "Software"]
 ---
 
 At it's core, [Twitter and Tear Gas by Dr. Zeynep Tufekci](https://www.twitterandteargas.org/) is a delightful deep analysis of the structure of modern protest movements and the technologies that support them. It brought up a lot of things I knew were bad (grass roots organisation problems, "fake news") and made them impossible to ignore by shoving them in my face.
@@ -71,4 +71,4 @@ In addition to computery improvements, I think there might be some possible inno
 
 ## III.
 
-To summarize, if you want human stories bringing urgent issues to the surface, you need to read "Twitter and Tear Gas". Lack of money is no excuse, given the book is licensed under Creative Commons, thus is free to download{{% sidenote "ethereum" %}}Of course, buying the book supports the author better.{{% /sidenote %}}. If you know of any tentative solutions to the problems, please let me know so I can feel a slight bit of hope among all this despair.
+To summarize, if you want human stories bringing urgent issues to the surface, you need to read "Twitter and Tear Gas". Lack of money is no excuse, given the book is licensed under Creative Commons, thus is free to download{{% sidenote "ethereum" %}}Of course, buying the book supports the author better.{{% /sidenote %}}. Additionally, if you know of any tentative solutions to the problems, aside from the aforementioned Value-Based Design Philosophy, I would greatly appreciate further references.

@@ -1,7 +1,7 @@
 +++
 title = "How I got here: Failures, Privileges and Luck"
 date = "2016-07-14"
-categories = ["Academia", "Education", "Higher Education"]
+categories = ["Academia", "Education"]
 +++
 
 A while ago, I was talking to my friend who was over-idealising me as a result of reading [my CV](http://compneuro.uwaterloo.ca/files/people/aubin-cv.pdf). She was despondent about the prospect about ever achieving as much as I had, regardless of the field she chose to pursue. Naturally, I exploded with laughter. I got to my current amateurish position in my field of cognitive modelling in a [hilariously roundabout manner](http://compneuro.uwaterloo.ca/files/people/seanaubin/neurotweep_background.pdf) and I hardly consider myself successful.

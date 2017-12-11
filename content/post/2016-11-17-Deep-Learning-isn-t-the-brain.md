@@ -2,7 +2,7 @@
 title = "Deep Learning isn’t the brain"
 subtitle = "(but sometimes the results look like one)"
 date = "2016-11-17"
-categories = ["Artificial Intelligence", "Neuroscience", "Deep Learning", "Cognitive Science", "Machine Learning"]
+categories = ["Artificial Intelligence", "Deep Learning", "Cognitive Science", "Machine Learning"]
 +++
 
 *\[epistemic status: I work in a lab dedicated to biologically plausible neural circuits, so I’m informed on the problem, but probably still biased. There’s probably going be a follow-up post to this once I get a bunch of rebuttals from people smarter than me.\]*

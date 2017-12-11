@@ -1,7 +1,7 @@
 +++
 title = "Universal Basic Income: A Divide"
 date = "2016-08-21"
-categories = ["Basic Income", "Economics", "Labels"]
+categories = ["Economics"]
 +++
 
 *\[epistemic status: opinion piece with a plea for skepticism from someone with a very poor understanding of economics\]*

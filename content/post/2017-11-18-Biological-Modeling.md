@@ -1,7 +1,7 @@
 +++
 title = "Why Biologically Plausible Modelling is Ignored"
 date = "2017-11-18"
-categories = ["Medium", "Web Dev"]
+categories = ["Cognitive Science"]
 +++
 
 In a [previous post](https://seanny123.github.io/post/2017-05-09-Book-Review-The-Entrepreneurial-State/), I noted:

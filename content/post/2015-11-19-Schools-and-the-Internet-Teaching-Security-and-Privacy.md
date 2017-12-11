@@ -1,7 +1,7 @@
 +++
 title = "Schools and the Internet: Teaching Security and Privacy"
 date = "2015-11-19"
-categories = ["Privacy", "Security", "Education", "Data", "Law"]
+categories = ["Privacy", "Security", "Education", "Software", "Law"]
 +++
 
 *\[epistemological status: I'm not a privacy or security expert. This post isn't a thesis. This is an essay by an amateur.\]*

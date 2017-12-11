@@ -35,13 +35,13 @@ There is [a ton of work](http://cogsci.stackexchange.com/q/16269/4397) on biolog
 My new, much better informed position on DL is that I wish it didn’t exist in such isolation. [As I’ve written before](https://medium.com/@seanaubin/understanding-the-brain-where-metaphors-limit-you-13d5d5fbdc57#.9fw8ikmog), I think a promising line of research is integrating it with other approaches to cognitive modelling. If there was some way it was possible to move up and down the ladder of abstraction with DL, I would consider it a much better analogy for neural computation. Additionally, this would resolve the other weaker arguments (about DL not leveraging biological details, the limitations of current neuromorphic hardware and the lack of spike use in learning) from my previous post. Finally, this would also allow for the leveraging of the powerful developmental explanations allowed by DL by other cognitive modelling paradigms.
 
 {{< figure
-  src="/img/Deep-Learning-is-almost-the-brain_0.png"
+  src="/img/cog_model_ladder.png"
   class=""
   title=""
-  caption="The Cognitive Modelling [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/). ([image source](https://docs.google.com/drawings/d/1mknlMUpnFzRXpb3L_dt-x8hxYK42b1pxlNfYstDH8uc/edit?usp=sharing))"
+  caption="The Cognitive Modelling [Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)."
   label=""
-  attr=""
-  attrlink=""
+  attr="Image source"
+  attrlink="https://docs.google.com/drawings/d/1mknlMUpnFzRXpb3L_dt-x8hxYK42b1pxlNfYstDH8uc/edit?usp=sharing"
   alt=""
   link=""
  >}}
@@ -50,13 +50,13 @@ My new, much better informed position on DL is that I wish it didn’t exist in 
 I realise this is a purely philosophical position about what a good future for cognitive modelling looks like. I’m sure there are detractors who consider it unnecessary to connect to different approaches via biology. However I feel like a lack of synthesis can lead to overly complicated, unscalable models. For example, [Eric Crawford’s model of knowledge representation](http://compneuro.uwaterloo.ca/publications/crawford2015.html), which demonstrated how using symbols and neurons allows for much more scalable model than a purely neural approach. Alternatively, consider [Spaun](http://science.sciencemag.org/content/338/6111/1202). It is only able to perform many tasks and generate many predictions as a result of mixing different approaches which would only be possible with a much greater increase in complexity. However these are feelings, not facts.
 
 {{< figure
-  src="/img/Deep-Learning-is-almost-the-brain_1.png"
+  src="/img/humbling_tweet.png"
   class=""
   title=""
-  caption="([source](https://twitter.com/umruehren/status/816665138161799168))"
+  caption=""
   label=""
-  attr=""
-  attrlink=""
+  attr="Tweet source"
+  attrlink="https://twitter.com/umruehren/status/816665138161799168"
   alt=""
   link=""
  >}}

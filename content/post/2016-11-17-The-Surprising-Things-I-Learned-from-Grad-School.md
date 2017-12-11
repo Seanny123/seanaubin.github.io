@@ -1,7 +1,7 @@
 +++
 title = "The Surprising Things I Learned from Grad School"
 date = "2016-11-17"
-categories = ["Academia", "Academic Writing", "Science", "Software", "Technology"]
+categories = ["Academia", "Software"]
 +++
 
 I’ve been in grad school for a year now, so I figured now was as good of a time to reflect as ever.

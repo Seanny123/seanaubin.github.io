@@ -1,7 +1,7 @@
 +++
 title = "The Value of Thinking Programmatically: Another Apology"
 date = "2016-12-02"
-categories = ["Education", "Coding", "Computers", "Computer Science", "Mathematics"]
+categories = ["Education", "Software"]
 +++
 
 *\[epistemic status: an explainer for why people are excited about kids learning programming for people who don’t know programming. Probably* [*written about elsewhere more eloquently*](https://medium.com/humane-tech/its-more-than-just-teach-kids-to-code-177fd6cb7184#.82ep4vtvy)*.\]*

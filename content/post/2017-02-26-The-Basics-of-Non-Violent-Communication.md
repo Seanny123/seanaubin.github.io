@@ -1,7 +1,7 @@
 +++
 title = "The Basics of Non-Violent Communication"
 date = "2017-02-26"
-categories = ["Communication", "Relationships", "Nonviolent Communication"]
+categories = ["Communication", "Psychology"]
 +++
 
 

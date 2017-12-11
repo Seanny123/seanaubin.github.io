@@ -2,7 +2,7 @@
 title = "StackExchange for Open Science"
 subtitle = "Why it’s worth answering your own questions in public"
 date = "2017-04-28"
-categories = ["Stackexchange", "Academia", "Open Science", "Community"]
+categories = ["Academia", "Communities", "Software"]
 +++
 
 The next time you have to figure something out, to make sure you understand it, leave a question/answer pair on the [relevant StackExchange](https://stackexchange.com/sites#science-traffic). Why? I’LL TELL YOU WHY!

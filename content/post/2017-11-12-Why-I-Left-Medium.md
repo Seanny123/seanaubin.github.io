@@ -1,7 +1,7 @@
 +++
 title = "Why I’m leaving Medium"
 date = "2017-11-12"
-categories = ["Medium", "Web Dev"]
+categories = ["Software"]
 +++
 
 **They kept changing the damn layout on me.** I specifically chose Medium because they allowed you to have little side-notes shown at the same time as your main article. Then they made those side-notes "replies" even though they clearly weren’t the same thing as the existing "replies".

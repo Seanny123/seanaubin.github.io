@@ -1,7 +1,7 @@
 +++
 title = "Why “Learning Night” Works"
 date = "2016-09-10"
-categories = ["Learning", "Community Development", "Education", "Volunteering"]
+categories = ["Communities", "Education"]
 +++
 
 I’ve been running [Learning Night](https://learningnight.com/) at the University of Waterloo (LNUW) with the help of Christina Tan for around a year now and I think it’s safe to say it’s “working”. We have people that come to every night. We have new people every night that seem to react positively. There are new and challenging ideas that are discussed at least once a semester. People are learning new things. We’ve managed to keep it free and open to anyone. And unsurprisingly, we are totally unable to scale beyond 30 people, despite extensive recruitment efforts via conferences, other talks and Tinder. So why does “Learning Night” work, specifically at the University of Waterloo?

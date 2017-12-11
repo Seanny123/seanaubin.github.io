@@ -1,7 +1,7 @@
 +++
 title = "Book Review: How to Read a Book"
 date = "2016-07-30"
-categories = ["Book Review", "Reading", "Education"]
+categories = ["Book Review", "Education"]
 +++
 
 I started read “How to Read a Book” by Adler Mortimer (HRB) after one of the engineers I look up to, [Star Simpson](http://starsimpson.com/), professed that her ability to understand many technical papers resulted from the instruction contained therein. As someone who’s desperately trying to hack their way to understanding the field of Cognitive Science via intense reading, I figured trying to polish the art of what I was doing every day is time well spent.

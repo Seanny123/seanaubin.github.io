@@ -1,7 +1,7 @@
 +++
 title = "The Nefarious Interconnectedness of Well-being"
 date = "2016-11-24"
-categories = ["Mental Health", "Networks", "Psychology", "Therapy"]
+categories = ["Psychology"]
 +++
 
 *\[epistemic status: probably the cheesiest thing I’ve ever written and has probably been said better elsewhere\]*

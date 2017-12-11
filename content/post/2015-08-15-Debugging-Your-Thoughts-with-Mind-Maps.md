@@ -1,7 +1,7 @@
 +++
 title = "Debugging Your Thoughts with Mind-Maps"
 date = "2015-08-15"
-categories = ["Psychology", "Mindmap", "Unsolicited Advice"]
+categories = ["Psychology", "Mindmaps", "Unsolicited Advice"]
 +++
 
 In this post, I'm going to give a quick overview of Cognitive Behaviour Therapy (CBT) and how it can be used with mind-maps to eliminate unhelpful thought patterns. In a way, this is just like debugging your brain like it’s a computer program. Somewhere in your computer code, there’s something that is causing unpleasantness. This post will show you how to find the source of this and fixing it.
@@ -23,9 +23,9 @@ When I was younger, I used to have problems with anxiety. When I went to the doc
  >}}
 {{< section "end" >}}
 
-The simplified example my doctor gave is of someone who is worried about academic performance. They believe they will fail and that they’re rubbish at exams, so they keep thinking demoralizing thoughts. This will distract them from studying or freak them out, so when the exam finally comes you’ll do poorly. This action will reinforce your belief that you are destined to fail academically. So what you have to do is kill the irrational belief that no matter what you do, you will do poorly on an exam. This will break the cycle and free you from your spiraling thoughts.
+The example my doctor gave is of someone worried about academic performance. They believe they will fail and that they’re rubbish at exams, so they keep thinking demoralizing thoughts. This will distract them from studying or freak them out, so when the exam finally comes they’ll do poorly. This action will reinforce the belief they are destined to fail academically. To break this cycle and free themselves from their irrational thoughts, they have to kill the irrational belief. They have to kill the belief they will always poorly on an exam and are powerless to change it.
 
-This may seem bloody obvious to you, but to me it was miraculous. I was no longer a slave to my thoughts, I had a tool to confront them with.
+This idea of killing irrational beliefs with evidence may seem bloody obvious to you, but to me it was miraculous. I was no longer a slave to my thoughts, I had a tool to confront them with.
 
 [As discussed elsewhere on the internet](http://slatestarcodex.com/2015/07/16/cbt-in-the-water-supply/#comment-219806), the main benefit of Cognitive Behaviour Therapy is working through your emotions while trying to identify the beliefs and rationalize them. Mind-maps are my way of digging down into a practical foundation for dissecting your thoughts.
 
