@@ -1,5 +1,6 @@
 +++
-title = "Book Review: The Entrepreneurial State"
+title = "The Entrepreneurial State"
+subtitle = "Debunking Public vs. Private Sector Myths"
 date = "2017-05-09"
 categories = ["Economics", "Book Review"]
 +++
