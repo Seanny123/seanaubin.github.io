@@ -8,9 +8,12 @@
 - Add an RSS feed, because mailing lists are for jerks
 - Switch the table in "Nonviolent Communication" from HTML to Markdown
 - Make all the Mindmaps embedded
+- The figure aren't centered
 
 # Bonus:
 
 - Shove in a logo
 - Make clicking the title or the logo bring you back home
 - Fix the favicon to something not stupid
+- Find a way to identify previously used tags to avoid duplicates
+- Find an editor with spell-check in enabled in it.

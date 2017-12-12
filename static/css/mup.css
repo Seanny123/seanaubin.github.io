@@ -1,0 +1,210 @@
+html, body {
+    height: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+body.jsworks {
+    overflow:hidden;
+    margin:0;
+    padding:0;
+}
+#container {
+    background-color: #FFFFFF;
+}
+body.jsworks #container {
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    margin:0;
+    padding:0;
+    -webkit-tap-highlight-color: transparent;
+}
+body.jsworks #svgcontainer {
+    display: none;
+}
+#attachment-container {
+    width:100%;
+    height:100%;
+    min-height: 100%;
+    overflow: hidden;
+    background-color: #E0E0E0;
+}
+#attachment {
+    width :94%;
+    height: 95%;
+    width:calc(100% - 100px);
+    height:calc(100% - 100px);
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid #777;
+    border-radius: 10px;
+    background-color: white;
+    overflow: auto;
+    color:#4F4F4F;
+}
+
+.close.attachment {
+    top: 12px;
+    right: 10px;
+    border: 1px solid #777;
+    position: fixed;
+    text-align: center;
+    height: 34px;
+    width:34px;
+    background-color: white;
+    border-radius: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    z-index:999;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 30px;
+    color:black;
+    box-shadow: 2px 2px 2px #777;
+}
+.img-thumb {
+    max-width: 400px;
+    max-height: 400px;
+}
+#attachment iframe {
+    width: calc(100% - 30px);
+    height: calc(100% - 30px);
+    border: 0;
+}
+.note {
+    white-space: pre-wrap;
+}
+
+.progress-line {
+    height: 2px;
+    display: inline-block;
+    background-color: #6FD0F6;
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+}
+.progress-line:before {
+    margin: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #22AAE0;
+    content: '';
+    -webkit-animation: running-progress 2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    animation: running-progress 2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+@-webkit-keyframes running-progress {
+    0% {
+        margin-left: 0px;
+        margin-right: 100%;
+    }
+    50% {
+        margin-left: 25%;
+        margin-right: 0%;
+    }
+    100% {
+        margin-left: 100%;
+        margin-right: 0;
+    }
+}
+@keyframes running-progress {
+    0% {
+        margin-left: 0px;
+        margin-right: 100%;
+    }
+    50% {
+        margin-left: 25%;
+        margin-right: 0%;
+    }
+    100% {
+        margin-left: 100%;
+        margin-right: 0;
+    }
+}
+
+.hidden .progress-line {
+    display: none;
+}
+.hidden .progress-line:before, .hidden .progress-line:after {
+    -webkit-animation: none;
+    animation: none;
+}
+
+modalcontainer {
+    top: 0;
+    left: 0;
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+    background-color:  white;
+    z-index: 9999;
+}
+body:not(.jsworks) modalcontainer {
+    display: none;
+}
+modaldialog {
+    height: 512px;
+    width: 512px;
+    background-color: white;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: stretch;
+    align-items: stretch;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+    border-radius: 2px;
+    color: #757575;
+    font-family: Helvetica, Arial, sans-serif;
+}
+modaldialog.small {
+    height: 256px;
+}
+modaldialog.medium {
+    height: 384px;
+}
+modalcontent {
+    padding: 16px;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+}
+modalcontent div.progress-container {
+    margin-top: 100px;
+}
+.fadeInOut {
+    opacity: 1;
+    z-index: 1;
+    transition: opacity 0.6s, z-index 0.6s;
+}
+.fadeInOut.hidden {
+    opacity: 0;
+    z-index: -1;
+}
+:not(.fadeInOut).hidden {
+    display: none;
+}
+modaltitle {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    color: #22AAE0;
+    text-align: left;
+    padding: 16px;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select:none;
+    user-select: none;
+}
+.mapjs-link-hit {
+    display: none;
+}
+NotoFontLoader {
+  position: absolute;
+  visibility: hidden;
+  font-family: NotoSans;
+}
+
+NotoFontLoader .bold {
+  font-weight: bold;
+}
