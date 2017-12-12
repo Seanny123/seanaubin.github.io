@@ -1,10 +1,10 @@
----
-layout: post
-title: "Twitter and Tear Gas"
-subtitle: "The Power and Fragility of Networked Protest"
-date: "2017-07-19"
-categories: ["Book Review", "Communities", "Software"]
----
++++
+title = "Twitter and Tear Gas"
+subtitle = "The Power and Fragility of Networked Protest"
+date = "2017-07-19"
+categories = ["Book Review", "Communities", "Software"]
+draft = true
++++
 
 At it's core, [Twitter and Tear Gas by Dr. Zeynep Tufekci](https://www.twitterandteargas.org/) is a delightful deep analysis of the structure of modern protest movements and the technologies that support them. It brought up a lot of things I knew were bad (grass roots organisation problems, "fake news") and made them impossible to ignore by shoving them in my face.
 

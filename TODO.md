@@ -6,6 +6,8 @@
 - Switch to a less restrictive copyright
 - Add the startup ideas by making a separate feed for them
 - Add an RSS feed, because mailing lists are for jerks
+- Switch the table in "Nonviolent Communication" from HTML to Markdown
+- Make all the Mindmaps embedded
 
 # Bonus:
 
