@@ -32,7 +32,7 @@ This idea of killing irrational beliefs with evidence may seem bloody obvious to
 
 As an example, let’s work through the belief that you’re never any good at big projects and you just got assigned one in this class that you love. To illustrate the process, I've used the program [MindMup](https://www.mindmup.com), but I highly recommend to just sticking with pencil and paper while you get comfortable with the idea of mind-maps.
 
-<iframe src="/mup/debug_your_thoughts_0.html"></iframe>
+<iframe src="/mup/debugging_your_thoughts_0/index.html"></iframe>
 
 Your automatic thought is going to be you’ll fail, because you always fail.
 
@@ -106,7 +106,7 @@ And if you fail despite this new insight, is it the end of the world?
 
 Alright! Now you've got some perspective, some evidence and some coping strategies. Here’s what the final mind-map looks like.
 
-<iframe src="/mup/debug_your_thoughts_5.html"></iframe>
+<iframe src="/mup/debugging_your_thoughts_5/index.html"></iframe>
 
 
 This is a lot better than what we started off with. To embed this in my brain, at the the bottom I usually like to write “conclusions” or “next steps” as a summary of the work done in the map. This way if I find this belief resurfacing, I can just review the conclusions without having to go through each node.

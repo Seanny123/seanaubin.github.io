@@ -7,8 +7,12 @@
 - Add the startup ideas by making a separate feed for them
 - Add an RSS feed, because mailing lists are for jerks
 - Switch the table in "Nonviolent Communication" from HTML to Markdown
-- Make all the Mindmaps embedded
-- The figure aren't centered
+- Make all the Mindmups embedded, with resizable iframes or something by using a shortcode
+- Figures should be centered
+- Make a script for Minmups that:
+    - Removes Google Analytics, Twitter and OpenGraph stuff
+    - Change the mapjs reference
+    - Removes the awkwardly embedded CSS source
 
 # Bonus:
 
@@ -17,3 +21,4 @@
 - Fix the favicon to something not stupid
 - Find a way to identify previously used tags to avoid duplicates
 - Find an editor with spell-check in enabled in it.
+- Make Mindmaps clickable so people know to open them in a new window
