@@ -4,9 +4,15 @@ date = "2015-08-15"
 categories = ["Programming", "Mindmaps", "Communication"]
 +++
 
-In my [last post](https://medium.com/@seanaubin/debugging-your-thoughts-with-mind-maps-94aeecd2821d), I introduced the concept of a mind-map and how they can be applied to Cognitive Behaviour Therapy. However, this is far from the only possible application.
+In my [last post](https://seanny123.github.io/post/2015-08-15-Debugging-Your-Thoughts-with-Mind-Maps/), I introduced the concept of a mind-map and how they can be applied to Cognitive Behaviour Therapy. However, this is far from the only possible application.
 
-In this post, I'm going to show how mind-maps can be shared for enhancing inter-personal communication, as well how they can be used privately for life-goal tracking, taking notes during presentations and programming. I’ll finish off this overview with software suggestions and a bit of philosophising as to why mind-maps are so effective.
+This post shows how mind-maps can be used for:
+
+1. A shared medium for enhancing inter-personal communication
+2. Life-goal tracking
+3. Taking notes during presentations and programming
+
+I’ll finish off this overview with software suggestions and a bit of philosophising as to why mind-maps are so effective.
 
 ## Mind-maps for communication
 

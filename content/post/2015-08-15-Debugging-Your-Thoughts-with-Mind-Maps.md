@@ -4,7 +4,7 @@ date = "2015-08-15"
 categories = ["Psychology", "Mindmaps", "Unsolicited Advice"]
 +++
 
-In this post, I'm going to give a quick overview of Cognitive Behaviour Therapy (CBT) and how it can be used with mind-maps to eliminate unhelpful thought patterns. In a way, this is just like debugging your brain like it’s a computer program. Somewhere in your computer code, there’s something that is causing unpleasantness. This post will show you how to find the source of this and fixing it.
+This post gives a quick overview of Cognitive Behaviour Therapy (CBT) and how it can be used with mind-maps to eliminate unhelpful thought patterns. In a way, this is just like debugging your brain as if it’s a computer program. Somewhere in your computer code, there’s something that is causing unpleasantness. This post will show you a technique to locate the source of unpleasentness and fix it.
 
 ## Cognitive Behaviour Therapy
 
@@ -36,81 +36,30 @@ As an example, let’s work through the belief that you’re never any good at b
 
 Your automatic thought is going to be you’ll fail, because you always fail.
 
-{{< figure
-  src="/img/Debugging-Your-Thoughts-with-Mind-Maps_2.png"
-  class=""
-  title=""
-  caption=""
-  label=""
-  attr=""
-  attrlink=""
-  alt=""
-  link=""
- >}}
+<iframe src="/mup/debugging_your_thoughts_1/index.html"></iframe>
 
 Well, now you've got to come up with some evidence for that belief as dictated by CBT. In this case, the past unsuccessful projects.
 
-{{< figure
-  src="/img/Debugging-Your-Thoughts-with-Mind-Maps_3.png"
-  class=""
-  title=""
-  caption=""
-  label=""
-  attr=""
-  attrlink=""
-  alt=""
-  link=""
- >}}
+<iframe src="/mup/debugging_your_thoughts_2/index.html"></iframe>
 
 But all this evidence needs some counter-evidence.
 
-{{< figure
-  src="/img/Debugging-Your-Thoughts-with-Mind-Maps_4.png"
-  class=""
-  title=""
-  caption=""
-  label=""
-  attr=""
-  attrlink=""
-  alt=""
-  link=""
- >}}
+<iframe src="/mup/debugging_your_thoughts_3/index.html"></iframe>
 
 On a good day, your counter-evidence wins automatically and you feel better, but today is a bad day and you’re still anxious about that project. So you’ve failed before. Do you know why? What can you do to prevent failure again?
 
-{{< figure
-  src="/img/Debugging-Your-Thoughts-with-Mind-Maps_5.png"
-  class=""
-  title=""
-  caption=""
-  label=""
-  attr=""
-  attrlink=""
-  alt=""
-  link=""
- >}}
+<iframe src="/mup/debugging_your_thoughts_4/index.html"></iframe>
 
 And if you fail despite this new insight, is it the end of the world?
 
-{{< figure
-  src="/img/Debugging-Your-Thoughts-with-Mind-Maps_6.png"
-  class=""
-  title=""
-  caption=""
-  label=""
-  attr=""
-  attrlink=""
-  alt=""
-  link=""
- >}}
+<iframe src="/mup/debugging_your_thoughts_5/index.html"></iframe>
 
 Alright! Now you've got some perspective, some evidence and some coping strategies. Here’s what the final mind-map looks like.
 
-<iframe src="/mup/debugging_your_thoughts_5/index.html"></iframe>
-
+<iframe src="/mup/debugging_your_thoughts_6/index.html"></iframe>
 
 This is a lot better than what we started off with. To embed this in my brain, at the the bottom I usually like to write “conclusions” or “next steps” as a summary of the work done in the map. This way if I find this belief resurfacing, I can just review the conclusions without having to go through each node.
 
 I've continued to use this technique throughout my life. Many friends have come back to me saying this technique has resolved very complicated problems for them, ranging from break-ups to existential crises. Please let me know in a response why it worked or didn’t work for you.
 
-*If you want to learn more about mind-maps check out my follow up post on* [*using mind-maps for augmented thinking and communication.*](https://medium.com/@seanaubin/mind-maps-for-augmented-thinking-communication-24a7d949388d) *If you liked this article and want to read more of my therapeutic psychology posts, consider* [*subscribing to my mailing list*](https://uwaterloo.us15.list-manage.com/subscribe?u=d5612fe997cc72aac70c4ffe9&id=76226838bc)*.*
+*If you want to learn more about mind-maps check out my follow up post on* [*using mind-maps for augmented thinking and communication.*](https://seanny123.github.io/post/2015-08-15-Mind-maps-for-Augmented-Thinking-and-Communication/) *If you liked this article and want to read more of my therapeutic psychology posts, consider* [*subscribing to my mailing list*](https://uwaterloo.us15.list-manage.com/subscribe?u=d5612fe997cc72aac70c4ffe9&id=76226838bc)*.*

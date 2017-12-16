@@ -5,7 +5,7 @@ date = "2017-05-09"
 categories = ["Economics", "Book Review"]
 +++
 
-When I was first getting interested in Cognitive Science, I started reading “How to Build a Brain” by Chris Eliasmith. By the end of it, I felt biologically plausible modelling was hugely important for the advance of Cognitive Science. I also knew this feeling was misleading given I had no familiarity of the argument landscape. Why wasn’t everyone else doing biologically plausible modelling? Why were they still using their seemingly inferior frameworks? It took me three years, a conference, part of my master’s degree, [more than a hundred questions on CogSci.SE](https://cogsci.stackexchange.com/users/4397/seanny123?tab=questions) and multiple blog posts to figure out satisfactory answers to those questions.
+When I was first getting interested in Cognitive Science, I started reading “How to Build a Brain” by Chris Eliasmith. By the end of it, I felt biologically plausible modelling was hugely important for the advance of Cognitive Science. I also knew this feeling was misleading given I had no familiarity with the argument landscape. Why wasn’t everyone else doing biologically plausible modelling? Why were they still using their seemingly inferior frameworks? It took me three years, a conference, part of my master’s degree, [more than a hundred questions on CogSci.SE](https://cogsci.stackexchange.com/users/4397/seanny123?tab=questions) and multiple blog posts to figure out satisfactory answers to those questions.
 
 And now, after reading “[The Entrepreneurial State: debunking public vs. private sector myths](https://marianamazzucato.com/entrepreneurial-state/)” by Dr. Mazzucato, I feel the same way, but I don’t have three years to dedicate to it’s investigation.
 
