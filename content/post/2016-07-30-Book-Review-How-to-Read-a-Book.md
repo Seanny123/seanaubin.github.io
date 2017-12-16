@@ -1,5 +1,5 @@
 +++
-title = "Book Review: How to Read a Book"
+title = "How to Read a Book"
 date = "2016-07-30"
 categories = ["Book Review", "Education"]
 +++

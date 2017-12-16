@@ -4,7 +4,7 @@ date = "2015-11-19"
 categories = ["Privacy", "Security", "Education", "Software", "Law"]
 +++
 
-*\[epistemological status: I'm not a privacy or security expert. This post isn't a thesis. This is an essay by an amateur.\]*
+*\[epistemological status: I'm not a privacy or security expert. This post isn't a thesis, it's an essay by an amateur.\]*
 
 Privacy is weird. Anyone who says it’s simple and straightforward, clearly isn't using the Internet. Thanks to the rise of technology, it’s almost impossible to gauge accurately what privacy compromise (messing up your settings on a social media website) will result in a privacy catastrophe (somebody knowing something you REALLY didn't want them to know about) later down the road. Given that it’s something ambiguous and difficult to grasp, somewhat like sexual health, it’s a great idea to teach in schools. However, I have a few issues with the current approaches.
 
