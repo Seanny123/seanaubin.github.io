@@ -6,6 +6,7 @@ contentdir = "content"
 layoutdir = "layouts"
 
 [params]
+  copyright = "Licensed under <a href='https://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons 4.0 Attribution & Non-Commercial</a>"
   copyrightHolder = "Sean Aubin"
     showPoweredBy = true
 

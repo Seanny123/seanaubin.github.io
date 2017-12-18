@@ -2,10 +2,8 @@
 
 - We still have to include all the anotations from before
 - The bulleted lists still look weird
-- I messed up checking out the theme repo
 - Clicking on the title should also bring you home
 - Move the PDFs of my background and the CV of failures off the lab server
-- Switch to a less restrictive copyright
 - Add the startup ideas by making a separate feed for them
 - Add an RSS feed, because mailing lists are for jerks
 - Switch the table in "Nonviolent Communication" from HTML to Markdown
