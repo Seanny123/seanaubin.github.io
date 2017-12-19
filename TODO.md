@@ -1,7 +1,7 @@
 # TODO:
 
 - We still have to include all the anotations from before
-- The bulleted lists still look weird
+- The bulleted lists still look weird (probably due to interactions with annotations)
 - Clicking on the title should also bring you home
 - Move the PDFs of my background and the CV of failures off the lab server
 - Add the startup ideas by making a separate feed for them
