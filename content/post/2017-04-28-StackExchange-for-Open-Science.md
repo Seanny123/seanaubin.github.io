@@ -1,19 +1,19 @@
 +++
 title = "StackExchange for Open Science"
-subtitle = "Why it’s worth answering your own questions in public"
+subtitle = "It’s worth answering your own questions in public"
 date = "2017-04-28"
 categories = ["Academia", "Communities", "Software"]
 +++
 
-The next time you have to figure something out, to make sure you understand it, leave a question/answer pair on the [relevant StackExchange](https://stackexchange.com/sites#science-traffic). Why? I’LL TELL YOU WHY!
+The next time you have to figure something out, to make sure you understand it, leave a question/answer pair on the [StackExchange dedicated to your branch of science](https://stackexchange.com/sites#science-traffic).
 
 ## You’re helping yourself the most
 
-You take notes anyways and the best way to remember something is to restructure the knowledge you’re trying to store. Might as well write the notes in public so other people can read them and jump in on your trail of reasoning. And by “other people”, I include your future self who’s forgotten you even had the question in the first place.
+When taking notes, the best way is to restructure the knowledge you’re trying to store. Writing the notes in public so other people can read them and jump in on your trail of reasoning forces you to do this restructuring. And by “other people”, I include your future self who’s forgotten you even had the question in the first place.
 
 ## It will make you a better writer
 
-In my experience, the difference between a good writer and a bad one is how much feedback they’ve gotten. On StackExchange, [people are incentivized to suggest edits to your question](https://meta.stackexchange.com/help/editing). These edits are reviewed by the community, so it’s common to revisit your question later and find it greatly improved, along with explanations of the improvements.
+In my experience, the difference between a good writer and a bad one is how much feedback they’ve gotten. On StackExchange, [people are incentivized to suggest edits to your question](https://meta.stackexchange.com/help/editing). These edits are then reviewed by the community. Consequently, it’s common to revisit your question and find it greatly improved with carefully explained edits you can learn from.
 
 ## Everyone will be nice
 
@@ -25,9 +25,9 @@ Blog posts are hard. You have to consider an intended audience, a scope and a st
 
 ## Direct feedback
 
-With my blog, I get two metrics: visits and comments. With a question, I get to know if I helped someone else by visits, but also upvotes. I get to be notified if my answer has become out of date with comments left by other users. I get to know if my answer wasn’t as complete as it could have been, by reading other answers to the same question.
+With my blog, I get two metrics: visits and comments. With a question, I get to know if I helped someone else by visits, but also upvotes. I get to be notified if my answer has become out of date with comments left by other users. By reading other answers to the same question, I get to know if my answer wasn’t as complete as it could have been.
 
 ---
 
-Try it. Be one of the first 20 people to ask 5 upvoted questions on one of [the science StackExchange sites](https://stackexchange.com/sites#science-traffic) (starting from the date of this blog post) and I’ll give 5 dollars to the charity of your choice. Send me a link to your profile with your linked Twitter profile via Twitter as proof. If you’re having a tough time or it isn’t working for you, talk to me.
+Try it. It doesn't have to be a long-term commitment. 
 
