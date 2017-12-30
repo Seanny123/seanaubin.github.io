@@ -1,6 +1,5 @@
 +++
-title = "Understanding The Brain"
-subtitle = "Where Metaphors Limit You"
+title = "Against Metaphors for Brain Understanding"
 date = "2015-09-17"
 categories = ["Cognitive Science", "Philosophy"]
 +++
