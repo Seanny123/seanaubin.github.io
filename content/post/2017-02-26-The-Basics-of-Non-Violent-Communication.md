@@ -53,20 +53,43 @@ Given that human beings have needs, when you are interacting with someone who is
 Basically, the process can be broken down as:
 
 
-
-{{< figure
-  src="/img/The-Basics-of-Non-Violent-Communication_0.png"
-  class=""
-  title=""
-  caption="Adapted from the same book mentioned previously"
-  label=""
-  attr="Google Drawing source"
-  attrlink="https://docs.google.com/drawings/d/1MCkHBxkqJ8jPAFKiX5iDSeeXuMUTDBV--b8rf0wDUwY/edit?usp=sharing"
-  alt=""
-  link=""
- >}}
-{{< section "end" >}}
-
+<table>
+  <tr>
+    <th colspan="2">The Non-Violent Communication Process</th>
+  </tr>
+  <tr>
+    <td>Clearly expressing how I am without blaming or criticizing</td>
+    <td>Receiving how you are without blame or criticism</td>
+  </tr>
+  <tr>
+    <td colspan="2">1. Observations</td>
+  </tr>
+  <tr>
+    <td>What I observe that brings up feelings/emotions, either positive or negative: *“When I (see, hear)…”*</td>
+    <td>What you observe that brings up feelings/emotions, either positive or negative: *“When you (see, hear)…”*</td>
+  </tr>
+  <tr>
+    <td colspan="2">2. Feelings</td>
+  </tr>
+  <tr>
+    <td>How I feel (emotion or sensation, not a thought) about what I observe: *“I feel…”*</td>
+    <td>How you feel (emotion or sensation, not a thought) about what I observe: *“You feel…”*</td>
+  </tr>
+  <tr>
+    <td colspan="2">3. Needs</td>
+  </tr>
+  <tr>
+    <td>What I value or a need I have (not recommending a preference or specific action) that causes the feeling: *“because I need/value…”*</td>
+    <td>What you value or a need you have (not recommending a preference or specific action) that causes the feeling: *“because I need/value…”*</td>
+  </tr>
+  <tr>
+    <td colspan="2">4. Requests</td>
+  </tr>
+  <tr>
+    <td>Concrete actions I would like taken: *“Would you be willing to...”*</td>
+    <td>Concrete actions I would like taken: *“Would you like if...”*</td>
+  </tr>
+</table>
 
 
 This seems simple enough, but [there are some pitfalls to avoid](http://rest-is-rust.tumblr.com/post/152198686610/notes-from-nonviolent-communication):
