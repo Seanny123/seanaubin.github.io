@@ -5,6 +5,10 @@ theme = "hugo-tufte-dark"
 contentdir = "content"
 layoutdir = "layouts"
 
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+
 [author]
   name = "Sean Aubin"
 
