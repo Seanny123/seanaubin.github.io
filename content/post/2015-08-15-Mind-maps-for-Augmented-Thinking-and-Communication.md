@@ -4,7 +4,7 @@ date = "2015-08-15"
 categories = ["Programming", "Mindmaps", "Communication"]
 +++
 
-In my [last post](https://seanny123.github.io/post/2015-08-15-Debugging-Your-Thoughts-with-Mind-Maps/), I introduced the concept of a mind-map and how they can be applied to Cognitive Behaviour Therapy. However, this is far from the only possible application.
+In my [last post]({{< ref "2015-08-15-Debugging-Your-Thoughts-with-Mind-Maps.md" >}}), I introduced the concept of a mind-map and how they can be applied to Cognitive Behaviour Therapy. However, this is far from the only possible application.
 
 This post shows how mind-maps can be used for:
 
@@ -29,28 +29,16 @@ I really like the Internet for various reasons, but discussion on them look like
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 I also like what a lot of people write on the Internet, but sometimes certain places on the Internet seem to cause [toxoplasmas of rage](http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/).
 
 I have a hypothesis that a lot of communication breaks down because of a few simple sources of confusion that aren't well-supported in the current discussion format of the internet:
 
--   
-
-    History (this is where I’m coming from)
--   
-
-    Context (this is what I think we’re both talking about)
--   
-
-    Time (I want to write a comment reply, not a blog post)
--   
-
-    Audience (I’m replying to you? I’m replying to this whole thread?)
--   
-
-    Reasoning (how did you get from point A to point B)
-
+- History (this is where I’m coming from)
+- Context (this is what I think we’re both talking about)
+- Time (I want to write a comment reply, not a blog post)
+- Audience (I’m replying to you? I’m replying to this whole thread?)
+- Reasoning (how did you get from point A to point B)
 
 Like any engineering with illusions of grandeur, I started thinking of various fantastical solutions to this problem. Like creating a language where the certainty of a fact is conjugated into a verb.
 
@@ -87,7 +75,6 @@ For my personal use, I like to review every week in the form of a mind-map where
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 If I see one of goals hasn't had progress in a while, I can start thinking about why. Maybe that goal isn't as important to me as I thought? Is some barrier stopping me from getting started?
 
@@ -112,7 +99,6 @@ My solution was to make mind-maps as notes. They look like this.
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 I highlight things that confused me in red and keep two branches off of the root node for “Asides” and “Questions”. “Asides” are ideas that sprouted from this talk but probably aren’t related. “Questions” are general and require follow-up with various people.
 
@@ -137,7 +123,6 @@ An added bonus is the ability to review what you've considered to re-evaluate yo
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 ## Software
 

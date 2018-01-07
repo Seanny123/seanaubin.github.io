@@ -33,7 +33,6 @@ When I say the aforementioned traditional processors and their parallel co-proce
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 ## Neuromorphic Hardware
 
@@ -58,7 +57,6 @@ Encoders mean the non-linear weighted input into a neuron. This means neurons ha
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 To get back out of the distributed neuron world, all we need is decoders. Decoders are linear weights on the output of a neuron that get summed together to either recreate the original signal (the top circle) or an arbitrary non-linear function (the bottom figure-eight).
 
@@ -73,7 +71,6 @@ To get back out of the distributed neuron world, all we need is decoders. Decode
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 You can even chain decoders and encoders together to get the equivalent to a traditional all-neurons-interconnected neural network. Basically, you get all the benefits of neural networks without having to save a whole darn weight matrix.
 
@@ -88,7 +85,6 @@ You can even chain decoders and encoders together to get the equivalent to a tra
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 {{< figure
   src="/img/A-Way-Around-the-Coming-Performance-Walls-Neuromorphic-Hardware-with-Spiking-Neurons_4.png"
@@ -101,7 +97,6 @@ You can even chain decoders and encoders together to get the equivalent to a tra
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 With Nengo you can also do symbol-like and dynamic processing, as well as learning (both self-organising and error-driven) and combined all together you can build Spaun, the world’s largest functioning brain model. However, to explain all that stuff [would take a book](http://www.amazon.com/How-Build-Brain-Architecture-Architectures/dp/0190262125). All you need to know, is that Nengo let’s you define models of human-like behaviour in spiking neurons. A spiking neuron computational core allows for distributed (lots of neurons), asynchronous and parallel (neurons don’t wait) computing.
 
@@ -128,7 +123,6 @@ To review, let’s contrast the development process of Nengo models and traditio
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 ## Problem Solved?
 

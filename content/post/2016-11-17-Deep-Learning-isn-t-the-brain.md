@@ -7,7 +7,7 @@ categories = ["Artificial Intelligence", "Deep Learning", "Cognitive Science", "
 
 *\[epistemic status: I work in a lab dedicated to biologically plausible neural circuits, so I’m informed on the problem, but probably still biased. There’s probably going be a follow-up post to this once I get a bunch of rebuttals from people smarter than me.\]*
 
-***Update:*** *As expected, I got a bunch of rebuttals and have* [*adjusted my position accordingly*](https://medium.com/@seanaubin/deep-learning-is-almost-the-brain-3aaecd924f3d)
+***Update:*** *As expected, I got a bunch of rebuttals and have* [*adjusted my position accordingly*]({{< ref "2016-11-17-Deep-Learning-isn-t-the-brain.md" >}})
 
 I keep seeing [academic](http://biorxiv.org/content/biorxiv/early/2016/08/23/071076.full.pdf) and [non-academic articles](http://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity/) comparing Deep Learning (DL) and the brain. This offends my sensibilities a bit, because although there are [many](http://compneuro.uwaterloo.ca/publications/sharma2016b.html) [results](http://www.pnas.org/content/111/23/8619.abstract) from DL that resembles certain areas of the brain, DL is not a good overall description of the brain. DL explicitly passes the buck on biological plausibility (like almost every other cognitive modelling approach) and implies that it’s “neurons” can be implemented biologically, it’s just that no one has bothered yet. I think the problem goes much deeper and that DL is missing a lot of the key features of the brain, which makes it a poor analogical target.
 
@@ -42,4 +42,3 @@ In conclusion, there are a lot of features of the brain that DL is omitting, thu
 That’s a work in progress. There are 2 people ([Aaron Voelker](http://compneuro.uwaterloo.ca/people/aaron-russell-voelker.html) and [Peter Duggins](http://compneuro.uwaterloo.ca/people/peter-duggins.html)) of the 16-strong [Computation Neuroscience Research Group](http://compneuro.uwaterloo.ca/index.html) (CNRG) that I belong to who are working on the problem of more complex neuron models. [Eric Hunsberger](http://compneuro.uwaterloo.ca/people/eric-hunsberger.html) is working on biologically plausible back-prop and the moment he has a break-through you can be sure I’ll be shoving it in everyone’s face.
 
 As for neurogenesis, There’s no good computational model of what neurogenesis does and the CNRG lacks the resources to do that sort of basic research. Dendritic and glial cell computation has no one working on it, because we’re only 16 people. If that bothers you, maybe you want to join us?
-

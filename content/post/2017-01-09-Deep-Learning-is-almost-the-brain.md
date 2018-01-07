@@ -20,7 +20,6 @@ People emailed me and I read their stuff! As I predicted, I was sometimes horrib
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 Below is an update/clarification on my positions.
 
@@ -32,7 +31,7 @@ There is [a ton of work](http://cogsci.stackexchange.com/q/16269/4397) on biolog
 
 ## Against theoretical isolation: a manifesto
 
-My new, much better informed position on DL is that I wish it didn’t exist in such isolation. [As I’ve written before](https://medium.com/@seanaubin/understanding-the-brain-where-metaphors-limit-you-13d5d5fbdc57#.9fw8ikmog), I think a promising line of research is integrating it with other approaches to cognitive modelling. If there was some way it was possible to move up and down the ladder of abstraction with DL, I would consider it a much better analogy for neural computation. Additionally, this would resolve the other weaker arguments (about DL not leveraging biological details, the limitations of current neuromorphic hardware and the lack of spike use in learning) from my previous post. Finally, this would also allow for the leveraging of the powerful developmental explanations allowed by DL by other cognitive modelling paradigms.
+My new, much better informed position on DL is that I wish it didn’t exist in such isolation. [As I’ve written before]({{< ref "2015-09-17-Understanding-The-Brain-Where-Metaphors-Limit-You.md" >}}), I think a promising line of research is integrating it with other approaches to cognitive modelling. If there was some way it was possible to move up and down the ladder of abstraction with DL, I would consider it a much better analogy for neural computation. Additionally, this would resolve the other weaker arguments (about DL not leveraging biological details, the limitations of current neuromorphic hardware and the lack of spike use in learning) from my previous post. Finally, this would also allow for the leveraging of the powerful developmental explanations allowed by DL by other cognitive modelling paradigms.
 
 {{< figure
   src="/img/cog_model_ladder.png"
@@ -45,7 +44,6 @@ My new, much better informed position on DL is that I wish it didn’t exist in 
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 I realise this is a purely philosophical position about what a good future for cognitive modelling looks like. I’m sure there are detractors who consider it unnecessary to connect to different approaches via biology. However I feel like a lack of synthesis can lead to overly complicated, unscalable models. For example, [Eric Crawford’s model of knowledge representation](http://compneuro.uwaterloo.ca/publications/crawford2015.html), which demonstrated how using symbols and neurons allows for much more scalable model than a purely neural approach. Alternatively, consider [Spaun](http://science.sciencemag.org/content/338/6111/1202). It is only able to perform many tasks and generate many predictions as a result of mixing different approaches which would only be possible with a much greater increase in complexity. However these are feelings, not facts.
 
@@ -60,13 +58,12 @@ I realise this is a purely philosophical position about what a good future for c
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 The only way I can see my philosophy can be proved wrong is if cognitive modelling advances without consulting biology. In which case I will abandon my pretences and join everyone in the realm of pure mathematics. Until then I’ll keep trying to build my ladder.
 
 ---
 
-This philosophical approach isn’t easy and I’m sure others have attempted this. I’m just not clear on why the other attempts failed. Is it a [lack of reproducible computational experiments due to various problems](https://medium.com/@seanaubin/the-surprising-things-i-learned-from-grad-school-8a0efd458ae0#.94hfg15yq)? Or was it just too difficult until now? I look forward to working to find out.
+This philosophical approach isn’t easy and I’m sure others have attempted this. I’m just not clear on why the other attempts failed. Is it a [lack of reproducible computational experiments due to various problems]({{< ref "2016-11-17-The-Surprising-Things-I-Learned-from-Grad-School.md" >}})? Or was it just too difficult until now? I look forward to working to find out.
 
 *If you liked this article and want to read more of my brain science posts, consider* [*subscribing to my mailing list*](https://uwaterloo.us15.list-manage.com/subscribe?u=d5612fe997cc72aac70c4ffe9&id=76226838bc)*.*
 

@@ -1,5 +1,6 @@
 +++
-title = "Schools and the Internet: Teaching Security and Privacy"
+title = "Let Teens be Weird on the Internet"
+subtitle = "Teaching Security and Privacy in Schools"
 date = "2015-11-19"
 categories = ["Privacy", "Security", "Education", "Software", "Law"]
 +++
@@ -20,22 +21,19 @@ However, when I read materials on the subject, I find two assumptions are made. 
   src="/img/Schools-and-the-Internet-Teaching-Security-and-Privacy_0.png"
   class=""
   title=""
-  caption="<http://imgs.xkcd.com/comics/dreams.png>"
+  caption=""
   label=""
-  attr=""
-  attrlink=""
+  attr="Taken from XKCD"
+  attrlink="http://imgs.xkcd.com/comics/dreams.png"
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 The issue of anonymity is the easiest to address. You just need to educate kids about the basic ways people are usually identified online (IP addresses, location data and social give-aways mostly) and how more advanced ways are always being developed. Tell them that the best bet right now is Tor and explain how it works. Hell, send them [my cringe-inducing YouTube Video on the topic](https://www.youtube.com/watch?v=zt5pjH68EMY). This way, if they want to do something creative and push the boundaries, they do it in a way that won’t be tracked. This is the same approach we take with safe-sex. We don’t want teens to be having sex, but if they’re going to have it, they might as well be safe about it. We don’t want teens to share angry poems or violent images, but [since they’re going to](http://www.vice.com/read/shooter-boys-and-at-risk-girls), they might as well do it in a way that’s safe.
 
-
-
 Obviously, Tor doesn't solve everything. Talking about people you know and/or posting pictures/videos of yourself will immediately identify you. Which brings us to the second issue.
 
-## 2. Anyone who is a victim of a leak is automatically evil and worthy of ## eternal shame.
+## 2. Anyone who is a victim of a leak is automatically evil and worthy of eternal shame.
 
 My primary problem with auto-shaming victims of leaks is it assumes consent. Most people with compromising photos on websites haven’t put them up themselves. [Computers can be hacked, trust can be broken and images can be falsified using Photoshop](http://www.xojane.com/it-happened-to-me/charlotte-laws-hunter-moore-erin-brockovich-revenge-porn).
 
@@ -59,7 +57,7 @@ Teach online ethics. Teach kids to talk to their parents or teachers if they fin
 
 A lot of the guides seem to miss the pervasiveness and legality of data collection. [Your cellphone data is being sold](http://adage.com/article/datadriven-marketing/24-billion-data-business-telcos-discuss/301058/). [Your computer is probably spying on you, even if it’s operating system open-source](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=792580).
 
-This is a harder topic to talk about, since it’s much more nuanced, but I still think kids should be educated about the importance of open-source software, d[ata should be emphasized as a liability, not a commodity](http://boingboing.net/2015/09/11/data-is-a-liability-not-an-as.html) and finally, the law shouldn't be idealised, but shown to be flawed and unable to keep up with technological advances without citizen intervention.
+This is a harder topic to talk about, since it’s much more nuanced, but I still think kids should be educated about the importance of open-source software, [data should be emphasized as a liability, not a commodity](http://boingboing.net/2015/09/11/data-is-a-liability-not-an-as.html) and finally, the law shouldn't be idealised, but shown to be flawed and unable to keep up with technological advances without citizen intervention.
 
 ---
 

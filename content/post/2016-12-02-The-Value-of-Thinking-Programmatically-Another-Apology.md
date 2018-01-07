@@ -1,5 +1,6 @@
 +++
-title = "The Value of Thinking Programmatically: Another Apology"
+title = "The Value of Thinking Programmatically"
+subtitle = "Another Apology"
 date = "2016-12-02"
 categories = ["Education", "Software"]
 +++

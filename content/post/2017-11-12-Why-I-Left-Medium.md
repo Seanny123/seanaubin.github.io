@@ -1,5 +1,5 @@
 +++
-title = "Why I’m leaving Medium"
+title = "Why I Left Medium"
 date = "2017-11-12"
 categories = ["Software"]
 +++
@@ -14,7 +14,7 @@ categories = ["Software"]
 
 **The bright layout literally hurts my eyes.** I’m sensitive to light, so I can’t look at bright web-pages too long without getting a head-ache and becoming nauseous. I’ve solved this partially with [Stylus](https://add0n.com/stylus.html), but it’s not a very durable solution.
 
-**The page size is ridiculous.** My [book review for "The Entrepreneurial State"](https://seanny123.github.io/post/2017-05-09-Book-Review-The-Entrepreneurial-State/) is literally 10 times smaller on my new website than when it was hosted on Medium. This means faster load times and a wider reach.
+**The page size is ridiculous.** My [book review for "The Entrepreneurial State"]({{< ref "2017-05-09-Book-Review-The-Entrepreneurial-State.md" >}}) is literally 10 times smaller on my new website than when it was hosted on Medium. This means faster load times and a wider reach.
 
 That being said, I am going to miss the WYSIWYG editor and the instant change visibility.
 

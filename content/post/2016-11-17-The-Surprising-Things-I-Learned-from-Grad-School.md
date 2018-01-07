@@ -51,7 +51,6 @@ Part of keeping up with research is reading a lot of papers. I thought for sure 
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 ---
 
@@ -67,28 +66,16 @@ Here’s are a few tricks I use when teaching or learning from other people.
 
 **Useful questions**
 
--   
-
-    What’s the last thing you understood?
--   
-
-    Can you say what I just said back to me, but using different words?
--   
-
-    What is the closest thing that you think you know to this concept?
--   
-
-    What do you mean by… ? What did you think I meant by… ?
+- What’s the last thing you understood?
+- Can you say what I just said back to me, but using different words?
+- What is the closest thing that you think you know to this concept?
+- What do you mean by… ? What did you think I meant by… ?
 
 
 **When meeting with someone**
 
--   
-
-    Be specific about what you need from them: “I want your help deciding… ?”
--   
-
-    Make sure you both leave with the same conclusion: “What I’m going to remember from this is… ? Is this what you wanted me to remember?”
+- Be specific about what you need from them: “I want your help deciding… ?”
+- Make sure you both leave with the same conclusion: “What I’m going to remember from this is… ? Is this what you wanted me to remember?”
 
 
 The post-doc in my lab, Terry Stewart, has this down to an art form. To the point that I frequently like to watch him teach concepts to people just to see how he manoeuvres through their understanding like a hawk through a canyon.
@@ -99,12 +86,6 @@ Admittedly, I still need to work on my similes and metaphors.
 
 I currently have no idea how to communicate with mathematical concepts textually. I literally have to translate them from/to code. I learned this during my undergrad, where math made sense to me for the first time in my life after I learned how to program. However, I only realised serious it was this semester. I look at a sum and I think “Okay, a for-loop”. I see a chain of equations and I think “Where’s the source code?”
 
-Consequently, unless I’ve programmed something, like back-prop or the Neural Engineering Framework. I cannot say I truly understand it. This is a bit problematic at the moment, given my immense confusion with the following things which I need to rectify in the next 7 months and I’m not sure they’re easy to code:
-
--  Partially Observable Markov Decision Processes. What are those things?
-
-- How do Restricted Boltzmann Machines use Monte-Carlo Markov-Chains to optimise themselves?
-
-- Why is sensor fusion still such a big, open topic?
+Consequently, unless I’ve programmed something, like back-prop or the Neural Engineering Framework. I cannot say I truly understand it. This is a bit problematic at the moment, given my immense confusion with the following things which I need to rectify in the next 7 months and I’m not sure they’re easy to code.
 
 Wish me luck.

@@ -37,7 +37,6 @@ How can this be applied to consciousness? In [this model by Paul Thagard and Ter
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 Basically, it’s saying you get representations in your brain from your motor system, your sensory inputs, your emotions and your verbal productions. What you become conscious of is a result of one of those representations winning/losing the fight for your attention.
 
@@ -54,7 +53,6 @@ That’s consciousness, so everything below that must be subconscious. Most of t
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 It argues that emotion is a result of a combination of neural representations of your physiology (am I hot/cold?), your situation (can I turn up the thermostat?), and your appraisal (what do I think about all of this?).
 
@@ -71,10 +69,9 @@ Putting these two together, you get something that looks like this.
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 This is all very abstract and hard to follow, so let’s use a more practical example in the form of someone who has anxiety. Because often the best way to understand a system is to look at it while it’s malfunctioning and (more importantly) coming up with ways to fix it.
 
-Anxiety has multiple causes and thus multiple solutions. Sometimes it can be a product of a situation, in which case the situation can be fixed or avoided using action. Other times the cause is less concrete, arriving in the form of a maladaptive thought pattern, in which case the appraisal part of this system needs to be remedied, possibly using [Cognitive Behaviour Therapy](https://medium.com/@seanaubin/debugging-your-thoughts-with-mind-maps-94aeecd2821d#.x7tekal3x). Finally, there’s the possibility that physiologically the person consistently finds they are constantly in “flight or fight” mode without cause, which could be remedied with medication. Obviously every case of anxiety disorder is unique and which options are pursued are up to the individual.
+Anxiety has multiple causes and thus multiple solutions. Sometimes it can be a product of a situation, in which case the situation can be fixed or avoided using action. Other times the cause is less concrete, arriving in the form of a maladaptive thought pattern, in which case the appraisal part of this system needs to be remedied, possibly using [Cognitive Behaviour Therapy]({{< ref "2015-08-15-Debugging-Your-Thoughts-with-Mind-Maps.md">}}). Finally, there’s the possibility that physiologically the person consistently finds they are constantly in “flight or fight” mode without cause, which could be remedied with medication. Obviously every case of anxiety disorder is unique and which options are pursued are up to the individual.
 
 This is one view of consciousness, which provides some useful explanatory mechanisms, but I'm certainly not claiming it’s the right one. I'm currently trying to gain more subtlety in my perspective on this matter by reading different perspectives, such as [Joscha Bach](https://www.youtube.com/watch?v=2o2xBOQeB7Q)’s MicroPsi framework. I’ll write another post (or more likely post a question/answer on [CogSci.SE](https://cogsci.stackexchange.com/tour)) once I've put my thoughts together.

@@ -21,7 +21,6 @@ It’s also awkward to describe how interconnected all of these things are. You 
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 Instead, you usually get something that looks like this:
 
@@ -36,7 +35,6 @@ Instead, you usually get something that looks like this:
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 Because instead of the progress on these things looking like a bunch of parallel branches:
 
@@ -51,7 +49,6 @@ Because instead of the progress on these things looking like a bunch of parallel
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 You get some cluster-muffin like this:
 
@@ -66,7 +63,6 @@ You get some cluster-muffin like this:
   alt=""
   link=""
  >}}
-{{< section "end" >}}
 
 If you’re lucky, there are solutions to all these things can be supported with a community that help you commit to the incremental process, but if you’re not as lucky you might get stuck.
 

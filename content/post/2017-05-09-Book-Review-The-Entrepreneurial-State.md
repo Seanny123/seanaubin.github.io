@@ -35,7 +35,7 @@ Links to well thought-out criticisms, particularly in peer-reviewed journals, wo
 
 ---
 
-Overall, the book is masterfully written, but it raises more questions than it answers. What does a good developmental bank look like? Why are the DARPA folks so good at determining when to pull out of a bad investment? How does a government know when it has committed sufficient amount of funding? How does a government know if the distribution of spending is adequate? Can all of these goals be accomplished transparently? When are shareholder buy-backs reasonable and not a sign of a dysfunctional economy?
+Overall, the book is masterfully written, but it raises more questions than it answers. What does a good developmental bank look like? Why are the DARPA folks so good at determining when to pull out of a bad investment? How does a government know when it has committed sufficient amount of funding? How does a government know if the distribution of spending is adequate? Can all of these goals be accomplished transparently? [When are shareholder buy-backs reasonable](https://economics.stackexchange.com/q/19897/13059) and not a sign of a dysfunctional economy?
 
 I supposed my inability to answer these questions is due to the fact I am neither a politician, nor an economist. However, recommendations for further reading to answer these questions would be appreciated. Until then, you’ll probably be finding me on [Economics.SE](https://economics.stackexchange.com/) in the near future.
 

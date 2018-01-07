@@ -1,11 +1,10 @@
 +++
 title = "Quora and ResearchGate are horrible"
+subtitle = "Why StackExchange works"
 date = "None"
 categories = ["Academia", "Communities", "Software"]
 draft = true
 +++
-
-#### And why StackExchange works
 
 *\[epistemic status: exasperated rant trying to disguise itself as a persuasive essay\]*
 
