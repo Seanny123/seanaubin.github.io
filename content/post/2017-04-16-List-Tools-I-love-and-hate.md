@@ -29,4 +29,3 @@ No one wants to read a series of blog posts about the various tools I use on a d
 **Windows** I know you’re super-secure and you’re still the OS I trust my grandfather with, but you’ve made it impossible to move a window between virtual desktops with a keyboard shortcut. For this, I will never forgive you.
 
 **PDFs** I know why you exist, but it doesn’t make me hate you any less. You make me have to use other tools like pdfgrep just to search through you and you’re stunting the progress of scientific communication.
-

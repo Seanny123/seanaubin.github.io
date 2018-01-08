@@ -1,12 +1,10 @@
 # TODO:
 
-- We still have to include all the anotations from before
+- We still have to include all the annotations from before
 - The bulleted lists still look weird (probably due to interactions with annotations)
-- Clicking on the title should also bring you home
 - Move the PDFs of my background and the CV of failures off the lab server
 - Add the startup ideas by making a separate feed for them
 - Add an RSS feed, because mailing lists are for jerks
-- Switch the table in "Nonviolent Communication" from HTML to Markdown
 - Make all the Mindmups embedded, with resizable iframes or something by using a shortcode
 - Figures should be centered
 - Make a script for Minmups that:

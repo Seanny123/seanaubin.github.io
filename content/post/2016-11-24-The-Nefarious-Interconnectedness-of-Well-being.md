@@ -73,4 +73,3 @@ I don’t know what the solution for this is. Managing food is getting easier, t
 Recovery and coping is neither a uniform, nor a linear progression. Don’t expect it to be.
 
 *If you liked this article and want to read more about psychological research and therapy, consider* [*subscribing to my mailing list*](https://uwaterloo.us15.list-manage.com/subscribe?u=d5612fe997cc72aac70c4ffe9&id=76226838bc)*.*
-

@@ -102,4 +102,3 @@ Unless you live in a conflict zone, you’re probably going to need to find diff
 ## Appendix: Similar Philosophies
 
 It is also possible to find similarities between Non-Violent Communication and other philosophies. The need to see another person’s needs instead of just labelling them, is similar to [John Green’s request to imagine people complexly](https://web.archive.org/web/20160707223916/http://johngreenbooks.com:80/a-speech-i-wrote-for-the-alan-conference/). Additionally, needs and their connection to emotions are quite similar to [the values and their connection to emotion](https://medium.com/@edelwax/what-are-feelings-d54a741ea134#.qgjifho4g) espoused by Joe Edelman’s value-based [design culture](https://medium.com/@edelwax/nothing-to-be-done-bfe2ce71a3a2#.8xfp0sfs9).
-
