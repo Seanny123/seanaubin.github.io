@@ -15,8 +15,7 @@
 # Bonus:
 
 - Shove in a logo
-- Make clicking the title or the logo bring you back home
 - Fix the favicon to something not stupid
 - Find a way to identify previously used tags to avoid duplicates
-- Find an editor with spell-check in enabled in it.
 - Make Mindmaps clickable so people know to open them in a new window
+- Create redirect links for all the weird case-sensitive Hugo URLs
