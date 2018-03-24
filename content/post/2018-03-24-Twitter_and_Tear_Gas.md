@@ -1,9 +1,8 @@
 +++
 title = "Twitter and Tear Gas"
 subtitle = "The Power and Fragility of Networked Protest"
-date = "2017-07-19"
+date = "2018-03-24"
 categories = ["Book Review", "Communities", "Software"]
-draft = true
 +++
 
 At it's core, [Twitter and Tear Gas by Dr. Zeynep Tufekci](https://www.twitterandteargas.org/) is a delightful deep analysis of the structure of modern protest movements and the technologies that support them. It brought up a lot of things I knew were bad (grass roots organisation problems, "fake news") and made them impossible to ignore by shoving them in my face.
@@ -17,19 +16,19 @@ Besides logistical efficiency, the "horizontal" organisation{{% sidenote "horizo
 - Faster scaling up of the movement.
 - Increased the difficulty of disabling the movement by removing key people.
 
-However, this "horizontal" organisation also prevents a movement from adapting once they've scaled up. Both Tahrir Square and Occupy failed to convert their mass gatherings into political will. That being said, this tendency is not destiny. The Tea Party, despite it's horizontal organisation, affected local politics due to their intimate understanding of legislation procedure. Black Lives Matter, with their singular goal, have shifted the discourse around the justice system. Specifically, "tough on crime" is no longer a political no-brainer and police violence receives greater scrutiny.
+However, this "horizontal" organisation also prevents a movement from adapting once they've scaled up. Both Tahrir Square and Occupy failed to convert their mass gatherings into political will. That being said, this tendency of "horizontal" organisations is not destiny, as shown by The Tea Party and Black Lives Matter. The Tea Party affected local politics due to their intimate understanding of legislation procedure. Black Lives Matter, with their singular goal, have shifted the discourse around the justice system. Specifically, "tough on crime" is no longer a political no-brainer and police violence receives greater scrutiny.
 
-If the book ended here, you might leave disappointed by the organisational ability of groups, despite their access to liberating technology. However, this is where Dr. Tufekci comes with the knockout punch of information inundation or "fake news". Basically, given governments and other organisations can no longer control access to information, they make interpreting information nearly impossible by disrupting it's flow via distraction and misinformation.
+If Twitter and Tear Gas ended here, you might leave disappointed by the organisational ability of groups, despite their access to liberating technology. However, my disappointment quickly morphed into alarm as Dr. Tufecki covered the use of information inundation or "fake news" by those in power. Basically, given governments and other organisations can no longer control access to information due to the accessability of the Internet, they make interpreting information nearly impossible by disrupting it's flow via distraction and misinformation.
 
 
 Dr. Tufekci covers the topic of "fake news" in a whirlwind of examples:
 
-- Professionally taken photos, such as drowned refugees off the coast of Greece, have been robbed of their impact as the waters are muddied by claims of "Hoax!" and "Photoshopped!" {{% sidenote "ml-fake" %}}Even worse, advances in Machine Learning capabilities are making it easier to fake video/audio/photo evidence.{{% /sidenote %}}.
+- Professionally taken photos, such as drowned refugees off the coast of Greece, have been robbed of their impact as the waters are muddied by claims of "Hoax!" and "Photoshopped!".
 - Russia has used conspiracy theories and rumour to raise public dissent when Sweden considered joining NATO.
-- China is using an army of internet commentators to ask distracting questions and derail the conversation of any group geographically close enough to organise{{% marginnote "echo-chambers" %}}Dr. Tufekci also discusses "echo chambers", but I think the concern is [over-hyped](https//cogsci.stackexchange.com/q/17364/4397)). "Fake news" describes overwhelmed by an inundation of information and doubt despite desiring truth. "Echo chamber" describes finding people that agree with you. While the latter assumes people aren't even trying, the former instead claims they just don't have the tools to differentiate information sources. This lack of tools feels more realistic to me.{{% /marginnote %}}.
+- China is using an army of internet commentators to ask distracting questions and derail the conversation of any group geographically close enough to organise.
 - Given the difficulty of censoring Twitter, Turkey made it immoral to use instead.
 
-These tactics can turn an active movement into a passive state of confused hopeless that Adam Curtis describes as "[oh dear](https://www.youtube.com/watch?v=wcy8uLjRHPM)".
+These tactics can turn an active movement into a passive state of confused hopeless that Adam Curtis describes as "[oh dear](https://www.youtube.com/watch?v=wcy8uLjRHPM)"{{% marginnote "echo-chambers" %}}Dr. Tufekci also discusses "echo chambers", but I think the concern is [over-hyped](https//cogsci.stackexchange.com/q/17364/4397)). "Fake news" describes overwhelmed by an inundation of information and doubt despite desiring truth. "Echo chamber" describes finding people that agree with you. While the latter assumes people aren't even trying, the former instead claims they just don't have the tools to differentiate information sources. This lack of tools feels more realistic to me.{{% /marginnote %}}.
 
 
 ## II.
@@ -67,8 +66,10 @@ Maybe this isn't just a technical problem?
 
 ### Trust in Each Other
 
-In addition to computery improvements, I think there might be some possible innovation from a philosophical and psychological standpoint. Looking at the newest UK election, [people seem to be getting better at resisting bullshit](https://boingboing.net/2017/06/11/attention-snakeoil.html)? Joe Edelman{{% sidenote "liquid-demo" %}}Joe is actually distilling the writings of choice philosophers such as BLAH.{{% /sidenote %}} thinks to get better at resisting bullshit, we need to change how we relate to each-other. FUCK IT. WAIT FOR JOE TO PUBLISH THE ESSAY AND THEN WE'LL PUBLISH THIS ARTICLE WHILE LINKING TO IT.
+In addition to computery improvements, I think there might be some possible innovation from a philosophical and psychological standpoint. Looking at the newest UK election, [people seem to be getting better at resisting bullshit](https://boingboing.net/2017/06/11/attention-snakeoil.html)? Joe Edelman{{% sidenote "distill" %}}Joe is actually distilling the writings of choice philosophers, such as [Prof. Chang](http://ruthchang.net/).{{% /sidenote %}} thinks to get better at resisting bullshit, [we need to change how we relate to each-other](https://medium.com/what-to-build/how-to-design-social-systems-without-causing-depression-and-war-3c3f8e0226d1) by gaining a new view on human nature/purpose. The latter is where I'm currently investing my energy{{% sidenote "contact" %}}I'm currently organising workshops in the Waterloo area exploring these ideas. [Email me](mailto:seanaubin@gmail.com?subject=Values%20and%20Design) if you'd like to join on a workshop or if you want to help.{{% /sidenote %}}.
 
 ## III.
 
 To summarize, if you want human stories bringing urgent issues to the surface, you need to read "Twitter and Tear Gas". Lack of money is no excuse, given the book is licensed under Creative Commons, thus is free to download{{% sidenote "ethereum" %}}Of course, buying the book supports the author better.{{% /sidenote %}}. Additionally, if you know of any tentative solutions to the problems, aside from the aforementioned Value-Based Design Philosophy, I would greatly appreciate further references.
+
+*If you liked this book review, consider joining [my mailing list](http://eepurl.com/cOiPPD) to get updated about future book reviews.*

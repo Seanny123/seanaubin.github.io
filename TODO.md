@@ -7,6 +7,7 @@
 - Add an RSS feed, because mailing lists are for jerks
 - Make all the Mindmups embedded, with resizable iframes or something by using a shortcode
 - Figures should be centered
+- Add link to RSS feed and mailing list to header
 - Make a script for Minmups that:
     - Removes Google Analytics, Twitter and OpenGraph stuff
     - Change the mapjs reference
