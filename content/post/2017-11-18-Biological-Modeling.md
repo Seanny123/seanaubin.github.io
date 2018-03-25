@@ -19,7 +19,7 @@ My counter-argument to this is neuroscience is moderately ready and will never b
 
 1. Neurons represent inputs and the outside world
 2. Neurons transform these inputs using synapses, dendrites and axons
-3. Neurons learn over time how to do both these things
+3. Neurons learn over time how to do both items 1 and 2.
 4. Brain areas specialize to carry out certain computations
 
 Neuroscientific models will only gain explanatory power with greater constraints.
