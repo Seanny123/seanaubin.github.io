@@ -190,6 +190,6 @@ ResearchGate is a little more awkward. Their mission is “connect the world of 
 
 ---
 
-In summary: for the love of science, *run*, don’t walk, away from the platforms of Research Gate and Quora. Come to StackExchange if you want. At the very least, if you’re dedicated to those platforms, make your voice heard to help make them better. The ideas I’ve mentioned above aren’t patented and can be adopted!
+In summary, *run*, don’t walk, away from the platforms of Research Gate and Quora. Come to StackExchange if you want. At the very least, if you’re dedicated to those platforms, make your voice heard to help make them better. The ideas I’ve mentioned above aren’t patented and can be adopted!
 
 *If you liked this post on community building, consider joining [my mailing list](http://eepurl.com/cOiPPD) to get updated about meditations on communities.*
