@@ -5,7 +5,9 @@ categories = ["Software"]
 draft = true
 +++
 
-I keep seeing comic strips classifying programming languages. They're intentionally offensive, because it's impossible to say anything about a programming language without offending the language's users. Which makes sense, because you can't help but get emotionally attached to the thing you've been using for years to weave your dreams. So, throwing out all that prior consideration, here's my experience with programming languages.
+I keep seeing comic strips classifying programming languages. They're intentionally offensive, because it's impossible to say anything about a programming language without offending the language's users. Which makes sense, because you can't help but get emotionally attached to the thing you've been using for years to weave your dreams. It's also super fun to be hyper-critical about programming languages to the point of innacuracy. All programmers have been wronged by their language of choice or found themselves in the depths of debugging hell with a foreign language. How can you *not* resonate with criticism reflecting your pain?
+
+So, throwing out all that prior consideration and thoughtfulness, here's my experience with programming languages.
 
 ## Assembly
 
@@ -21,15 +23,15 @@ Super old language. Still used for writing math libraries and physics simulation
 
 ## C
 
-Successor to Fortran. Runs on damn near everything. It's what's probably running in your car, airplane and your hearing aid.
+Successor to Fortran. Runs on damn near everything. It's what's probably running on the microprocessors in your car, airplane and your hearing aid.
 
 ## COBOL
 
-Business successor to C. Runs most of the world's banking, insurance and accounting software on hardware that makes you throw out everything you thought you knew about computers, which means consultants who write this language make tons of money.
+Business successor to C. Runs most of the world's banking, insurance and accounting software on hardware. Makes you throw out everything you thought you knew about computers, which means consultants who write this language make tons of money.
 
 ## RPG
 
-The pre-cursor to COBOL. If seen in the wild, be afraid. Be VERY afraid.
+The precursor to COBOL. If seen in the wild, be afraid. Be VERY afraid.
 
 ## C++
 
@@ -117,7 +119,7 @@ One of the original functional languages. Some people at Facebook are so excited
 
 ## Matlab
 
-The original engineering/science language. Unparalleled at creating systems I have no experience with. A bunch of tools are written in this, so it's still used today in various fields. Great for starting language wars between scientists.
+The original engineering/science language. Unparalleled at creating systems I have no experience with. Horrible for creating a bunch of systems I do have experience with. A bunch of tools are written in this, so it's still used today in various fields. Great for starting language wars between scientists.
 
 ## Julia
 
@@ -157,15 +159,15 @@ Decided from the beginning to be as understandable as possible. Consequently, ha
 
 ## R
 
-A language designed for statisticians. People move between R and Python all the time. ## Great for starting fights between stats nerds by [comparing it to smoking](https://www.johndcook.com/blog/2012/02/29/comparing-r-to-smoking/)
+A language designed for statisticians. Great for starting fights between stats nerds by [comparing it to smoking](https://www.johndcook.com/blog/2012/02/29/comparing-r-to-smoking/)
 
 ## JavaScript
 
-it's the only running on the Web for years now, so people have been working really hard to nurture it from its awkward beginnings into a mature language. They have seen moderate success in this endeavour over the last few years. Has started running on servers too, because people hate having to know two languages.
+The only running on the Web for years now, so people have been working really hard to nurture it from its awkward beginnings into a mature language. They have seen moderate success in this endeavour over the last few years. Has started running on servers too, because people hate having to know two languages.
 
 ## TypeScript
 
-not technically a language, but adds types to JavaScript which makes it possible to use with an IDE and reduces the number of errors so drastically that I feel it should be mentioned. Made me realise I didn't hate static typing, I just hated C++.
+Not technically a language, but adds types to JavaScript which makes it possible to use with an IDE and reduces the number of errors so drastically it feels like a new language. Made me realise I didn't hate static typing, I just hated C++.
 
 ## Erlang/Elixir
 
@@ -173,11 +175,11 @@ Used by telecom companies and people with super hardcore distributed systems to 
 
 ## Bash
 
-Lets you glue a bunch of powerful shell tools together. Occasionally abused to create large-scale programs.
+Glues a bunch of shell tools together. Occasionally abused to create large-scale programs.
 
 ## PowerShell
 
-An object oriented shell language from Microsoft. Mainly praised/derided for not being Bash.
+An object oriented and API-focused shell language from Microsoft. Mainly praised/derided for not being Bash.
 
 ## TLA+
 
@@ -185,7 +187,7 @@ Some next-level systems design language I don't understand how to use properly. 
 
 ## Nock/Hoon
 
-Neo-reactionary language that [lets you turn political enemies into unpersons](https://www.popehat.com/2013/12/06/nock-hoon-etc-for-non-vulcans-why-urbit-matters/)
+Neo-reactionary language that [lets you turn political enemies into unpersons](https://www.popehat.com/2013/12/06/nock-hoon-etc-for-non-vulcans-why-urbit-matters/).
 
 ## Notes
 
