@@ -23,7 +23,7 @@ Neuroscience is moderately ready and will never be ready if we don't help. What 
 
 ### 1. Neurons represent the outside world to a certain degree.
 
-But not binary or discrete. Vectors of continuous numerical values. So, now adopting Vector Symbolic Architectures. Saved in a sparse and distributed manner.
+Neurons represent the outside world and perform computations on these represenations. However, these representations are not binary or discrete, due to the noisy environment of the brain. Instead, the current favoured representation is sparse vectors of continuous numerical values represented in a distributed manner with neurons. This is typically referred to as a Vector Symbolic Architecture.
 
 ### 2. Neurons can do certain types of computations.
 

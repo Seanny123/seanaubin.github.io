@@ -119,7 +119,7 @@ Naturally, coming from Academia, Research Gate falls for the same credential dep
   src="/img/Quora-and-ResearchGate-are-horrible_7.png"
   class=""
   title=""
-  caption="Are those numbers and institution supposed to mean something to me?"
+  caption="Are those numbers and institutions supposed to mean something to me?"
   label=""
   attr=""
   attrlink=""
@@ -181,7 +181,7 @@ StackExchange science-related sites have the single purpose of getting “[exper
   link=""
  >}}
 
-Yes, there is are job postings on StackOverflow, but they’re completely separate sites, thus keeping the focus on Q&A.
+Yes, there are job postings on StackOverflow, but they’re completely separate sites, thus keeping the focus on Q&A.
 
 ResearchGate is a little more awkward. Their mission is “connect the world of science and make research open to all.” But their execution is somewhat closer to what would happen if LinkedIn, Discourse, Google Reader and Academia were inbred for several generations.
 
