@@ -1,6 +1,5 @@
 +++
-title = "Quora and ResearchGate are horrible"
-subtitle = "Why StackExchange works"
+title = "Why StackExchange is superior to Quora and ResearchGate"
 date = "2018-03-24"
 categories = ["Academia", "Communities", "Software"]
 +++
@@ -46,7 +45,7 @@ Second, Research Gate:
   link=""
  >}}
 
-Two really vague questions and one well-phrased. Not bad, considering the interface is 30% profile information placed before you can even read the question.
+Two really vague questions and one well-phrased. Not bad.
 
 Lastly, here’s Quora:
 

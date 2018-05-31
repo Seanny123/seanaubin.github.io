@@ -2,12 +2,11 @@
 title = "My Experience with Programming Languages"
 date = "2018-04-02"
 categories = ["Software"]
-draft = true
 +++
 
 I keep seeing comic strips classifying programming languages. They're intentionally offensive, because it's impossible to say anything about a programming language without offending the language's users. Which makes sense, because you can't help but get emotionally attached to the thing you've been using for years to weave your dreams. It's also super fun to be hyper-critical about programming languages to the point of innacuracy. All programmers have been wronged by their language of choice or found themselves in the depths of debugging hell with a foreign language. How can you *not* resonate with criticism reflecting your pain?
 
-So, throwing out all that prior consideration and thoughtfulness, here's my experience with programming languages.
+Throwing out all that prior consideration and thoughtfulness, here's my experience with programming languages in no particular order.
 
 ## Assembly
 
@@ -107,7 +106,7 @@ Apparently even more amazing than Haskell for weird typing reasons I don't under
 
 ## Elm
 
-Haskell, but for building Web pages.
+Haskell, but for building Web pages, instead of proving theorems.
 
 ## Purescript
 
@@ -139,7 +138,7 @@ Wanted an expressive way to do things quickly, but ended up ugly as hell. There'
 
 ## Lua
 
-Keeps popping up where I don't expect it, like Game dev and Deep Learning. Has a JIT so beautiful it makes readers weep.
+Keeps popping up where I don't expect it, like Game Dev and Deep Learning. Has a JIT so beautiful it makes readers weep.
 
 ## PHP
 
@@ -155,15 +154,15 @@ Syntactic sugar taken to its conceptual extreme. Adored by the Japanese. Has thi
 
 ## Python
 
-Decided from the beginning to be as understandable as possible. Consequently, has ## libraries for damn near everything (Deep Learning, scientific computation, statistics, making visual novels... etc). People like to argue about v2 vs. v3, but it's never been a problem for me.
+Decided from the beginning to be as understandable as possible. Consequently, has libraries for damn near everything (Deep Learning, scientific computation, statistics, making visual novels... etc). People like to argue about v2 vs. v3, but it's never been a problem for me.
 
 ## R
 
-A language designed for statisticians. Great for starting fights between stats nerds by [comparing it to smoking](https://www.johndcook.com/blog/2012/02/29/comparing-r-to-smoking/)
+A language designed for statisticians. Great for starting fights between stats nerds by [comparing it to smoking](https://www.johndcook.com/blog/2012/02/29/comparing-r-to-smoking/).
 
 ## JavaScript
 
-The only running on the Web for years now, so people have been working really hard to nurture it from its awkward beginnings into a mature language. They have seen moderate success in this endeavour over the last few years. Has started running on servers too, because people hate having to know two languages.
+The only thing running on the Web for years now, so people have been working really hard to nurture it from its awkward beginnings into a mature language. They have seen moderate success in this endeavour over the last few years. Has started running on servers too, because people hate having to know two languages.
 
 ## TypeScript
 

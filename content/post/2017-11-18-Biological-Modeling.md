@@ -7,9 +7,9 @@ draft = true
 
 In a [previous post](https://seanny123.github.io/post/2017-05-09-Book-Review-The-Entrepreneurial-State/), I noted:
 
->When I was first getting interested in Cognitive Science, I started reading “How to Build a Brain” by Chris Eliasmith. By the end of it, I felt biologically plausible modelling was hugely important for the advance of Cognitive Science. I also knew this feeling was misleading given I had no familiarity of the argument landscape. Why wasn’t everyone else doing biologically plausible modelling? Why were they still using their seemingly inferior frameworks?
+> When I was first getting interested in Cognitive Science, I started reading “How to Build a Brain” by Chris Eliasmith. By the end of it, I felt biologically plausible modelling was hugely important for the advance of Cognitive Science. I also knew this feeling was misleading given I had no familiarity of the argument landscape. Why wasn’t everyone else doing biologically plausible modelling? Why were they still using their seemingly inferior frameworks?
 
-Years later, I can say with some confidence that there a generally three beliefs people hold about biologically cognitive modelling which justifies their lack of investigation into it's approach:
+Years later, I can say with some confidence that there a generally four beliefs people hold about biologically cognitive modelling which justifies their lack of investigation into it's approach:
 
 # I. Neuroscience isn't ready
 
@@ -22,6 +22,7 @@ There isn't enough information about the biological details to model them proper
 Neuroscience is moderately ready and will never be ready if we don't help. What is definitely obvious from neuroscience:
 
 ### 1. Neurons represent the outside world to a certain degree.
+
 But not binary or discrete. Vectors of continuous numerical values. So, now adopting Vector Symbolic Architectures. Saved in a sparse and distributed manner.
 
 ### 2. Neurons can do certain types of computations.
@@ -29,6 +30,7 @@ But not binary or discrete. Vectors of continuous numerical values. So, now adop
 No harsh if-statements where small change in input makes large change in output.
 Continuous time, actions (not instant) and parallel evaluation.
 Learning must be explicitly controlled.
+No global information sharing.
 
 ### 3. There are explicit modules present in the brain.
 
@@ -45,11 +47,10 @@ The biological details will be figured out later and will support the existing a
 
 ## Reply
 
-Feed-forward Deep Learning is seeming more biologically plausible every day. My labmate Su is working on bayesian networks and symbolic computation. However, the devil is in the details and there are many biologically implausible assumptions I see systems assume that will never be validated:
+Feed-forward Deep Learning is seeming [more biologically plausible every day](https://psychology.stackexchange.com/a/19776/4397). My labmate Su is working on bayesian networks and symbolic computation in spiking networks. However, the devil is in the details and there are many biologically implausible assumptions I see systems assume that will never be validated, such as:
 
-1. You can do k-WTA instantaneously.
-2. Deep Learning has timing problems that means it can't learn instantaneously.
-3. Seriously, no is paying attention to continuous time. 
+1. It is possble to do k-WTA instantaneously.
+2. It is possible to change the connection weights of a neural network instantaneously.
 
 # III. Pursuing biological plausibility is a losing game
 
@@ -61,15 +62,19 @@ Going after biological plausibility is a losing game. You'll never have enough d
 
 Like any puritanical pursuit, biological purism is doomed to failure. However, one can still pursue biological plausibility by choosing the right level of abstraction for the right model. As discussed in "[The use and abuse of large-scale brain models](https://www.sciencedirect.com/science/article/pii/S095943881300189X)":
 
->For the brain, we do not know the right level of detail beforehand, but exploring plausible levels *in the context of behavior* is likely to lead, most efficiently, to a good understanding of the structure/function relation.
+> For the brain, we do not know the right level of detail beforehand, but exploring plausible levels *in the context of behavior* is likely to lead, most efficiently, to a good understanding of the structure/function relation.
 >
->With these considerations in mind, it seems clear that arguing over the ‘right’ level of detail for brain models is misguided. We should always ask “right for what purpose?” The correct answer will often be controversial. But, building detailed models and simplifying them carefully is a good method for determining the best answers to such questions.
+> With these considerations in mind, it seems clear that arguing over the ‘right’ level of detail for brain models is misguided. We should always ask “right for what purpose?” The correct answer will often be controversial. But, building detailed models and simplifying them carefully is a good method for determining the best answers to such questions.
 
 To allow for the "right" level to be selected and for simplification to be carried out "carefully", you require tools that let you move between levels. As I discuss in a [previous post](https://seanny123.github.io/post/2017-01-09-Deep-Learning-is-almost-the-brain/), due to it's commitments to biological plausibility, the Neural Engineering Framework and the Semantic Pointer architecture offers a unique ability to move between these levels.
 
-## IV. Explaining variation is equivalent to explaining mechanisms
+# IV. Explaining variation is equivalent to explaining mechanisms
+
+## Example argument
 
 As shown in "[Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)", Deep Learning can explain a large amount of variation in the human visual cortex. This is encouraged by neural nets becoming less like black boxes with [encouraging research from many parties](https://twitter.com/voyageur_techno/status/866488636463697920).
+
+## Reply
 
 What's the difference between explaining learning mechanisms and explaining the resulting mechanisms?
 
