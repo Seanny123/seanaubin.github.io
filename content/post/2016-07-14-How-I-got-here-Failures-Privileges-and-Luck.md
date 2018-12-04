@@ -1,5 +1,5 @@
 +++
-title = "How I got here"
+title = "How I Got Here"
 subtitle = "Failures, Privileges and Luck"
 date = "2016-07-14"
 categories = ["Academia", "Education"]

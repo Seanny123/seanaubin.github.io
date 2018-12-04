@@ -33,7 +33,7 @@ The issue of anonymity is the easiest to address. You just need to educate kids 
 
 Obviously, Tor doesn't solve everything. Talking about people you know and/or posting pictures/videos of yourself will immediately identify you. Which brings us to the second issue.
 
-## 2. Anyone who is a victim of a leak is automatically evil and worthy of eternal shame.
+## 2. Leak victims are evil and worthy of eternal shame.
 
 My primary problem with auto-shaming victims of leaks is it assumes consent. Most people with compromising photos on websites haven’t put them up themselves. [Computers can be hacked, trust can be broken and images can be falsified using Photoshop](http://www.xojane.com/it-happened-to-me/charlotte-laws-hunter-moore-erin-brockovich-revenge-porn).
 
@@ -41,7 +41,7 @@ Additionally, by victim-blaming the leak, it absolves the leaker and the reader 
 
 Instead of blaming victims of leaks for their predicament, I would rather if teachers taught about empathy. People make mistakes and intent shouldn't be assumed. As John Green says, it’s important to [imagine people complexly](https://web.archive.org/web/20160707223916/http://johngreenbooks.com:80/a-speech-i-wrote-for-the-alan-conference/). Shaming, although becoming quite common given the [Toxoplasma of Rage](http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/), shouldn't be encouraged.
 
-## 3. Your privacy is sacred, except when the school takes it from you
+## 3. Privacy is sacred, except when the school takes it from you
 
 Continuing with the metaphor of sex education, in some of the materials I read, privacy is talked about in the same tone as abstinence-only sex-ed talks about virginity; once you lose it, you can’t get it back and it’s super valuable.
 
