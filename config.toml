@@ -1,4 +1,4 @@
-baseurl = "https://seanny123.github.io/"
+baseurl = "https://seanaubin.com/"
 languageCode = "en-us"
 title = "Voyageur Technologique"
 theme = "hugo-tufte-dark"
@@ -26,12 +26,14 @@ layoutdir = "layouts"
   weight = -110 
   identifier = "home"
   url = "/"
+
 [[menu.nav]]
   name = "Posts"
   pre = "<i class='fa fa-book fa-lg'></i> "
   weight = -100 
   identifier = "posts"
   url = "/post"
+
 [[menu.nav]]
   name = "Categories"
   pre = "<i class='fa fa-tags fa-lg'></i> "
@@ -48,6 +50,7 @@ layoutdir = "layouts"
   weight = -100 
   identifier = "github"
   url = "https://github.com/Seanny123"
+
 [[menu.footer]]
   name = ""
   pre = "<i class='fa fa-twitter fa-2x'></i> "
