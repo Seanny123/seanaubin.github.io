@@ -1,0 +1,3 @@
+[submodule "themes/hugo-tufte-dark"]
+	path = themes/hugo-tufte-dark
+	url = https://github.com/Seanny123/hugo-tufte-dark.git
