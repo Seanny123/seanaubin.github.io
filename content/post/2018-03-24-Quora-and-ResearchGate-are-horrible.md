@@ -136,7 +136,7 @@ Naturally, coming from Academia, Research Gate falls for the same credential dep
 
 ## You own your answer
 
-On StackExchange, [quetsions and answers are licensed](https://stackexchange.com/legal) under a [Creative Commons Attribution Sharealike](https://creativecommons.org/licenses/by-sa/3.0/) license. [Quora takes a more restrictive approach](https://www.quora.com/about/tos) and does not seem to even require attribution. More worryingly, [they block web-crawlers, including the Internet Archive](https://konklone.com/post/quora-keeps-the-worlds-knowledge-for-itself). I couldn’t even find the ResearchGate Q&A policy in [their copyright statement](https://www.researchgate.net/application.IntellectualPropertyPolicy.html), so I’m assuming they own all content you create.
+On StackExchange, [questions and answers are licensed](https://stackexchange.com/legal) under a [Creative Commons Attribution Sharealike](https://creativecommons.org/licenses/by-sa/3.0/) license. [Quora takes a more restrictive approach](https://www.quora.com/about/tos) and does not seem to even require attribution. More worryingly, [they block web-crawlers, including the Internet Archive](https://konklone.com/post/quora-keeps-the-worlds-knowledge-for-itself). I couldn’t even find the ResearchGate Q&A policy in [their copyright statement](https://www.researchgate.net/application.IntellectualPropertyPolicy.html), so I’m assuming they own all content you create.
 
 
 ## Separate avenues for discussion and answers
@@ -193,6 +193,6 @@ ResearchGate is a little more awkward. Their mission is “connect the world of 
 
 ---
 
-In summary, *run*, don’t walk, away from Research Gate and Quora. Come to StackExchange if you want. At the very least, if you’re dedicated to those platforms, make your voice heard to help make them better. The ideas I’ve mentioned above aren’t patented and can be adopted!
+Although they share similar goals, StackExchange is significantly more purposeful and focused than Quora and ResearchGate. StackExchange's focus on it's core mission translates into community tools lacking from it's competitors. Thus, you should *run*, don’t walk, away from Research Gate and Quora. Come to StackExchange if you want. At the very least, if you’re dedicated to those platforms, make your voice heard to help make them better. The ideas I’ve mentioned above aren’t patented and can be adopted!
 
 *If you liked this post on community building, consider joining [my mailing list](http://eepurl.com/cOiPPD) to get updated about meditations on communities.*
