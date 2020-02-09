@@ -6,11 +6,11 @@ categories = ["Communication", "Psychology"]
 
 *\[epistemic status: basic overview of a useful concept from an amateur, as opposed to the exhaustive description provided by* [*the excellently written Wikipedia article*](https://en.wikipedia.org/wiki/Nonviolent_Communication?oldformat=true) *or the various books on the topic\]*
 
-People are an unavoidable part of life. Humans have a natural tendency to want to be with other people and we often need help to pursue things we value. You’d think we would have developed a better way of working together that didn’t usually end up with people getting angry and hurt, or worse never being able to feel connected to anyone you’re around at all.
+Collaboration and community are an unavoidable part of life. Despite this necessity, interactions between people often end with anger and hurt. You’d think we would have developed a better way of working and connecting with each-other.
 
-Marshall Rosenberg tried to fix our ability to understand each other. He developed this system called Non-Violent Communication (NVC), which he used in a ton of different conflict situations, ranging from couples therapy to negotiating peace between warring groups.
+Marshall Rosenberg developed Non-Violent Communication (NVC), a set of social approaches, to provide a healthy baseline for communication and understanding. He used NVC in a ton of different conflict situations, ranging from couples therapy to negotiating peace between warring groups.
 
-Non-Violent Communication tells you a way of modelling and interacting with human beings in a peaceful and productive matter. It models human beings as having needs and needing empathy. When these needs get violated, emotions like anger and sadness arise. There are some basic needs that everyone shares, like food, water and sleep. There are other basic needs that might vary subjectively from person to person, but are still easy to relate to, like the need for beauty and order. Below are some examples I’ve adapted from “Living Nonviolent Communication: Practical Tools to Connect and Communicate Skillfully in Every Situation” by Marshall Rosenberg:
+NVC tells you a way of modelling human beings to interact with them in a peaceful and productive matter. It models human beings as having needs and needing empathy. When these needs get violated, emotions like anger and sadness arise. There are some basic needs that everyone shares, like food, water and sleep. There are other basic needs that might vary subjectively from person to person, but are still easy to relate to, like the need for beauty and order. Below are some examples I’ve adapted from “Living Nonviolent Communication: Practical Tools to Connect and Communicate Skillfully in Every Situation” by Marshall Rosenberg:
 
 > **Physical Nurturance** Rest, food/water, air, shelter, touch, protection from life-threatening danger, movement/exercise
 
@@ -24,7 +24,7 @@ Non-Violent Communication tells you a way of modelling and interacting with huma
 
 > **Abstract values** Beauty, order, harmony, peace, inspiration
 
-Given that human beings have needs, when you are interacting with someone who is angry or sad, you should try to address those needs directly. Wrong! You’re probably going to end up misunderstanding them. There are a lot of needs and Marshall people need their emotions addressed before they can introspect to identify their own needs. Peaceful interaction comes from showing empathy by acknowledging feelings and then trying to address needs.
+Given that human beings have needs, when you are interacting with someone who is angry or sad, you might think you should try to address those needs directly. Unfortunately, it's not so simple! By targeting needs, you are likely to misunderstand them and cause frustration. There are too many needs to intuit them! Furthermore, people need their emotions addressed before they can stop being defensive and identify their own needs via introspection. In other words, peaceful interaction comes from showing empathy by acknowledging feelings and then trying to address needs.
 
 Basically, the process can be broken down as:
 
@@ -83,7 +83,7 @@ This seems simple enough, but [there are some pitfalls to avoid](http://rest-is-
 
 ## Examples
 
-My favourite example comes from Marshall’s peace-keeping work, which I’ve adapted below from [one of his interviews](http://www.inquiringmind.com/Articles/Peacemaker.html). Try to see how the four steps noted above are used.
+My favourite example comes from Marshall’s peace-keeping work, which I’ve adapted below from [one of his interviews](http://www.inquiringmind.com/Articles/Peacemaker.html). Try to see how the four steps noted above are used in the scenario.
 
 > About eight years ago, I was mediating between a Muslim tribe and a Christian tribe in northern Nigeria. In their conflict, a quarter of the population had been killed. At that time, they were fighting about how many places in the marketplace each side would have to display their products. I started the reconciliation process with them by saying that I was confident that if we could hear each other’s needs, we could find a way to get everybody’s needs met. Inviting whoever wanted to start, I asked: “What needs of yours are not getting met?” The chief from the Christian tribe screamed, “You people are murderers!” Notice that when I asked him what needs weren’t getting met, his response was to tell me what was wrong with the other side. This provoked a counter judgement. Somebody on the Muslim side screamed back, “You’ve been trying to dominate us! We’re not going to tolerate it any more!”
 
