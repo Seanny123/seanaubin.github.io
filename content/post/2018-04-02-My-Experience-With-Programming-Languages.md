@@ -4,7 +4,7 @@ date = "2018-04-02"
 categories = ["Software"]
 +++
 
-I keep seeing comic strips classifying programming languages. They're intentionally offensive, because it's impossible to say anything about a programming language without offending the language's users. Which makes sense, because you can't help but get emotionally attached to the thing you've been using for years to weave your dreams. It's also super fun to be hyper-critical about programming languages to the point of innacuracy. All programmers have been wronged by their language of choice or found themselves in the depths of debugging hell with a foreign language. How can you *not* resonate with criticism reflecting your pain?
+I keep seeing comic strips classifying programming languages. They're unavoidably offensive, because it's impossible to say anything about a programming language without offending the language's users. Which makes sense, because you can't help but get emotionally attached to the thing you've been using for years to weave your dreams. It's also super fun to be hyper-critical about programming languages to the point of innacuracy. All programmers have been wronged by their language of choice or found themselves in the depths of debugging hell with a foreign language. How can you *not* resonate with criticism reflecting your pain?
 
 Throwing out all that prior consideration and thoughtfulness, here's my experience with programming languages in no particular order.
 
@@ -22,31 +22,39 @@ Super old language. Still used for writing math libraries and physics simulation
 
 ## C
 
-Successor to Fortran. Runs on damn near everything. It's what's probably running on the microprocessors in your car, airplane and your hearing aid.
+Successor to Fortran. Runs on damn near everything. It's what wrote the code for the microprocessors in your car, airplane and your hearing aid.
 
 ## COBOL
 
 Business successor to C. Runs most of the world's banking, insurance and accounting software on hardware. Makes you throw out everything you thought you knew about computers, which means consultants who write this language make tons of money.
 
-## RPG
-
-The precursor to COBOL. If seen in the wild, be afraid. Be VERY afraid.
-
 ## C++
 
-Successor to C allowing for Object Oriented Programming and templates. The foundation for many foundational systems.
+Successor to C allowing for Object Oriented Programming and templates. The foundation for many essential systems.
+
+## LISP
+
+Let's people define their own domain specific languages. In theory, extremely powerful. In practice, makes reading someone else's code extremely painful. I don't trust anyone's opinion on it, unless they've also written a large program in OCaml.
+
+## OCaml
+
+One of the original functional languages. Some people at Facebook are so excited about it, they're using it for everything.
 
 ## Rust
 
-Saw the code people were writing in C/C++ and decided to make it easier to write parallel code without breaking things. Equivalent to sun breaking through the clouds after 40 days of rain for many C++ systems developpers.
+Saw the code people were writing in C/C++ and decided to make it easier to write parallel code without breaking things. Equivalent to sun breaking through the clouds after 40 days of rain for many C++ systems developers.
+
+## Zig
+
+An alternative to C and Rust, created by a person so convinced they could make a better alternative, that they quite their job and live off donations.
 
 ## Java
 
-Saw the code people were writing in C/C++ and bring them closer to Smalltalk. Also, wanted to stop people doing evil things like redifining False to 1. Now synonymous with boring business systems.
+Saw the code people were writing in C/C++ and tried to bring them closer to Smalltalk. Also, wanted to stop people doing evil things like redifining False to 1. Now synonymous with boring business systems and obtuse descriptions of simple concepts.
 
 ## Go
 
-Google’s response to Java and C++. Compiles fast and runs fast, while still being pretty easy for a programmer to write.
+Google’s alternative to Java and C++. Compiles fast and runs fast, while maintaining [utter contempt](https://twitter.com/16kbps/status/1195081752659865615?s=20) for developper's ability to learn new skills.
 
 ## Basic
 
@@ -66,7 +74,11 @@ Academia's attempt at an evidence-based language for everyone.
 
 ## Scala
 
-When people who do functional programming have to work with Java people.
+When functional programming people have to work with Java people.
+
+## Clojure
+
+When LISP people have to work with Java people.
 
 ## C\#
 
@@ -82,39 +94,27 @@ Apple's apology for Objective-C.
 
 ## Kotlin
 
-The alternative to Java, when you still need your code to run on Android.
+Jetbrain's apology for Google making everyone write Android apps using Java.
 
 ## VisualBasic
 
-Microsoft's idea of a high level scripting language. Mostly found in Excel macros.
-
-## LISP
-
-Apparently amazing, but I don't have a high enough IQ to use it. Let's people define their own domain specific languages. In theory, extremely powerful. In practice, makes reading someone else's code extremely painful. The modern manifestation of this is Clojure.
+Microsoft's idea of a high level scripting language. Mostly found in Excel macros. Visual Basic 6 came with a delightful IDE that allowed you to make windows-looking apps in seconds. It died...
 
 ## Haskell
 
-Supppsed to be even more amazing than LISP, but with an equivalently high learning curve. Writing it feels like doing math.
+The language for lovers of pure functions and complicated types. Writing it feels like doing math.
+
+## Purescript
+
+Haskell, but for building Web pages, instead of proving theorems.
 
 ## F\#
 
 Microsoft's idea of a functional language.
 
-## Idris
-
-Apparently even more amazing than Haskell for weird typing reasons I don't understand.
-
 ## Elm
 
-Haskell, but for building Web pages, instead of proving theorems.
-
-## Purescript
-
-Wait, this is Haskell for building web pages? Ugh. Whatever.
-
-## Ocaml
-
-One of the original functional languages. Some people at Facebook are so excited about it, they're using it for everything.
+Wait, this is Haskell for building web pages? Ugh, whatever. The language that helped me "get" 
 
 ## Matlab
 
@@ -122,7 +122,7 @@ The original engineering/science language. Unparalleled at creating systems I ha
 
 ## Julia
 
-The language scientists should be using today. Fast, understandable and debuggable. The community used to be [filled with jerks](https://danluu.com/julialang/), but [have calmed down now](https://twitter.com/voyageur_techno/status/938490814522572801)?
+The language scientists should be using today. Fast, understandable and debuggable. The community used to be [filled with jerks](https://danluu.com/julialang/), but have calmed down now and are very friendly.
 
 ## Wolfram
 
@@ -130,15 +130,11 @@ A refined Matlab I've never used.
 
 ## Tcl
 
-Supposed to be a higher level alternative to C. Mostly extinct. Last time I saw it was the testing scripts of a telecom company.
+Supposed to be a higher level alternative to C. Mostly extinct, but lives on embedded in various applications. Last time I saw it was the testing scripts of a telecom company.
 
 ## Perl
 
 Wanted an expressive way to do things quickly, but ended up ugly as hell. There's a new version, but I don't trust it.
-
-## Lua
-
-Keeps popping up where I don't expect it, like Game Dev and Deep Learning. Has a JIT so beautiful it makes readers weep.
 
 ## PHP
 
@@ -148,13 +144,33 @@ Designed to help C programmers make web pages. Has slowly gotten better over the
 
 An attempt to put typing into PHP by Facebook to make it faster. Hated by many.
 
+## Lua
+
+Keeps popping up where I don't expect it, like Game Dev and Deep Learning, since it's an easily embeddable language. Has a JIT so beautiful it makes readers weep.
+
+## Erlang
+
+Used by telecom companies and people with super hardcore distributed systems to maintain. Where the Actor model of concurrency comes from.
+
 ## Ruby
 
 Syntactic sugar taken to its conceptual extreme. Adored by the Japanese. Has this thing called meta-programming, which I've never had a need to use, but allowed for the creation of Ruby on Rails which people still swear by for creating websites that need to access and modify a database.
 
+## Crystal
+
+Statically typed, compiled language for Ruby programmers. Because making Ruby fast is so difficult, you sometimes need to write a whole new language.
+
+## Elixir
+
+Created by a Ruby-lover who wanted to use Erlang's BEAM VM with a modern functional language. The new hotest language for building a website.
+
 ## Python
 
 Decided from the beginning to be as understandable as possible. Consequently, has libraries for damn near everything (Deep Learning, scientific computation, statistics, making visual novels... etc). People like to argue about v2 vs. v3, but it's never been a problem for me.
+
+## Nim
+
+Statically typed, compiled language for Python programmers. Because making Python fast is so difficult, you sometimes need to write a whole new language.
 
 ## R
 
@@ -168,10 +184,6 @@ The only thing running on the Web for years now, so people have been working rea
 
 Not technically a language, but adds types to JavaScript which makes it possible to use with an IDE and reduces the number of errors so drastically it feels like a new language. Made me realise I didn't hate static typing, I just hated C++.
 
-## Erlang/Elixir
-
-Used by telecom companies and people with super hardcore distributed systems to maintain. Where the Actor model of concurrency comes from.
-
 ## Bash
 
 Glues a bunch of shell tools together. Occasionally abused to create large-scale programs.
@@ -182,7 +194,11 @@ An object oriented and API-focused shell language from Microsoft. Mainly praised
 
 ## TLA+
 
-Some next-level systems design language I don't understand how to use properly. Currently waiting for [Hillel Wayne](https://hillelwayne.com/) to finish writing his book about it.
+Some next-level systems design language I don't understand how to use properly. Tried working through Hillel's book about it, but got lost. I would someday like to learn how it's related to Alloy.
+
+## AutoHotkey
+
+Language for automating tasks using keyboard shortcuts on Windows. No equivalent on Linux, because the Windows Manager ecosystem is too fragmented.
 
 ## Nock/Hoon
 
@@ -190,9 +206,18 @@ Neo-reactionary language that [lets you turn political enemies into unpersons](h
 
 ## Notes
 
-- [Nobody actually knows what a functional language is](https://twitter.com/Hillelogram/status/962452705280233472?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E1)
-- The trade-off between compiled and interpreted languages is [constantly fluctuating](http://jamie-wong.com/bending-the-pl-curve/) 
+- [Nobody can can agree on what a functional language is](https://twitter.com/Hillelogram/status/962452705280233472?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E1)
+
+- [Nobody can can agree on what an Object Oriented Language is](https://www.hillelwayne.com/post/alan-kay/)
+
+- [Nobody can agree on what makes a language "embeddable"](https://softwareengineering.stackexchange.com/q/403911/98711). Also, embedding a programming language is a different problem than programming an embedded system.
+
+- The trade-off between compiled and interpreted languages is [constantly fluctuating](http://jamie-wong.com/bending-the-pl-curve/)
+
 - It's pretty funny/sad how everyone keeps trying to get away from C++ and it keeps dragging them back. To its credit, the language does keep updating, but it's similar how an amorphous ooze monster absorbing another house is an update.
+
 - No one is sure what programming language to teach first, but it probably isn't C/C++ or Java given [this research](https://quorumlanguage.com/evidence.html).
-- Everyone is trying to make their language easier to visualize. Turns out, it's super hard. A lot of people think it requires designing totally new languages/interfaces. For an overview of these attempts, see [this slideshow](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit?usp=sharing).
+
+- Everyone is trying to make their language easier to visualize. Turns out, it's super hard. A lot of people think it requires designing totally new languages/interfaces. For an overview of these attempts, see [this overview](https://futureofcoding.org/catalog/).
+
 - The biggest leaps in languages come from taking ideas from extensive research. This is really hard to do correctly. Look at [this blog post](https://graydon2.dreamwidth.org/253769.html) summarizing cool things around the corner for more info.
