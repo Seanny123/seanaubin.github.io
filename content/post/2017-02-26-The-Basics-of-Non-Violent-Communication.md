@@ -8,9 +8,9 @@ categories = ["Communication", "Psychology"]
 
 Collaboration and community are an unavoidable part of life. Despite this necessity, interactions between people often end with anger and hurt. You’d think we would have developed a better way of working and connecting with each-other.
 
-Marshall Rosenberg developed Non-Violent Communication (NVC), a set of social approaches, to provide a healthy baseline for communication and understanding. He used NVC in a ton of different conflict situations, ranging from couples therapy to negotiating peace between warring groups.
+Marshall Rosenberg developed Non-Violent Communication (NVC), a set of social approaches, to provide a healthy baseline for communication and understanding. He used NVC in various conflict situations, ranging from couples therapy to negotiating peace between warring groups.
 
-NVC tells you a way of modelling human beings to interact with them in a peaceful and productive matter. It models human beings as having needs and needing empathy. When these needs get violated, emotions like anger and sadness arise. There are some basic needs that everyone shares, like food, water and sleep. There are other basic needs that might vary subjectively from person to person, but are still easy to relate to, like the need for beauty and order. Below are some examples I’ve adapted from “Living Nonviolent Communication: Practical Tools to Connect and Communicate Skillfully in Every Situation” by Marshall Rosenberg:
+NVC tells you a way of modelling human beings to interact with them in a peaceful and productive matter. It models human beings as having needs and needing empathy. When these needs get violated, emotions like anger and sadness arise. There are some basic needs that everyone shares, like food, water and sleep. There are other basic needs that might vary subjectively from person to person, but are still easy to relate to, like the need for beauty and order. Below are some examples I’ve adapted from "Living Nonviolent Communication: Practical Tools to Connect and Communicate Skillfully in Every Situation" by Marshall Rosenberg:
 
 > **Physical Nurturance** Rest, food/water, air, shelter, touch, protection from life-threatening danger, movement/exercise
 
@@ -24,9 +24,9 @@ NVC tells you a way of modelling human beings to interact with them in a peacefu
 
 > **Abstract values** Beauty, order, harmony, peace, inspiration
 
-Given that human beings have needs, when you are interacting with someone who is angry or sad, you might think you should try to address those needs directly. Unfortunately, it's not so simple! By targeting needs, you are likely to misunderstand them and cause frustration. There are too many needs to intuit them! Furthermore, people need their emotions addressed before they can stop being defensive and identify their own needs via introspection. In other words, peaceful interaction comes from showing empathy by acknowledging feelings and then trying to address needs.
+Given that human beings have needs, when you are interacting with someone who is angry or sad, you might think you should try to address those needs directly. Unfortunately, it's not so simple! By targeting needs, you are likely to misunderstand them and cause frustration. There are too many needs to intuit them consistently! Furthermore, people need their emotions addressed before they can stop being defensive and identify their own needs via introspection. In other words, peaceful interaction comes from showing empathy by acknowledging feelings and then trying to address needs.
 
-Basically, the process can be broken down as:
+The following table breaks down the steps, from feelings to need identification and action. Read it from left to right, as well as top to bottom, as if you are the person initiating the process:
 
 <table class="pure-table pure-table-bordered">
   <tbody>
@@ -41,29 +41,29 @@ Basically, the process can be broken down as:
       <th colspan="2">1. Observations</td>
     </tr>
     <tr>
-      <td>What I observe that brings up feelings/emotions, either positive or negative: <em>“When I (see, hear)…”</em></td>
-      <td>What you observe that brings up feelings/emotions, either positive or negative: <em>“When you (see, hear)…”</em></td>
+      <td>What I observe that brings up feelings/emotions, either positive or negative: <em>"When I (see, hear)…"</em></td>
+      <td>What you observe that brings up feelings/emotions, either positive or negative: <em>"When you (see, hear)…"</em></td>
     </tr>
     <tr>
       <th colspan="2">2. Feelings</td>
     </tr>
     <tr>
-      <td>How I feel (emotion or sensation, not a thought) about what I observe: <em>“I feel…”</em></td>
-      <td>How you feel (emotion or sensation, not a thought) about what I observe: <em>“You feel…”</em></td>
+      <td>How I feel (emotion or sensation, not a thought) about what I observe: <em>"I feel…"</em></td>
+      <td>How you feel (emotion or sensation, not a thought) about what I observe: <em>"You feel…"</em></td>
     </tr>
     <tr>
       <th colspan="2">3. Needs</td>
     </tr>
     <tr>
-      <td>What I value or a need I have (not recommending a preference or specific action) that causes the feeling: <em>“because I need/value…”</em></td>
-      <td>What you value or a need you have (not recommending a preference or specific action) that causes the feeling: <em>“because I need/value…”</em></td>
+      <td>What I value or a need I have (not recommending a preference or specific action) that causes the feeling: <em>"because I need/value…"</em></td>
+      <td>What you value or a need you have (not recommending a preference or specific action) that causes the feeling: <em>"because I need/value…"</em></td>
     </tr>
     <tr>
       <th colspan="2">4. Requests</td>
     </tr>
     <tr>
-      <td>Concrete actions I would like taken: <em>“Would you be willing to...”</em></td>
-      <td>Concrete actions I would like taken: <em>“Would you like if...”</em></td>
+      <td>Concrete actions I would like taken: <em>"Would you be willing to..."</em></td>
+      <td>Concrete actions you would like taken: <em>"Would you like if..."</em></td>
     </tr>
   </tbody>
 </table>
@@ -85,15 +85,15 @@ This seems simple enough, but [there are some pitfalls to avoid](http://rest-is-
 
 My favourite example comes from Marshall’s peace-keeping work, which I’ve adapted below from [one of his interviews](http://www.inquiringmind.com/Articles/Peacemaker.html). Try to see how the four steps noted above are used in the scenario.
 
-> About eight years ago, I was mediating between a Muslim tribe and a Christian tribe in northern Nigeria. In their conflict, a quarter of the population had been killed. At that time, they were fighting about how many places in the marketplace each side would have to display their products. I started the reconciliation process with them by saying that I was confident that if we could hear each other’s needs, we could find a way to get everybody’s needs met. Inviting whoever wanted to start, I asked: “What needs of yours are not getting met?” The chief from the Christian tribe screamed, “You people are murderers!” Notice that when I asked him what needs weren’t getting met, his response was to tell me what was wrong with the other side. This provoked a counter judgement. Somebody on the Muslim side screamed back, “You’ve been trying to dominate us! We’re not going to tolerate it any more!”
+> About eight years ago, I was mediating between a Muslim tribe and a Christian tribe in northern Nigeria. In their conflict, a quarter of the population had been killed. At that time, they were fighting about how many places in the marketplace each side would have to display their products. I started the reconciliation process with them by saying that I was confident that if we could hear each other’s needs, we could find a way to get everybody’s needs met. Inviting whoever wanted to start, I asked: "What needs of yours are not getting met?" The chief from the Christian tribe screamed, "You people are murderers!" Notice that when I asked him what needs weren’t getting met, his response was to tell me what was wrong with the other side. This provoked a counter judgement. Somebody on the Muslim side screamed back, "You’ve been trying to dominate us! We’re not going to tolerate it any more!"
 
-> Because our training is based on the assumption that all violent language is a tragic expression of unmet needs, when the chiefs finished screaming, my job was to translate the enemy image of “murderer” into language describing the needs of the person who screamed. I said, “Chief, are you saying that your need for safety is not being met and you want some agreement that no matter what the conflict, that it be resolved some way other than violence?” He looked shocked for a moment because this is different from how people are trained to think. Then he said, “That’s exactly right!”
+> Because our training is based on the assumption that all violent language is a tragic expression of unmet needs, when the chiefs finished screaming, my job was to translate the enemy image of "murderer" into language describing the needs of the person who screamed. I said, "Chief, are you saying that your need for safety is not being met and you want some agreement that no matter what the conflict, that it be resolved some way other than violence?" He looked shocked for a moment because this is different from how people are trained to think. Then he said, "That’s exactly right!"
 
-> But getting the chief to acknowledge his need wasn’t enough. I had to get the Muslim side to see through their enemy image. I said, “Would somebody on the other side please tell me what you heard the chief say his needs were?”
+> But getting the chief to acknowledge his need wasn’t enough. I had to get the Muslim side to see through their enemy image. I said, "Would somebody on the other side please tell me what you heard the chief say his needs were?"
 
-> A gentleman from the Muslim tribe screamed back, “Then why did you kill my son?” In fact, there were several others in the Muslim tribe who knew that someone present had killed one of their children. So there were a lot of feelings. The Muslim tribe had to put down their rage long enough to hear the needs of the Christian tribe. And that wasn’t easy. I had to give them some empathy before they could do that. But finally I got them to hear just one simple thing, that the Christian tribe had said they had a need for safety.
+> A gentleman from the Muslim tribe screamed back, "Then why did you kill my son?" In fact, there were several others in the Muslim tribe who knew that someone present had killed one of their children. So there were a lot of feelings. The Muslim tribe had to put down their rage long enough to hear the needs of the Christian tribe. And that wasn’t easy. I had to give them some empathy before they could do that. But finally I got them to hear just one simple thing, that the Christian tribe had said they had a need for safety.
 
-> It took me about an hour and a half to get both sides to release the enemy image long enough to hear a need of the other side. At that point, one of the chiefs came up and said to me, “If we know how to communicate this way, we don’t have to kill each other!”
+> It took me about an hour and a half to get both sides to release the enemy image long enough to hear a need of the other side. At that point, one of the chiefs came up and said to me, "If we know how to communicate this way, we don’t have to kill each other!"
 
 You can see how the steps of observation (obvious hostility between the groups), feelings (vocalising feelings and making sure each party is actually hearing them), needs (need for safety and independence) and omitted requests/suggestions.
 
