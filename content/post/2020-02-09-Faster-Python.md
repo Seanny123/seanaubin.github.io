@@ -96,4 +96,4 @@ If the function causing the bottleneck looks like it can keep expanding in scope
 
 I'm really cheering for Nim and Julia to keep getting better. They both have sustainable forms of funding, so the hope is still alive!
 
-I will report back with another blog post
+I will report back with another blog post, once I am more experienced.
