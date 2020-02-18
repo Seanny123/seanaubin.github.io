@@ -72,7 +72,7 @@ This seems simple enough, but [there are some pitfalls to avoid](http://rest-is-
 
 > **Blame** Ourselves or others.
 
-> **Judgement** Don’t make a global description of the person or yourself.
+> **Judgment** Don’t make a global description of the person or yourself.
 
 > **Denial of Responsibility** Don’t attribute things to outside factors.
 
@@ -85,7 +85,7 @@ This seems simple enough, but [there are some pitfalls to avoid](http://rest-is-
 
 My favourite example comes from Marshall’s peace-keeping work, which I’ve adapted below from [one of his interviews](http://www.inquiringmind.com/Articles/Peacemaker.html). Try to see how the four steps noted above are used in the scenario.
 
-> About eight years ago, I was mediating between a Muslim tribe and a Christian tribe in northern Nigeria. In their conflict, a quarter of the population had been killed. At that time, they were fighting about how many places in the marketplace each side would have to display their products. I started the reconciliation process with them by saying that I was confident that if we could hear each other’s needs, we could find a way to get everybody’s needs met. Inviting whoever wanted to start, I asked: "What needs of yours are not getting met?" The chief from the Christian tribe screamed, "You people are murderers!" Notice that when I asked him what needs weren’t getting met, his response was to tell me what was wrong with the other side. This provoked a counter judgement. Somebody on the Muslim side screamed back, "You’ve been trying to dominate us! We’re not going to tolerate it any more!"
+> About eight years ago, I was mediating between a Muslim tribe and a Christian tribe in northern Nigeria. In their conflict, a quarter of the population had been killed. At that time, they were fighting about how many places in the marketplace each side would have to display their products. I started the reconciliation process with them by saying that I was confident that if we could hear each other’s needs, we could find a way to get everybody’s needs met. Inviting whoever wanted to start, I asked: "What needs of yours are not getting met?" The chief from the Christian tribe screamed, "You people are murderers!" Notice that when I asked him what needs weren’t getting met, his response was to tell me what was wrong with the other side. This provoked a counter judgment. Somebody on the Muslim side screamed back, "You’ve been trying to dominate us! We’re not going to tolerate it any more!"
 
 > Because our training is based on the assumption that all violent language is a tragic expression of unmet needs, when the chiefs finished screaming, my job was to translate the enemy image of "murderer" into language describing the needs of the person who screamed. I said, "Chief, are you saying that your need for safety is not being met and you want some agreement that no matter what the conflict, that it be resolved some way other than violence?" He looked shocked for a moment because this is different from how people are trained to think. Then he said, "That’s exactly right!"
 
@@ -95,7 +95,7 @@ My favourite example comes from Marshall’s peace-keeping work, which I’ve ad
 
 > It took me about an hour and a half to get both sides to release the enemy image long enough to hear a need of the other side. At that point, one of the chiefs came up and said to me, "If we know how to communicate this way, we don’t have to kill each other!"
 
-You can see how the steps of observation (obvious hostility between the groups), feelings (vocalising feelings and making sure each party is actually hearing them), needs (need for safety and independence) and omitted requests/suggestions.
+You can see how the steps of observation (obvious hostility between the groups), feelings (vocalizing feelings and making sure each party is actually hearing them), needs (need for safety and independence) and omitted requests/suggestions.
 
 Unless you live in a conflict zone, you’re probably going to need to find different ways of going through this process that feel more natural to you. This being a personal journey, I can’t really advise on how to do this, but I can say that it does take practice.
 
