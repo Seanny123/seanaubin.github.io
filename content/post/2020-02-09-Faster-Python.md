@@ -1,6 +1,6 @@
 +++
 title = "Faster Scientific Python"
-subtitle = "When you're computation-bound, what do you do?"
+subtitle = "When you're computation-bound, what are your options?"
 date = "2020-02-09"
 categories = ["Programming", "Software"]
 +++
@@ -9,11 +9,40 @@ categories = ["Programming", "Software"]
 
 # Bottlenecks
 
-Python isn't the fastest programming language out there. It's interpreted and it's interpreter is [purposefully dumb](https://nullprogram.com/blog/2019/02/24/). This is usually fine, because you're just trying to ship a gosh-darned website or quickly whip together a data-cleaning pipeline. Typically, other bottlenecks, such as network speed, memory access times, algorithmic limitatoins or user perception are important.
+Python isn't known for it's speed. It has a [purposefully dumb interpreter](https://nullprogram.com/blog/2019/02/24/) which is get blown out of the water, both in throughput, memory consumption and start-up speed, by almost all compiled languages. This is usually fine, because you're just trying to ship a gosh-darned website or quickly whip together a data-cleaning pipeline. Typically, other bottlenecks, such as network speed, memory access times, algorithmic approach, ability to scale across multiple machines or user perception take precedence.
 
-But sometimes, the throughput of your code and it's memory consumption is an actual limitation. In my experience, this typically happens when you're dealing with scientific code.
+But sometimes, the throughput of your code and it's memory consumption on a single CPU-only machine is the primary limitation. In my experience, this typically happens when you're dealing with scientific code. Specifically, when you're operating on large collections of array-structured data, often using the Numpy and Pandas libraries.
 
-For example, Python has been a computational bottleneck for me when I was implementing Dynamic Time Warping and when developping the Nengo CPU backend.
+For example, Python has been a computational bottleneck for me when I was [implementing Dynamic Time Warping](https://github.com/Seanny123/pydtw) and when developing the [Nengo](https://www.nengo.ai/) CPU backend.
+
+## Getting the details right
+
+Before going wild with alternative interpreters, libraries or even a totally new language, it's important to make sure you're using Numpy and Pandas correctly.
+
+### Proper use of Numpy and Pandas APIs
+
+I assume you've already seen for yourself how Numpy and Pandas are faster than raw Python code. The internals of [how they do things faster](https://towardsdatascience.com/decoding-the-performance-secret-of-worlds-most-popular-data-science-library-numpy-7a7da54b7d72) is outside of the scope of this post. Basically, Pandas and Numpy store tables and arrays in a special format which allows for quick access from memory, takes up little space and run super fast in parallel using specialized CPU instructions.
+
+However, Numpy and Pandas are only fast for certain use cases. Specifically, when writing Numpy and Pandas code, it is important to:
+
+1. Avoid loops; they’re slow and often  unnecessary.
+
+2. If you must loop, use built-in iterators, such as `group_by()` and `apply()`, instead of iterating over structures.
+
+3. Operate on the whole array, series or DataFrame without indexing or iteration. This is typically called "vectorisation".
+
+This is covered in greater depth in [this Pandas](https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6) and [this Numpy](https://scipy-lectures.org/advanced/optimizing/index.html#writing-faster-numerical-code) blog-post.
+If you're using the Numpy and Pandas libraries, you gotta use them right.
+
+If you're having trouble with vectorisation and using features correctly, I recommend posting questions on Code Review StackExchange. It helped me understand [Numpy vectorisation techniques](https://data.stackexchange.com/codereview/query/1197665/codereview-numpy) and [Pandas `group_by()`](https://codereview.stackexchange.com/q/166141/39441).
+
+### Backends
+
+Pandas and Numpy are essentially high-level interfaces to libraries of highly optimized numerical operations, such as MKL, OpenBLAS and Atlas. The performance of these libraries is extremely hardware-dependent. For example, MKL tends to work poorly on AMD hardware and should be replaced with OpenBLAS. In my experience, the easiest way to do this is by installing `numpy` with `conda`. However, if you really need every ounce of performance possible, each backend should be profiled and considered.
+
+Sometimes using vectorized Numpy code isn't enough and you need to get weird. For example, Nengo implemented a computational graph compiler, discussed in [this PR](https://github.com/nengo/nengo/pull/1035) and [this paper](http://compneuro.uwaterloo.ca/publications/gosmann2017.html). Basically, many small Numpy computations were combined into fewer Numpy computations operating on larger arrays. This allowed the code to spend less time in Python and more time running Numpy routines.
+
+Although using and configuring gets you quite far, you eventually may need to attack Python's interpreter speed itself.
 
 # Desiderata
 
@@ -27,40 +56,41 @@ Ideally, any method that makes Python faster, should have the following features
 
 ## Using a different interpreter
 
-Python's defaut interpreter is CPython. There are alternative interpreters, such as Jython (for integrating with Java applications) and IronPython (for integrating with .Net applications), but the most up-to-date interpreter is PyPy. PyPy makes Python a JIT compiled language, which greatly improves it's performance, both in terms of computational throughput and memory usage. However, PyPy has limited compatibility with CPython C API, which means certain modules cannot be run. For example, as of time of writing, Matplotlib is not supported, but support for Numpy was recently added.
+Python's default interpreter is CPython. There are alternative interpreters, such as Jython (for integrating with Java applications) and IronPython (for integrating with .Net applications), but the most up-to-date interpreter is PyPy. PyPy makes Python a JIT compiled language, which greatly improves it's performance, both in terms of computational throughput and memory usage. However, PyPy has limited compatibility with CPython C API, which means certain modules cannot be run. For example, as of time of writing, Matplotlib is not supported, but support for Numpy was recently added.
 
-This was attempted with Nengo a couple of years ago, but certain Numpy functionality was not supported. I would definitely try it for a new project.
+This was [attempted with Nengo](https://github.com/nengo/nengo/pull/1166) a couple of years ago, but certain Numpy functionality was not supported. I would definitely try it for a new project.
 
 ## Staying in the Python ecosystem
 
-### [`mypy.c`](https://github.com/python/mypy/tree/master/mypyc)
+### [mypy.c](https://github.com/python/mypy/tree/master/mypyc)
 
 Python supports type annotations (also called "type-hints") using MyPy, which has been included in the core Python release, as of 3.5. Although the CPython interpreter [cannot be made faster](https://stackoverflow.com/q/43859626/1079075) with type-hints, type-hints can be used to compile Python code into Python C extensions.
 
-This is currently being used in the Black Python auto-formatter.
+This is currently being used in Black, the opinionated Python auto-formatter.
 
-### cython
+### Cython
 
-If your Python code runs, then your Cython code will run. But you won't be able to debug it?
+If your Python code runs, then your Cython code will run. But you won't be able to debug it? Cython has explicit support for Numpy and Pandas datatypes.
 
-There is the cydb, but that isn't a graphical debugger. I never got comfortable with command-line debuggers.
-
+There is the `cydb`, but that isn't a graphical debugger. I never got comfortable with command-line debuggers, but Cython may force me to finally make the plunge.
 
 ### Numba
 
-Numba is weird and I don't understand it. But it helped make Nengo way faster.
+Numba is weird and I don't understand it. But it [helped make Nengo way faster](https://github.com/nengo/nengo/pull/1482).
+
+For more on using Pandas with Cython and Numba, see [the official docs](https://pandas.pydata.org/pandas-docs/stable/user_guide/enhancingperf.html#using-numba).
 
 ## Using a different language
 
 If I absolutely must leave the Python ecosystem, I would like to still have:
 
 - Sane developer tooling, like a package manager and graphical debugger
-- Similar syntax which would still be legible to a Python developper
+- Similar syntax which would still be legible to a Python developer
 - Easily distributable to my co-workers
 
-For example, I would consider Haskell's syntax to not be legible to the average Python developer and would consider Zig's tooling to not be mature enough.
+For example, I would consider Haskell's syntax to be illegible to the average Python developer and would consider Zig's tooling to not be mature enough.
 
-To be clear, this use case considers using Python to call a function written in another language. My co-workers know Python. I'm not making them learn a whole new programming language. I'm not rewriting our whole code-base for this project in a new language
+To be clear, this use case considers using Python to call a function written in another language. My co-workers know Python. I'm not making them learn a whole new programming language.
 
 ### Julia
 
@@ -70,7 +100,7 @@ Maybe one day Julia will replace Python for High-Performance Computing problems,
 
 ### C/C++
 
-I'd really rather not. My ex-flatmate frequently said Julia was equivalent to C++ and I cannot yet articulate why I disagree with him. I mean, I can cite [a bunch of tweets](https://twitter.com/i/moments/1226639307710095360) from people smarter than I, but I don't feel like that's a very articulate argument.
+I'd really rather not. My ex-flatmate frequently said Julia was equivalent to C++ and I cannot yet articulate why I disagree with him. I mean, I can cite [a bunch of tweets](https://twitter.com/i/moments/1226639307710095360) from people smarter than I, but I don't feel like that's a very cogent argument.
 
 ### Go
 
