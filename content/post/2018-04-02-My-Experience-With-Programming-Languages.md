@@ -218,6 +218,6 @@ Neo-reactionary language that [lets you turn political enemies into unpersons](h
 
 - No one is sure what programming language to teach first, but it probably isn't C/C++ or Java given [this research](https://quorumlanguage.com/evidence.html).
 
-- Everyone is trying to make their language easier to visualize. Turns out, it's super hard. A lot of people think it requires designing totally new languages/interfaces. For an overview of these attempts, see [this overview](https://futureofcoding.org/catalog/).
+- Everyone is trying to make their language easier to visualize. Turns out, it's super hard. A lot of people think it requires designing totally new languages/interfaces. Steven Krouse has made an [excellent overview of previous attempts](https://futureofcoding.org/catalog/).
 
 - The biggest leaps in languages come from taking ideas from extensive research. This is really hard to do correctly. Look at [this blog post](https://graydon2.dreamwidth.org/253769.html) summarizing cool things around the corner for more info.
