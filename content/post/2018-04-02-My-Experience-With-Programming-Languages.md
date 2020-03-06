@@ -46,7 +46,7 @@ Saw the code people were writing in C/C++ and decided to make it easier to write
 
 ## Zig
 
-An alternative to C and Rust, created by a person so convinced they could make a better alternative, that they quite their job and live off donations.
+An alternative to C and Rust. Created by a person so convinced they could make a better alternative, that they quit their job and live off donations.
 
 ## Java
 
@@ -54,7 +54,7 @@ Saw the code people were writing in C/C++ and tried to bring them closer to Smal
 
 ## Go
 
-Google’s alternative to Java and C++. Compiles fast and runs fast, while maintaining [utter contempt](https://twitter.com/16kbps/status/1195081752659865615?s=20) for developper's ability to learn new skills.
+Google’s alternative to Java and C++. Compiles fast and runs fast, while maintaining [utter contempt](https://twitter.com/16kbps/status/1195081752659865615?s=20) for developer's ability to learn new skills.
 
 ## Basic
 
@@ -104,17 +104,17 @@ Microsoft's idea of a high level scripting language. Mostly found in Excel macro
 
 The language for lovers of pure functions and complicated types. Writing it feels like doing math.
 
-## Purescript
-
-Haskell, but for building Web pages, instead of proving theorems.
-
 ## F\#
 
 Microsoft's idea of a functional language.
 
+## Purescript
+
+Haskell, but for building Web pages, instead of proving theorems.
+
 ## Elm
 
-Wait, this is Haskell for building web pages? Ugh, whatever. The language that helped me "get" 
+Wait, this is Haskell for building web pages? Ugh, whatever. The language that helped me "get" functional programming, because it let me make a gosh darned web-page instead of contemplating the innate beauty of binary trees.
 
 ## Matlab
 
@@ -162,7 +162,7 @@ Statically typed, compiled language for Ruby programmers. Because making Ruby fa
 
 ## Elixir
 
-Created by a Ruby-lover who wanted to use Erlang's BEAM VM with a modern functional language. The new hotest language for building a website.
+Created by a Ruby-lover who wanted to use Erlang's BEAM VM with a modern functional language. The new hottest language for building a website.
 
 ## Python
 
@@ -182,7 +182,7 @@ The only thing running on the Web for years now, so people have been working rea
 
 ## TypeScript
 
-Not technically a language, but adds types to JavaScript which makes it possible to use with an IDE and reduces the number of errors so drastically it feels like a new language. Made me realise I didn't hate static typing, I just hated C++.
+Not technically a language, but adds types to JavaScript. This enhances IDE use and reduces the number of errors so drastically it feels like a new language. Made me realise I didn't hate static typing, I just hated C++.
 
 ## Bash
 
@@ -190,7 +190,7 @@ Glues a bunch of shell tools together. Occasionally abused to create large-scale
 
 ## PowerShell
 
-An object oriented and API-focused shell language from Microsoft. Mainly praised/derided for not being Bash.
+An object oriented (returns objects instead of the Unix text-streams approach) and API-focused shell language from Microsoft. Mainly praised/derided for not being Bash.
 
 ## TLA+
 
