@@ -4,7 +4,7 @@ date = "2018-04-02"
 categories = ["Software"]
 +++
 
-I keep seeing comic strips classifying programming languages. They're unavoidably offensive, because it's impossible to say anything about a programming language without offending the language's users. Which makes sense, because you can't help but get emotionally attached to the thing you've been using for years to weave your dreams. It's also super fun to be hyper-critical about programming languages to the point of innacuracy. All programmers have been wronged by their language of choice or found themselves in the depths of debugging hell with a foreign language. How can you *not* resonate with criticism reflecting your pain?
+I keep seeing comic strips classifying programming languages. They're unavoidably offensive, because it's impossible to say anything about a programming language without offending the language's users. Which makes sense, because you can't help but get emotionally attached to the thing you've been using for years to weave your dreams. It's also super fun to be hyper-critical about programming languages to the point of inaccuracy. All programmers have been wronged by their language of choice or found themselves in the depths of debugging hell with a foreign language. How can you *not* resonate with criticism reflecting your pain?
 
 Throwing out all that prior consideration and thoughtfulness, here's my experience with programming languages in no particular order.
 
@@ -30,7 +30,7 @@ Business successor to C. Runs most of the world's banking, insurance and account
 
 ## C++
 
-Successor to C allowing for Object Oriented Programming and templates. The foundation for many essential systems.
+Successor to C allowing for Object Oriented Programming, templates and other more questionable features. The foundation for many essential systems and the cause of [much anguish](https://twitter.com/i/events/1226639307710095360).
 
 ## LISP
 
@@ -46,7 +46,7 @@ Saw the code people were writing in C/C++ and decided to make it easier to write
 
 ## Zig
 
-An alternative to C and Rust. Created by a person so convinced they could make a better alternative, that they quit their job and live off donations.
+An alternative to C, created by eliminating all the horrible parts of C (pre-processor, ridiculous build tools, awkward memory deallocation). Aims for the niche where [C is needed, but Rust is too complicated](https://www.youtube.com/watch?v=eCHM8-_poZY). Created by a person so convinced they could make a better alternative, that they [quit their job and live off donations](https://www.patreon.com/andrewrk).
 
 ## Java
 
@@ -170,7 +170,7 @@ Decided from the beginning to be as understandable as possible. Consequently, ha
 
 ## Nim
 
-Statically typed, compiled language for Python programmers. Because making Python fast is so difficult, you sometimes need to write a whole new language.
+Statically typed, compiled language for Python programmers. Because [making Python fast is so difficult]({{< ref "2020-02-09-Faster-Python.md" >}}), you sometimes need to write a whole new language.
 
 ## R
 
