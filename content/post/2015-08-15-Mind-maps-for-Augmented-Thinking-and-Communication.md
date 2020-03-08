@@ -52,7 +52,7 @@ For example, you’re debating with someone on the Internet about an article abo
 
 Finally, you could also mark certainty of your nodes, so a person can be aware if you want more information on something.
 
-I'm even so arrogant as to think that this technique could also help with [StackOverflow](https://stackoverflow.com/tour) questions! When a noob doesn’t know what the hell they’re doing, we can suggest nodes from our progamming-specific mindmaps for them! And then the noob can understand where I got this knowledge from and how to ask questions about their own nodes!
+I'm even so arrogant as to think that this technique could also help with [StackOverflow](https://stackoverflow.com/tour) questions! When a noob doesn’t know what the hell they’re doing, we can suggest nodes from our programming-specific mindmaps for them! And then the noob can understand where I got this knowledge from and how to ask questions about their own nodes!
 
 Interestingly, I’m not the first one to imagine this. The cognitive scientist Paul Thagard has been writing about this for years in the form of [cognitive-affective maps](http://cogsci.uwaterloo.ca/empathica.html), but he mostly analysed [one-to-one mappings](http://cogsci.uwaterloo.ca/Articles/thagard.2012.values.cogscisci.ch17.pdf) and [discussions](http://cogsci.uwaterloo.ca/Articles/findlay-thagard.emo-change.group-dec.2014.pdf) rather than addressing the complex audiences of the Internet.
 
