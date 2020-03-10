@@ -9,9 +9,9 @@ categories = ["Programming", "Software"]
 
 # Bottlenecks
 
-Python isn't known for it's speed. It has a [purposefully dumb interpreter](https://nullprogram.com/blog/2019/02/24/) which is get blown out of the water, both in throughput, memory consumption and start-up speed, by almost all compiled languages. This is usually fine, because you're just trying to ship a gosh-darned website or quickly whip together a data-cleaning pipeline. Typically, other bottlenecks, such as network speed, memory access times, algorithmic approach, ability to scale across multiple machines or user perception take precedence.
+Python isn't known for it's speed. It has a [purposefully dumb interpreter](https://nullprogram.com/blog/2019/02/24/) which gets blown out of the water (in terms of throughput, memory consumption, and start-up speed) by almost all compiled languages. This is usually fine, because you're just trying to ship a gosh-darned website or quickly whip together a data-cleaning pipeline. Typically, other bottlenecks, such as network speed, memory access times, algorithmic approach, or the ability to scale across multiple machines take precedence.
 
-But sometimes, the throughput of your code and it's memory consumption on a single CPU-only machine is the primary limitation. In my experience, this typically happens when you're dealing with scientific code. Specifically, when you're operating on large collections of array-structured data, often using the Numpy and Pandas libraries.
+But sometimes the throughput of your code and it's memory consumption on a single CPU-only machine _is_ the primary limitation. In my experience, this typically happens when you're dealing with scientific code. Specifically, when you're operating on large collections of array-structured data, often using the Numpy and Pandas libraries.
 
 For example, Python has been a computational bottleneck for me when I was [implementing Dynamic Time Warping](https://github.com/Seanny123/pydtw) and when developing the [Nengo](https://www.nengo.ai/) CPU backend.
 
@@ -42,7 +42,7 @@ Pandas and Numpy are essentially high-level interfaces to libraries of highly op
 
 Sometimes using vectorized Numpy code isn't enough and you need to get weird. For example, Nengo implemented a computational graph compiler, discussed in [this PR](https://github.com/nengo/nengo/pull/1035) and [this paper](http://compneuro.uwaterloo.ca/publications/gosmann2017.html). Basically, many small Numpy computations were combined into fewer Numpy computations operating on larger arrays. This allowed the code to spend less time in Python and more time running Numpy routines.
 
-Although using and configuring gets you quite far, you eventually may need to attack Python's interpreter speed itself.
+Although carefully using and configuring Numpy and Pandas gets you quite far, you may eventually need to attack Python's interpreter speed itself.
 
 # Desiderata
 
@@ -85,26 +85,24 @@ For more on using Pandas with Cython and Numba, see [the official docs](https://
 If I absolutely must leave the Python ecosystem, I would like to still have:
 
 - Sane developer tooling, like a package manager and graphical debugger
-- Similar syntax which would still be legible to a Python developer
+- Similar syntax which would still be legible to a Python developer. I'm not making my co-workers learn a whole new programming language.
 - Easily distributable to my co-workers
 
 For example, I would consider Haskell's syntax to be illegible to the average Python developer and would consider Zig's tooling to not be mature enough.
 
-To be clear, this use case considers using Python to call a function written in another language. My co-workers know Python. I'm not making them learn a whole new programming language.
-
 ### Julia
 
-I love Julia. I love it's aspirations as a language with easy prototyping and performance-tuning capabilities. I love how it combines a pretty nice type-system with metaprogramming capabilities. I love Julia, but I know it's not ready.
+I love Julia. I love it's aspirations as a language with easy prototyping and performance-tuning capabilities. I love how it combines a nice type-system with metaprogramming capabilities. I love Julia, but I know it's not ready.
 
-Maybe one day Julia will replace Python for High-Performance Computing problems, but that day has not yet arrived. Calling Julia from Python is way too hard. I dream of the day where I can compile a subset of Julia to a binary without a PhD in Programming Language Theory and 5 years of experience with LLVM.
+Maybe one day Julia will replace Python for all High-Performance Computing problems, but that day has not yet arrived. Calling Julia from Python is way too hard. I dream of the day where I can compile a subset of Julia to a binary, which would be a lot easier to call from Python, without a PhD in Programming Language Theory and 5 years of experience with LLVM.
 
 ### C/C++
 
-I'd really rather not. My ex-flatmate frequently said Julia was equivalent to C++ and I cannot yet articulate why I disagree with him. I mean, I can cite [a bunch of tweets](https://twitter.com/i/moments/1226639307710095360) from people smarter than I, but I don't feel like that's a very cogent argument.
+I'd really rather not. My ex-flatmate frequently said Julia was equivalent to C++ and I cannot yet articulate why I disagree with him. I mean, I can cite [a bunch of tweets](https://twitter.com/i/moments/1226639307710095360) from people smarter than I, but that's not a very cogent argument.
 
 ### Go
 
-The new hotness for parallel systems, Go. It doesn't look like Python and does have limitations in terms of low-level optimizations, which is a problem for this use-case.
+The new hotness for parallel systems. It doesn't look like Python and does have limitations in terms of low-level optimizations, which is a problem for this use-case.
 
 ### Rust
 
