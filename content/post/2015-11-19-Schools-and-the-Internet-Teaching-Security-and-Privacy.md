@@ -18,7 +18,7 @@ A lot of guides on Internet privacy and security aimed at school kids is the war
 However, when I read materials on the subject, I find two assumptions are made. First, it’s impossible to be anonymous on the Internet. Second, society is right to judge you for anything you do out of line. This freaks me out a little.
 
 {{< figure
-  src="/img/Schools-and-the-Internet-Teaching-Security-and-Privacy_0.png"
+  src="/img/xkcd-dreams-comic.png"
   class=""
   title=""
   caption=""
