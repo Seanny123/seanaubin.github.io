@@ -206,18 +206,4 @@ Neo-reactionary language that [lets you turn political enemies into unpersons](h
 
 ## Notes
 
-- [Nobody can can agree on what a functional language is](https://twitter.com/Hillelogram/status/962452705280233472?ref_src=twcamp%5Eshare%7Ctwsrc%5Em5%7Ctwgr%5Eemail%7Ctwcon%5E7046%7Ctwterm%5E1)
-
-- [Nobody can can agree on what an Object Oriented Language is](https://www.hillelwayne.com/post/alan-kay/)
-
-- [Nobody can agree on what makes a language "embeddable"](https://softwareengineering.stackexchange.com/q/403911/98711). Also, embedding a programming language is a different problem than programming an embedded system.
-
-- The trade-off between compiled and interpreted languages is [constantly fluctuating](http://jamie-wong.com/bending-the-pl-curve/)
-
 - It's pretty funny/sad how everyone keeps trying to get away from C++ and it keeps dragging them back. To its credit, the language does keep updating, but it's similar how an amorphous ooze monster absorbing another house is an update.
-
-- No one is sure what programming language to teach first, but it probably isn't C/C++ or Java given [this research](https://quorumlanguage.com/evidence.html).
-
-- Everyone is trying to make their language easier to visualize. Turns out, it's super hard. A lot of people think it requires designing totally new languages/interfaces. Steven Krouse has made an [excellent overview of previous attempts](https://futureofcoding.org/catalog/).
-
-- The biggest leaps in languages come from taking ideas from extensive research. This is really hard to do correctly. Look at [this blog post](https://graydon2.dreamwidth.org/253769.html) summarizing cool things around the corner for more info.
