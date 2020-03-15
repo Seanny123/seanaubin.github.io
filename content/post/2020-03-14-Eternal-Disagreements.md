@@ -2,6 +2,7 @@
 title = "Eternal Conceptual Disagreements in Programming Languages"
 date = "2020-02-09"
 categories = ["Programming", "Software"]
+draft=true
 +++
 
 Differentiating concrete concepts from vague categories is an essential step to mastering a domain of knowledge. This took me years in Computer Science, because practitioners are more likely to argue in a circular manner, rather than participate in an adversarial collaboration. Thus, for all the noobs out there, here is a list of unanswerable questions, to either steer clear of or to dive into. But at the very least, you should know that if someone claims to have an ultimate answer to any of these questions, they're a gosh-darned liar.
