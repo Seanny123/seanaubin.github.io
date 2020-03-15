@@ -5,7 +5,7 @@ date = "2020-02-09"
 categories = ["Programming", "Software"]
 +++
 
-Differentiating concrete concepts from vague categories is an essential step to mastering a domain of knowledge. This took me years in Computer Science, because practitioners are more likely to argue in a circular manner, rather than participate in an adversarial collaboration. Thus, for all the noobs out there, here is a list of unanswerable questions, to either steer clear of or to dive into. But at the very least, you should know that if someone claims to have an ultimate answer to any of these questions, they're a gosh-darned liar.
+Differentiating concrete concepts from fuzzy categories is an essential step to mastering a domain. This took me years in Computer Science, because practitioners are more likely to argue in a circular manner, rather than participate in an adversarial collaboration. Thus, for all the noobs out there, here is a list of unanswerable questions, to either steer clear of or to dive into. But at the very least, you should know that if someone claims to have an unassailable answer to any of these questions, they're a gosh-darned liar.
 
 # What makes a language functional vs. object-oriented?
 
@@ -79,6 +79,6 @@ Anyways, yeah, properly written C is hard to beat, but not for the reasons typic
 
 Every domain has it's set of languages which battle for supremacy. Data Science is a constant battle between R, Python and Julia. Back-end web developers argue incessantly about the agility of Ruby on Rails and the speed of Go. Furthermore, new languages are constantly [emerging from academia to change the landscape of what's possible](https://graydon2.dreamwidth.org/253769.html), so this paragraph is probably out of date by the time I've published it.
 
-Ideally, teaching basic Computer Science concepts, such as functions and variables, would have found an ideal language by now. However, as shown by the researchers of the Quorum language, [very little empirical evidence](https://quorumlanguage.com/evidence.html) has been collected on this problem.
+Ideally, teaching basic Computer Science concepts, such as functions and variables, should have found an agreed-upon language. However, as shown by the researchers of the Quorum language, [very little empirical evidence](https://quorumlanguage.com/evidence.html) has been collected on this problem.
 
-But maybe syntax and error messages are secondary to visualisation? Tooling a language for visualization is called Projectional or Structured Editing. Allowing the manipulation of that visualisation to modify the code that generated it is called Bidirectional Manipulation. All of these problems are incredibly challenging. A lot of people think it requires designing totally new languages/interfaces. Steven Krouse has made an [excellent overview of previous attempts](https://futureofcoding.org/catalog/).
+But maybe syntax and error messages are secondary to visualisation? Tooling a language for visualization is called Projectional or Structured Editing. Allowing the manipulation of that visualisation to modify the code that generated it is called Bidirectional Manipulation. All of these problems are incredibly challenging. Many people think this problem requires designing totally new languages and interfaces. Steven Krouse has made an [excellent overview of previous attempts](https://futureofcoding.org/catalog/).
